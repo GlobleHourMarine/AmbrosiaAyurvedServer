@@ -1,0 +1,291 @@
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1048</p><p>Column 'user_id' cannot be null</p><p>INSERT INTO `payment_table` (`user_id`, `payment_id`, `order_id`, `phonepe_order_id`, `status`, `amount`, `payable_amount`, `fee_amount`, `created_at`, `date`, `transaction_id`, `payment_mode`, `ifsc_code`, `account_type`, `rail_type`, `utr_number`, `upi_transection_id`) VALUES (NULL, 1201, 'ORDER_1754045619', 'OMO2508011623392718310219', 'COMPLETED', 100, 100, 0, '2025-08-01 10:54:12', '2025-08-01', 'OM2508011623413247434166', 'UPI_QR', 'PSIB0000047', 'SAVINGS', 'UPI', '109052569644', 'HDFdfb2ac21b2ba40258f6dbb9193c23234')</p><p>Filename: models/Payment_model.php</p><p>Line Number: 35</p>	</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1048</p><p>Column 'user_id' cannot be null</p><p>INSERT INTO `payment_table` (`user_id`, `payment_id`, `order_id`, `phonepe_order_id`, `status`, `amount`, `payable_amount`, `fee_amount`, `created_at`, `date`, `transaction_id`, `payment_mode`, `ifsc_code`, `account_type`, `rail_type`, `utr_number`, `upi_transection_id`) VALUES (NULL, 1201, 'ORDER_1754045749', 'OMO2508011625499767103905', 'COMPLETED', 100, 100, 0, '2025-08-01 10:56:02', '2025-08-01', 'OM2508011625525678283702', 'UPI_QR', 'SBIN0017830', 'SAVINGS', 'UPI', '521384615235', 'ICId881411345b642689f62e729203ee77c')</p><p>Filename: models/Payment_model.php</p><p>Line Number: 35</p>	</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1048</p><p>Column 'user_id' cannot be null</p><p>INSERT INTO `payment_table` (`user_id`, `payment_id`, `order_id`, `phonepe_order_id`, `status`, `amount`, `payable_amount`, `fee_amount`, `created_at`, `date`, `transaction_id`, `payment_mode`, `ifsc_code`, `account_type`, `rail_type`, `utr_number`, `upi_transection_id`) VALUES (NULL, 1201, 'ORDER_1754045821', 'OMO2508011627018738283023', 'COMPLETED', 100, 100, 0, '2025-08-01 10:57:09', '2025-08-01', 'OM2508011627038592023700', 'UPI_QR', 'SBIN0017830', 'SAVINGS', 'UPI', '521338514668', 'ICId5d36ae4028a433394adebd1b0084783')</p><p>Filename: models/Payment_model.php</p><p>Line Number: 35</p>	</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Database Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>A Database Error Occurred</h1>
+		<p>Error Number: 1048</p><p>Column 'user_id' cannot be null</p><p>INSERT INTO `payment_table` (`user_id`, `payment_id`, `order_id`, `phonepe_order_id`, `status`, `amount`, `payable_amount`, `fee_amount`, `created_at`, `date`, `transaction_id`, `payment_mode`, `ifsc_code`, `account_type`, `rail_type`, `utr_number`, `upi_transection_id`) VALUES (NULL, 1201, '', '', '', 0, 0, 0, '2025-08-01 11:03:14', '2025-08-01', '', '', '', '', '', '', '')</p><p>Filename: models/Payment_model.php</p><p>Line Number: 35</p>	</div>
+</body>
+</html>
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}
+{"status":"received","success":true}

@@ -1,0 +1,207 @@
+Array
+(
+    [id] => 6
+    [order_id] => ORDER_1754038555
+    [fname] => mohit
+    [lname] => verma
+    [email] => mohitnirania890@gmail.com
+    [phone] => 8005825615
+    [address] => sriganganger rajasthan
+    [city] => 12z
+    [state] => Rajasthan
+    [pincode] => 335001
+    [country] => India
+    [payment_method] => Prepaid
+    [product_data] => stdClass Object
+        (
+            [product_14] => stdClass Object
+                (
+                    [product_id] => 14
+                    [name] => A5 – Herbal Supplement
+                    [price] => 5600
+                    [quantity] => 5
+                    [pack_id] => 
+                    [pack_qty] => 1
+                    [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+                )
+
+        )
+
+    [subtotal] => 28000
+    [created_at] => 2025-08-01 08:56:07
+)
+stdClass Object
+(
+    [product_14] => stdClass Object
+        (
+            [product_id] => 14
+            [name] => A5 – Herbal Supplement
+            [price] => 5600
+            [quantity] => 5
+            [pack_id] => 
+            [pack_qty] => 1
+            [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+        )
+
+)
+stdClass Object
+(
+    [product_14] => stdClass Object
+        (
+            [product_id] => 14
+            [name] => A5 – Herbal Supplement
+            [price] => 5600
+            [quantity] => 5
+            [pack_id] => 
+            [pack_qty] => 1
+            [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+        )
+
+)
+stdClass Object
+(
+    [product_14] => stdClass Object
+        (
+            [product_id] => 14
+            [name] => A5 – Herbal Supplement
+            [price] => 5600
+            [quantity] => 5
+            [pack_id] => 
+            [pack_qty] => 1
+            [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+        )
+
+)
+stdClass Object
+(
+    [product_14] => stdClass Object
+        (
+            [product_id] => 14
+            [name] => A5 – Herbal Supplement
+            [price] => 5600
+            [quantity] => 2
+            [pack_id] => 
+            [pack_qty] => 1
+            [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+        )
+
+)
+stdClass Object
+(
+    [product_14] => stdClass Object
+        (
+            [product_id] => 14
+            [name] => A5 – Herbal Supplement
+            [price] => 5600
+            [quantity] => 2
+            [pack_id] => 
+            [pack_qty] => 1
+            [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+        )
+
+)
+stdClass Object
+(
+    [product_14] => stdClass Object
+        (
+            [product_id] => 14
+            [name] => A5 – Herbal Supplement
+            [price] => 5600
+            [quantity] => 2
+            [pack_id] => 
+            [pack_qty] => 1
+            [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [product_id] => 14
+            [name] => A5 – Herbal Supplement
+            [price] => 5600
+            [quantity] => 1
+            [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+            [timestamp] => 1754051251753
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [product_id] => 14
+            [name] => A5 – Herbal Supplement
+            [price] => 5600
+            [quantity] => 1
+            [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+            [timestamp] => 1754051932905
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [product_id] => 14
+            [name] => A5 – Herbal Supplement
+            [price] => 5600
+            [quantity] => 1
+            [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+            [timestamp] => 1754052102717
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [product_id] => 14
+            [name] => A5 – Herbal Supplement
+            [price] => 5600
+            [quantity] => 1
+            [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+            [timestamp] => 1754052102717
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [product_id] => 14
+            [name] => A5 – Herbal Supplement
+            [price] => 5600
+            [quantity] => 1
+            [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+            [timestamp] => 1754052102717
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [product_id] => 14
+            [name] => A5 – Herbal Supplement
+            [price] => 5600
+            [quantity] => 1
+            [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+            [timestamp] => 1754114605827
+        )
+
+)
+Array
+(
+    [0] => stdClass Object
+        (
+            [product_id] => 14
+            [name] => A5 – Herbal Supplement
+            [price] => 5600
+            [quantity] => 1
+            [image] => uploads/979f1f1eefc87a93c457a144830606f8.png
+            [timestamp] => 1754246670672
+        )
+
+)

@@ -1,0 +1,57 @@
+Array
+(
+    [pickup_status] => 1
+    [response] => Array
+        (
+            [pickup_token_number] => 
+            [pickup_scheduled_date] => 2025-08-02 09:00:00
+            [status] => 3
+            [pickup_generated_date] => Array
+                (
+                    [date] => 2025-08-01 14:55:08.000000
+                    [timezone_type] => 3
+                    [timezone] => Asia/Kolkata
+                )
+
+            [data] => Pickup is confirmed by Shiprocket Surface For AWB :- 19041782234816
+        )
+
+)
+Array
+(
+    [pickup_status] => 1
+    [response] => Array
+        (
+            [pickup_token_number] => 
+            [pickup_scheduled_date] => 2025-08-02 09:00:00
+            [status] => 3
+            [pickup_generated_date] => Array
+                (
+                    [date] => 2025-08-01 14:59:30.000000
+                    [timezone_type] => 3
+                    [timezone] => Asia/Kolkata
+                )
+
+            [data] => Pickup is confirmed by Shiprocket Surface For AWB :- 19041782235973
+        )
+
+)
+Array
+(
+    [pickup_status] => 1
+    [response] => Array
+        (
+            [pickup_token_number] => 
+            [pickup_scheduled_date] => 2025-08-02 09:00:00
+            [status] => 3
+            [pickup_generated_date] => Array
+                (
+                    [date] => 2025-08-01 16:53:57.000000
+                    [timezone_type] => 3
+                    [timezone] => Asia/Kolkata
+                )
+
+            [data] => Pickup is confirmed by Shiprocket Surface For AWB :- 19041782278441
+        )
+
+)

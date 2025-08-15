@@ -1,0 +1,225 @@
+Array
+(
+    [awb_assign_status] => 1
+    [response] => Array
+        (
+            [data] => Array
+                (
+                    [courier_company_id] => 637
+                    [awb_code] => 19041782234816
+                    [cod] => 0
+                    [order_id] => 914412994
+                    [shipment_id] => 910714076
+                    [awb_code_status] => 1
+                    [assigned_date_time] => Array
+                        (
+                            [date] => 2025-08-01 14:55:07.000000
+                            [timezone_type] => 3
+                            [timezone] => Asia/Kolkata
+                        )
+
+                    [applied_weight] => 0.1
+                    [company_id] => 6517139
+                    [courier_name] => Shiprocket Surface
+                    [child_courier_name] => 
+                    [freight_charges] => 63
+                    [routing_code] => HMN/DMI
+                    [rto_routing_code] => 
+                    [invoice_no] => Retail00059
+                    [transporter_id] => 06AAPCS9575E1ZR
+                    [transporter_name] => Delhivery
+                    [shipped_by] => Array
+                        (
+                            [shipper_company_name] => Yogesh Singh
+                            [shipper_address_1] => 29B, 3rd Floor
+                            [shipper_address_2] => Motia Royal Business Park
+                            [shipper_city] => Mohali
+                            [shipper_state] => Punjab
+                            [shipper_country] => India
+                            [shipper_postcode] => 140603
+                            [shipper_first_mile_activated] => 0
+                            [shipper_phone] => 8000057233
+                            [lat] => 30.6329334
+                            [long] => 76.8247452
+                            [shipper_email] => ambrosiaayurved@gmail.com
+                            [extra_info] => Array
+                                (
+                                    [role] => Warehouse Manager
+                                    [source] => 1
+                                    [open_time] => 10:00 AM
+                                    [close_time] => 6:00 PM
+                                    [select_days] => ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+                                    [alternate_name] => 
+                                    [alternate_role] => 
+                                    [alternate_email] => 
+                                    [shiprocket_surface_clientware_id] => KARTROCKETSMALL SURFACE-Mohali-140603-Yogesh Singh-6517139-8504978
+                                )
+
+                            [rto_company_name] => Yogesh Singh
+                            [rto_address_1] => 29B, 3rd Floor
+                            [rto_address_2] => Motia Royal Business Park
+                            [rto_city] => Mohali
+                            [rto_state] => Punjab
+                            [rto_country] => India
+                            [rto_postcode] => 140603
+                            [rto_phone] => 8000057233
+                            [rto_email] => ambrosiaayurved@gmail.com
+                        )
+
+                )
+
+        )
+
+    [no_pickup_popup] => 0
+    [quick_pick] => 0
+)
+Array
+(
+    [awb_assign_status] => 1
+    [response] => Array
+        (
+            [data] => Array
+                (
+                    [courier_company_id] => 637
+                    [awb_code] => 19041782235973
+                    [cod] => 0
+                    [order_id] => 914417331
+                    [shipment_id] => 910718412
+                    [awb_code_status] => 1
+                    [assigned_date_time] => Array
+                        (
+                            [date] => 2025-08-01 14:59:29.000000
+                            [timezone_type] => 3
+                            [timezone] => Asia/Kolkata
+                        )
+
+                    [applied_weight] => 0.1
+                    [company_id] => 6517139
+                    [courier_name] => Shiprocket Surface
+                    [child_courier_name] => 
+                    [freight_charges] => 63
+                    [routing_code] => HMN/DMI
+                    [rto_routing_code] => 
+                    [invoice_no] => Retail00060
+                    [transporter_id] => 06AAPCS9575E1ZR
+                    [transporter_name] => Delhivery
+                    [shipped_by] => Array
+                        (
+                            [shipper_company_name] => Yogesh Singh
+                            [shipper_address_1] => 29B, 3rd Floor
+                            [shipper_address_2] => Motia Royal Business Park
+                            [shipper_city] => Mohali
+                            [shipper_state] => Punjab
+                            [shipper_country] => India
+                            [shipper_postcode] => 140603
+                            [shipper_first_mile_activated] => 0
+                            [shipper_phone] => 8000057233
+                            [lat] => 30.6329334
+                            [long] => 76.8247452
+                            [shipper_email] => ambrosiaayurved@gmail.com
+                            [extra_info] => Array
+                                (
+                                    [role] => Warehouse Manager
+                                    [source] => 1
+                                    [open_time] => 10:00 AM
+                                    [close_time] => 6:00 PM
+                                    [select_days] => ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+                                    [alternate_name] => 
+                                    [alternate_role] => 
+                                    [alternate_email] => 
+                                    [shiprocket_surface_clientware_id] => KARTROCKETSMALL SURFACE-Mohali-140603-Yogesh Singh-6517139-8504978
+                                )
+
+                            [rto_company_name] => Yogesh Singh
+                            [rto_address_1] => 29B, 3rd Floor
+                            [rto_address_2] => Motia Royal Business Park
+                            [rto_city] => Mohali
+                            [rto_state] => Punjab
+                            [rto_country] => India
+                            [rto_postcode] => 140603
+                            [rto_phone] => 8000057233
+                            [rto_email] => ambrosiaayurved@gmail.com
+                        )
+
+                )
+
+        )
+
+    [no_pickup_popup] => 0
+    [quick_pick] => 0
+)
+Array
+(
+    [awb_assign_status] => 1
+    [response] => Array
+        (
+            [data] => Array
+                (
+                    [courier_company_id] => 637
+                    [awb_code] => 19041782278441
+                    [cod] => 0
+                    [order_id] => 914538782
+                    [shipment_id] => 910839835
+                    [awb_code_status] => 1
+                    [assigned_date_time] => Array
+                        (
+                            [date] => 2025-08-01 16:53:56.000000
+                            [timezone_type] => 3
+                            [timezone] => Asia/Kolkata
+                        )
+
+                    [applied_weight] => 0.1
+                    [company_id] => 6517139
+                    [courier_name] => Shiprocket Surface
+                    [child_courier_name] => 
+                    [freight_charges] => 63
+                    [routing_code] => HMN/DMI
+                    [rto_routing_code] => 
+                    [invoice_no] => Retail00061
+                    [transporter_id] => 06AAPCS9575E1ZR
+                    [transporter_name] => Delhivery
+                    [shipped_by] => Array
+                        (
+                            [shipper_company_name] => Yogesh Singh
+                            [shipper_address_1] => 29B, 3rd Floor
+                            [shipper_address_2] => Motia Royal Business Park
+                            [shipper_city] => Mohali
+                            [shipper_state] => Punjab
+                            [shipper_country] => India
+                            [shipper_postcode] => 140603
+                            [shipper_first_mile_activated] => 0
+                            [shipper_phone] => 8000057233
+                            [lat] => 30.6329334
+                            [long] => 76.8247452
+                            [shipper_email] => ambrosiaayurved@gmail.com
+                            [extra_info] => Array
+                                (
+                                    [role] => Warehouse Manager
+                                    [source] => 1
+                                    [open_time] => 10:00 AM
+                                    [close_time] => 6:00 PM
+                                    [select_days] => ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+                                    [alternate_name] => 
+                                    [alternate_role] => 
+                                    [alternate_email] => 
+                                    [shiprocket_surface_clientware_id] => KARTROCKETSMALL SURFACE-Mohali-140603-Yogesh Singh-6517139-8504978
+                                )
+
+                            [rto_company_name] => Yogesh Singh
+                            [rto_address_1] => 29B, 3rd Floor
+                            [rto_address_2] => Motia Royal Business Park
+                            [rto_city] => Mohali
+                            [rto_state] => Punjab
+                            [rto_country] => India
+                            [rto_postcode] => 140603
+                            [rto_phone] => 8000057233
+                            [rto_email] => ambrosiaayurved@gmail.com
+                        )
+
+                )
+
+        )
+
+    [no_pickup_popup] => 0
+    [quick_pick] => 0
+)

@@ -1,0 +1,135 @@
+Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 3
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 910714076
+                            [awb_code] => 19041782234816
+                            [courier_company_id] => 637
+                            [shipment_id] => 910714076
+                            [order_id] => 914412994
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Pickup Generated
+                            [delivered_to] => Ganganagar
+                            [destination] => Ganganagar
+                            [consignee_name] => mohit
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-01 14:55:09
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/19041782234816
+            [etd] => 2025-08-01 14:55:09
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 3
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 910718412
+                            [awb_code] => 19041782235973
+                            [courier_company_id] => 637
+                            [shipment_id] => 910718412
+                            [order_id] => 914417331
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Pickup Generated
+                            [delivered_to] => Ganganagar
+                            [destination] => Ganganagar
+                            [consignee_name] => mohit
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-01 14:59:30
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/19041782235973
+            [etd] => 2025-08-01 14:59:30
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 3
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 910839835
+                            [awb_code] => 19041782278441
+                            [courier_company_id] => 637
+                            [shipment_id] => 910839835
+                            [order_id] => 914538782
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Pickup Generated
+                            [delivered_to] => Ganganagar
+                            [destination] => Ganganagar
+                            [consignee_name] => mohit
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-01 16:53:58
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/19041782278441
+            [etd] => 2025-08-01 16:53:58
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)

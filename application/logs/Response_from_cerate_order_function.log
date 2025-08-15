@@ -1,0 +1,566 @@
+Array
+(
+    [message] => Wrong number of segments
+    [status_code] => 401
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_id] => Array
+                (
+                    [0] => The order id field is required.
+                )
+
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+            [sub_total] => Array
+                (
+                    [0] => The sub total field is required.
+                )
+
+            [billing_customer_name] => Array
+                (
+                    [0] => The billing customer name field is required
+                )
+
+            [billing_last_name] => Array
+                (
+                    [0] => The billing last name must be a string.
+                )
+
+            [billing_address] => Array
+                (
+                    [0] => The billing address field is required
+                )
+
+            [billing_state] => Array
+                (
+                    [0] => The billing state field is required
+                )
+
+            [billing_country] => Array
+                (
+                    [0] => The billing country field is required
+                )
+
+            [billing_phone] => Array
+                (
+                    [0] => The billing phone field is required.
+                )
+
+            [billing_pincode] => Array
+                (
+                    [0] => The billing pincode field is required
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_id] => Array
+                (
+                    [0] => The order id field is required.
+                )
+
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+            [sub_total] => Array
+                (
+                    [0] => The sub total field is required.
+                )
+
+            [billing_customer_name] => Array
+                (
+                    [0] => The billing customer name field is required
+                )
+
+            [billing_last_name] => Array
+                (
+                    [0] => The billing last name must be a string.
+                )
+
+            [billing_address] => Array
+                (
+                    [0] => The billing address field is required
+                )
+
+            [billing_state] => Array
+                (
+                    [0] => The billing state field is required
+                )
+
+            [billing_country] => Array
+                (
+                    [0] => The billing country field is required
+                )
+
+            [billing_phone] => Array
+                (
+                    [0] => The billing phone field is required.
+                )
+
+            [billing_pincode] => Array
+                (
+                    [0] => The billing pincode field is required
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_id] => Array
+                (
+                    [0] => The order id field is required.
+                )
+
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+            [sub_total] => Array
+                (
+                    [0] => The sub total field is required.
+                )
+
+            [billing_customer_name] => Array
+                (
+                    [0] => The billing customer name field is required
+                )
+
+            [billing_last_name] => Array
+                (
+                    [0] => The billing last name must be a string.
+                )
+
+            [billing_address] => Array
+                (
+                    [0] => The billing address field is required
+                )
+
+            [billing_state] => Array
+                (
+                    [0] => The billing state field is required
+                )
+
+            [billing_country] => Array
+                (
+                    [0] => The billing country field is required
+                )
+
+            [billing_phone] => Array
+                (
+                    [0] => The billing phone field is required.
+                )
+
+            [billing_pincode] => Array
+                (
+                    [0] => The billing pincode field is required
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_id] => Array
+                (
+                    [0] => The order id field is required.
+                )
+
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+            [sub_total] => Array
+                (
+                    [0] => The sub total field is required.
+                )
+
+            [billing_customer_name] => Array
+                (
+                    [0] => The billing customer name field is required
+                )
+
+            [billing_last_name] => Array
+                (
+                    [0] => The billing last name must be a string.
+                )
+
+            [billing_address] => Array
+                (
+                    [0] => The billing address field is required
+                )
+
+            [billing_state] => Array
+                (
+                    [0] => The billing state field is required
+                )
+
+            [billing_country] => Array
+                (
+                    [0] => The billing country field is required
+                )
+
+            [billing_phone] => Array
+                (
+                    [0] => The billing phone field is required.
+                )
+
+            [billing_pincode] => Array
+                (
+                    [0] => The billing pincode field is required
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [order_id] => 914412994
+    [channel_order_id] => ORDER_1754040293
+    [shipment_id] => 910714076
+    [status] => NEW
+    [status_code] => 1
+    [onboarding_completed_now] => 0
+    [awb_code] => 
+    [courier_company_id] => 
+    [courier_name] => 
+    [new_channel] => 
+    [packaging_box_error] => 
+)
+Array
+(
+    [order_id] => 914417331
+    [channel_order_id] => ORDER_1754040553
+    [shipment_id] => 910718412
+    [status] => NEW
+    [status_code] => 1
+    [onboarding_completed_now] => 0
+    [awb_code] => 
+    [courier_company_id] => 
+    [courier_name] => 
+    [new_channel] => 
+    [packaging_box_error] => 
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [billing_customer_name] => Array
+                (
+                    [0] => The billing customer name field is required
+                )
+
+            [billing_address] => Array
+                (
+                    [0] => The billing address field is required
+                )
+
+            [billing_state] => Array
+                (
+                    [0] => The billing state field is required
+                )
+
+            [billing_pincode] => Array
+                (
+                    [0] => The billing pincode must be 6 digits.
+                    [1] => Invalid Pincode
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [billing_customer_name] => Array
+                (
+                    [0] => The billing customer name field is required
+                )
+
+            [billing_address] => Array
+                (
+                    [0] => The billing address field is required
+                )
+
+            [billing_state] => Array
+                (
+                    [0] => The billing state field is required
+                )
+
+            [billing_pincode] => Array
+                (
+                    [0] => The billing pincode must be 6 digits.
+                    [1] => Invalid Pincode
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [order_id] => 914538782
+    [channel_order_id] => ORDER_1754047416
+    [shipment_id] => 910839835
+    [status] => NEW
+    [status_code] => 1
+    [onboarding_completed_now] => 0
+    [awb_code] => 
+    [courier_company_id] => 
+    [courier_name] => 
+    [new_channel] => 
+    [packaging_box_error] => 
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+            [billing_phone] => Array
+                (
+                    [0] => The billing phone field is required.
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_id] => Array
+                (
+                    [0] => The order id field is required.
+                )
+
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+            [sub_total] => Array
+                (
+                    [0] => The sub total field is required.
+                )
+
+            [billing_customer_name] => Array
+                (
+                    [0] => The billing customer name field is required
+                )
+
+            [billing_last_name] => Array
+                (
+                    [0] => The billing last name must be a string.
+                )
+
+            [billing_address] => Array
+                (
+                    [0] => The billing address field is required
+                )
+
+            [billing_state] => Array
+                (
+                    [0] => The billing state field is required
+                )
+
+            [billing_country] => Array
+                (
+                    [0] => The billing country field is required
+                )
+
+            [billing_phone] => Array
+                (
+                    [0] => The billing phone field is required.
+                )
+
+            [billing_pincode] => Array
+                (
+                    [0] => The billing pincode field is required
+                )
+
+        )
+
+    [status_code] => 422
+)
+Array
+(
+    [message] => Oops! Invalid Data.
+    [errors] => Array
+        (
+            [order_items] => Array
+                (
+                    [0] => The order items field is required.
+                )
+
+            [billing_phone] => Array
+                (
+                    [0] => The billing phone field is required.
+                )
+
+        )
+
+    [status_code] => 422
+)

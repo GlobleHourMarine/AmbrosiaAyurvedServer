@@ -1,0 +1,62 @@
+Array
+(
+    [data] => stdClass Object
+        (
+            [id] => 9
+            [order_id] => ORDER_1754040553
+            [shiprocket_order_id] => 914417331
+            [shipment_id] => 910718412
+            [awb_code] => 19041782235973
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-01
+            [created_at] => 2025-08-01 09:29:30
+            [updated_at] => 2025-08-01 09:29:30
+        )
+
+)
+Array
+(
+    [data] => stdClass Object
+        (
+            [id] => 9
+            [order_id] => ORDER_1754040553
+            [shiprocket_order_id] => 914417331
+            [shipment_id] => 910718412
+            [awb_code] => 19041782235973
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-01
+            [created_at] => 2025-08-01 09:29:30
+            [updated_at] => 2025-08-01 09:29:30
+        )
+
+)
+Array
+(
+    [data] => stdClass Object
+        (
+            [id] => 10
+            [order_id] => ORDER_1754047416
+            [shiprocket_order_id] => 914538782
+            [shipment_id] => 910839835
+            [awb_code] => 19041782278441
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-01
+            [created_at] => 2025-08-01 11:23:58
+            [updated_at] => 2025-08-01 11:23:58
+        )
+
+)
+Array
+(
+    [data] => 
+)
+Array
+(
+    [data] => 
+)

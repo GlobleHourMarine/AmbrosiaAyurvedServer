@@ -1,0 +1,1149 @@
+Array
+(
+    [order_id] => ORDER_1754030507
+    [order_date] => 2025-08-01 06:42:36
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => mohit
+    [billing_last_name] => verma
+    [billing_address] => sriganganger rajasthan
+    [billing_address_2] =>  
+    [billing_city] => 12z
+    [billing_pincode] => 335001
+    [billing_state] => Rajasthan
+    [billing_country] => India
+    [billing_email] => mohitnirania890@gmail.com
+    [billing_phone] => 8005825615
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+            [0] => Array
+                (
+                    [name] => A5 – Herbal Supplement
+                    [sku] => sku_14
+                    [units] => 1
+                    [selling_price] => 5600
+                    [discount] => 0
+                    [tax] => 0
+                    [hsn] => 441122
+                )
+
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 5600
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754031816
+    [order_date] => 2025-08-01 07:04:02
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => mohit
+    [billing_last_name] => verma
+    [billing_address] => sriganganger rajasthan
+    [billing_address_2] =>  
+    [billing_city] => 12z
+    [billing_pincode] => 335001
+    [billing_state] => Rajasthan
+    [billing_country] => India
+    [billing_email] => mohitnirania890@gmail.com
+    [billing_phone] => 8005825615
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+            [0] => Array
+                (
+                    [name] => A5 – Herbal Supplement
+                    [sku] => sku_14
+                    [units] => 3
+                    [selling_price] => 5600
+                    [discount] => 0
+                    [tax] => 0
+                    [hsn] => 441122
+                )
+
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 16800
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754033071
+    [order_date] => 2025-08-01 07:24:57
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => mohit
+    [billing_last_name] => verma
+    [billing_address] => sriganganger rajasthan
+    [billing_address_2] =>  
+    [billing_city] => 12z
+    [billing_pincode] => 335001
+    [billing_state] => Rajasthan
+    [billing_country] => India
+    [billing_email] => mohitnirania890@gmail.com
+    [billing_phone] => 8005825615
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+            [0] => Array
+                (
+                    [name] => A5 – Herbal Supplement
+                    [sku] => sku_14
+                    [units] => 4
+                    [selling_price] => 5600
+                    [discount] => 0
+                    [tax] => 0
+                    [hsn] => 441122
+                )
+
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 22400
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754033895
+    [order_date] => 2025-08-01 07:38:38
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => mohit
+    [billing_last_name] => verma
+    [billing_address] => sriganganger rajasthan
+    [billing_address_2] =>  
+    [billing_city] => 12z
+    [billing_pincode] => 335001
+    [billing_state] => Rajasthan
+    [billing_country] => India
+    [billing_email] => mohitnirania890@gmail.com
+    [billing_phone] => 8005825615
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+            [0] => Array
+                (
+                    [name] => A5 – Herbal Supplement
+                    [sku] => sku_14
+                    [units] => 5
+                    [selling_price] => 5600
+                    [discount] => 0
+                    [tax] => 0
+                    [hsn] => 441122
+                )
+
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 28000
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => 
+    [order_date] => 2025-08-01 08:39:32
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => 
+    [billing_last_name] => 
+    [billing_address] => 
+    [billing_address_2] =>  
+    [billing_city] => 
+    [billing_pincode] => 
+    [billing_state] => 
+    [billing_country] => 
+    [billing_email] => 
+    [billing_phone] => 
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => 
+    [order_date] => 2025-08-01 08:42:24
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => 
+    [billing_last_name] => 
+    [billing_address] => 
+    [billing_address_2] =>  
+    [billing_city] => 
+    [billing_pincode] => 
+    [billing_state] => 
+    [billing_country] => 
+    [billing_email] => 
+    [billing_phone] => 
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => 
+    [order_date] => 2025-08-01 08:43:43
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => 
+    [billing_last_name] => 
+    [billing_address] => 
+    [billing_address_2] =>  
+    [billing_city] => 
+    [billing_pincode] => 
+    [billing_state] => 
+    [billing_country] => 
+    [billing_email] => 
+    [billing_phone] => 
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => 
+    [order_date] => 2025-08-01 08:45:50
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => 
+    [billing_last_name] => 
+    [billing_address] => 
+    [billing_address_2] =>  
+    [billing_city] => 
+    [billing_pincode] => 
+    [billing_state] => 
+    [billing_country] => 
+    [billing_email] => 
+    [billing_phone] => 
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754038231
+    [order_date] => 2025-08-01 08:50:46
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => mohit
+    [billing_last_name] => verma
+    [billing_address] => sriganganger rajasthan
+    [billing_address_2] =>  
+    [billing_city] => 12z
+    [billing_pincode] => 335001
+    [billing_state] => Rajasthan
+    [billing_country] => India
+    [billing_email] => mohitnirania890@gmail.com
+    [billing_phone] => 8005825615
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 28000
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754038291
+    [order_date] => 2025-08-01 08:52:04
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => mohit
+    [billing_last_name] => verma
+    [billing_address] => sriganganger rajasthan
+    [billing_address_2] =>  
+    [billing_city] => 12z
+    [billing_pincode] => 335001
+    [billing_state] => Rajasthan
+    [billing_country] => India
+    [billing_email] => mohitnirania890@gmail.com
+    [billing_phone] => 8005825615
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 28000
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754038555
+    [order_date] => 2025-08-01 08:56:07
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => mohit
+    [billing_last_name] => verma
+    [billing_address] => sriganganger rajasthan
+    [billing_address_2] =>  
+    [billing_city] => 12z
+    [billing_pincode] => 335001
+    [billing_state] => Rajasthan
+    [billing_country] => India
+    [billing_email] => mohitnirania890@gmail.com
+    [billing_phone] => 8005825615
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 28000
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754040145
+    [order_date] => 2025-08-01 09:22:38
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => mohit
+    [billing_last_name] => verma
+    [billing_address] => sriganganger rajasthan
+    [billing_address_2] =>  
+    [billing_city] => 12z
+    [billing_pincode] => 335001
+    [billing_state] => Rajasthan
+    [billing_country] => India
+    [billing_email] => mohitnirania890@gmail.com
+    [billing_phone] => 8005825615
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 28000
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754040293
+    [order_date] => 2025-08-01 09:25:06
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => mohit
+    [billing_last_name] => verma
+    [billing_address] => sriganganger rajasthan
+    [billing_address_2] =>  
+    [billing_city] => 12z
+    [billing_pincode] => 335001
+    [billing_state] => Rajasthan
+    [billing_country] => India
+    [billing_email] => mohitnirania890@gmail.com
+    [billing_phone] => 8005825615
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+            [0] => Array
+                (
+                    [name] => A5 – Herbal Supplement
+                    [sku] => sku_14
+                    [units] => 5
+                    [selling_price] => 5600
+                    [discount] => 0
+                    [tax] => 0
+                    [hsn] => 441122
+                )
+
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 28000
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754040553
+    [order_date] => 2025-08-01 09:29:28
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => mohit
+    [billing_last_name] => verma
+    [billing_address] => sriganganger rajasthan
+    [billing_address_2] =>  
+    [billing_city] => 12z
+    [billing_pincode] => 335001
+    [billing_state] => Rajasthan
+    [billing_country] => India
+    [billing_email] => mohitnirania890@gmail.com
+    [billing_phone] => 8005825615
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+            [0] => Array
+                (
+                    [name] => A5 – Herbal Supplement
+                    [sku] => sku_14
+                    [units] => 5
+                    [selling_price] => 5600
+                    [discount] => 0
+                    [tax] => 0
+                    [hsn] => 441122
+                )
+
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 28000
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754047020
+    [order_date] => 2025-08-01 11:17:18
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => 
+    [billing_last_name] => 
+    [billing_address] => 
+    [billing_address_2] =>  
+    [billing_city] => 
+    [billing_pincode] => 0
+    [billing_state] => 
+    [billing_country] => India
+    [billing_email] => mohitnirania890@gmail.com
+    [billing_phone] => 8005825615
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+            [0] => Array
+                (
+                    [name] => A5 – Herbal Supplement
+                    [sku] => sku_14
+                    [units] => 2
+                    [selling_price] => 5600
+                    [discount] => 0
+                    [tax] => 0
+                    [hsn] => 441122
+                )
+
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 11200
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754047020
+    [order_date] => 2025-08-01 11:23:08
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => 
+    [billing_last_name] => 
+    [billing_address] => 
+    [billing_address_2] =>  
+    [billing_city] => 
+    [billing_pincode] => 0
+    [billing_state] => 
+    [billing_country] => India
+    [billing_email] => mohitnirania890@gmail.com
+    [billing_phone] => 8005825615
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+            [0] => Array
+                (
+                    [name] => A5 – Herbal Supplement
+                    [sku] => sku_14
+                    [units] => 2
+                    [selling_price] => 5600
+                    [discount] => 0
+                    [tax] => 0
+                    [hsn] => 441122
+                )
+
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 11200
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754047416
+    [order_date] => 2025-08-01 11:23:55
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => mohit
+    [billing_last_name] => verma
+    [billing_address] => sriganganger rajasthan
+    [billing_address_2] =>  
+    [billing_city] => 12z
+    [billing_pincode] => 335001
+    [billing_state] => Rajasthan
+    [billing_country] => India
+    [billing_email] => mohitnirania890@gmail.com
+    [billing_phone] => 8005825615
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+            [0] => Array
+                (
+                    [name] => A5 – Herbal Supplement
+                    [sku] => sku_14
+                    [units] => 2
+                    [selling_price] => 5600
+                    [discount] => 0
+                    [tax] => 0
+                    [hsn] => 441122
+                )
+
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 11200
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754051300
+    [order_date] => 2025-08-01 12:32:25
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] =>  basdhbsvhdv
+    [billing_last_name] => nbjdfjknj
+    [billing_address] => n  cns mc m
+    [billing_address_2] =>  
+    [billing_city] => yhnt
+    [billing_pincode] => 135001
+    [billing_state] => haryana
+    [billing_country] => India
+    [billing_email] => kk@gmail.com
+    [billing_phone] => 8989898787
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 5600
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754051963
+    [order_date] => 2025-08-01 12:39:45
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => mnvgryg
+    [billing_last_name] => kjfgeg
+    [billing_address] => kjksdjsgf
+    [billing_address_2] =>  
+    [billing_city] => ejfgekg
+    [billing_pincode] => 123041
+    [billing_state] => lkldjhu
+    [billing_country] => India
+    [billing_email] => kjgfie@gmail.com
+    [billing_phone] => 8989898787
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 5600
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754052143
+    [order_date] => 2025-08-01 12:42:47
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => kjkhff
+    [billing_last_name] => lknfjef
+    [billing_address] => dnekjje
+    [billing_address_2] =>  
+    [billing_city] => kjdndkd
+    [billing_pincode] => 135021
+    [billing_state] => knkj
+    [billing_country] => India
+    [billing_email] => vbfvb12@gmail.com
+    [billing_phone] => 8989898787
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 5600
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754052143
+    [order_date] => 2025-08-01 12:43:02
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => kjkhff
+    [billing_last_name] => lknfjef
+    [billing_address] => dnekjje
+    [billing_address_2] =>  
+    [billing_city] => kjdndkd
+    [billing_pincode] => 135021
+    [billing_state] => knkj
+    [billing_country] => India
+    [billing_email] => vbfvb12@gmail.com
+    [billing_phone] => 8989898787
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 5600
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754052143
+    [order_date] => 2025-08-01 12:45:15
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => kjkhff
+    [billing_last_name] => lknfjef
+    [billing_address] => dnekjje
+    [billing_address_2] =>  
+    [billing_city] => kjdndkd
+    [billing_pincode] => 135021
+    [billing_state] => knkj
+    [billing_country] => India
+    [billing_email] => vbfvb12@gmail.com
+    [billing_phone] => 8989898787
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 5600
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754114658
+    [order_date] => 2025-08-02 06:05:02
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => manxs
+    [billing_last_name] => c,m, dsc
+    [billing_address] => 567 model town
+    [billing_address_2] =>  
+    [billing_city] => ynr
+    [billing_pincode] => 135001
+    [billing_state] => harayana
+    [billing_country] => India
+    [billing_email] => sarv12345@gmail.com
+    [billing_phone] => 
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 5600
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => 
+    [order_date] => 2025-08-02 12:49:15
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => 
+    [billing_last_name] => 
+    [billing_address] => 
+    [billing_address_2] =>  
+    [billing_city] => 
+    [billing_pincode] => 
+    [billing_state] => 
+    [billing_country] => 
+    [billing_email] => 
+    [billing_phone] => 
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)
+Array
+(
+    [order_id] => ORDER_1754246720
+    [order_date] => 2025-08-03 18:45:59
+    [pickup_location] => warehouse
+    [comment] => Ambrosia Ayurved
+    [billing_customer_name] => sxnmcdmc nsn 
+    [billing_last_name] =>  c
+    [billing_address] => cn 
+    [billing_address_2] =>  
+    [billing_city] => nc 
+    [billing_pincode] => 135001
+    [billing_state] => m nsc
+    [billing_country] => India
+    [billing_email] => punam@gmail.com
+    [billing_phone] => 
+    [shipping_is_billing] => 1
+    [shipping_customer_name] => 
+    [shipping_last_name] => 
+    [shipping_address] => 
+    [shipping_address_2] => 
+    [shipping_city] => 
+    [shipping_pincode] => 
+    [shipping_country] => 
+    [shipping_state] => 
+    [shipping_email] => 
+    [shipping_phone] => 
+    [order_items] => Array
+        (
+        )
+
+    [payment_method] => Prepaid
+    [shipping_charges] => 0
+    [giftwrap_charges] => 0
+    [transaction_charges] => 0
+    [total_discount] => 0
+    [sub_total] => 5600
+    [length] => 2
+    [breadth] => 2
+    [height] => 2
+    [weight] => 0.1
+)

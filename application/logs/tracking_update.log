@@ -1,0 +1,4836 @@
+2025-08-04 10:52:27 - AWB: 1091340543533 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 876113359
+                            [awb_code] => 1091340543533
+                            [courier_company_id] => 10
+                            [shipment_id] => 876113359
+                            [order_id] => 879777970
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-05 03:46:42
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340543533
+            [etd] => 2025-07-05 03:46:42
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:27 - AWB: 1091340646304 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 876864705
+                            [awb_code] => 1091340646304
+                            [courier_company_id] => 10
+                            [shipment_id] => 876864705
+                            [order_id] => 880529638
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-05 22:19:34
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340646304
+            [etd] => 2025-07-05 22:19:34
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:27 - AWB: 1091340824292 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 878016152
+                            [awb_code] => 1091340824292
+                            [courier_company_id] => 10
+                            [shipment_id] => 878016152
+                            [order_id] => 881681939
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-06 22:22:22
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340824292
+            [etd] => 2025-07-06 22:22:22
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:27 - AWB: 1091340827604 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 878035067
+                            [awb_code] => 1091340827604
+                            [courier_company_id] => 10
+                            [shipment_id] => 878035067
+                            [order_id] => 881700856
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-06 22:34:45
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340827604
+            [etd] => 2025-07-06 22:34:45
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:27 - AWB: 1091340831211 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 878055508
+                            [awb_code] => 1091340831211
+                            [courier_company_id] => 10
+                            [shipment_id] => 878055508
+                            [order_id] => 881721303
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-06 22:51:20
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340831211
+            [etd] => 2025-07-06 22:51:20
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:27 - AWB: 1091340831782 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 878058994
+                            [awb_code] => 1091340831782
+                            [courier_company_id] => 10
+                            [shipment_id] => 878058994
+                            [order_id] => 881724790
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Chandigarh
+                            [destination] => Chandigarh
+                            [consignee_name] => khushi
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-06 22:54:06
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340831782
+            [etd] => 2025-07-06 22:54:06
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:27 - AWB: 19041782234816 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 910714076
+                            [awb_code] => 19041782234816
+                            [courier_company_id] => 637
+                            [shipment_id] => 910714076
+                            [order_id] => 914412994
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Ganganagar
+                            [destination] => Ganganagar
+                            [consignee_name] => mohit
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-07 07:55:11
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/19041782234816
+            [etd] => 2025-08-07 07:55:11
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:27 - AWB: 19041782235973 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 910718412
+                            [awb_code] => 19041782235973
+                            [courier_company_id] => 637
+                            [shipment_id] => 910718412
+                            [order_id] => 914417331
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Ganganagar
+                            [destination] => Ganganagar
+                            [consignee_name] => mohit
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-07 07:59:32
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/19041782235973
+            [etd] => 2025-08-07 07:59:32
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:27 - AWB: 19041782278441 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 910839835
+                            [awb_code] => 19041782278441
+                            [courier_company_id] => 637
+                            [shipment_id] => 910839835
+                            [order_id] => 914538782
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Ganganagar
+                            [destination] => Ganganagar
+                            [consignee_name] => mohit
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-07 09:53:58
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/19041782278441
+            [etd] => 2025-08-07 09:53:58
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:27 - AWB: SF96230815KR - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 914306107
+                            [awb_code] => SF96230815KR
+                            [courier_company_id] => 58
+                            [shipment_id] => 914306107
+                            [order_id] => 918007822
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => komal
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shadowfax Surface
+                            [edd] => 2025-08-10 06:06:07
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 2025-08-04 16:08:06
+                        )
+
+                )
+
+            [shipment_track_activities] => Array
+                (
+                    [0] => Array
+                        (
+                            [date] => 2025-08-04 16:08:06
+                            [status] => cancelled_by_seller
+                            [activity] => Item cancelled by seller at HAR_Panchkula_FM
+                            [location] => HAR_Panchkula_FM
+                            [sr-status] => 20
+                            [sr-status-label] => PICKUP EXCEPTION
+                        )
+
+                )
+
+            [track_url] => https://shiprocket.co/tracking/SF96230815KR
+            [etd] => 2025-08-10 06:06:07
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:27 - AWB: SF96230799KR - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 914313813
+                            [awb_code] => SF96230799KR
+                            [courier_company_id] => 58
+                            [shipment_id] => 914313813
+                            [order_id] => 918015536
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => komal
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shadowfax Surface
+                            [edd] => 2025-08-10 06:11:35
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 2025-08-04 16:15:49
+                        )
+
+                )
+
+            [shipment_track_activities] => Array
+                (
+                    [0] => Array
+                        (
+                            [date] => 2025-08-04 16:15:49
+                            [status] => cancelled_by_seller
+                            [activity] => Item cancelled by seller at HAR_Panchkula_FM
+                            [location] => HAR_Panchkula_FM
+                            [sr-status] => 20
+                            [sr-status-label] => PICKUP EXCEPTION
+                        )
+
+                )
+
+            [track_url] => https://shiprocket.co/tracking/SF96230799KR
+            [etd] => 2025-08-10 06:11:35
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:34 - AWB: 1091340543533 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 876113359
+                            [awb_code] => 1091340543533
+                            [courier_company_id] => 10
+                            [shipment_id] => 876113359
+                            [order_id] => 879777970
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-05 03:46:42
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340543533
+            [etd] => 2025-07-05 03:46:42
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:34 - AWB: 1091340646304 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 876864705
+                            [awb_code] => 1091340646304
+                            [courier_company_id] => 10
+                            [shipment_id] => 876864705
+                            [order_id] => 880529638
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-05 22:19:34
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340646304
+            [etd] => 2025-07-05 22:19:34
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:34 - AWB: 1091340824292 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 878016152
+                            [awb_code] => 1091340824292
+                            [courier_company_id] => 10
+                            [shipment_id] => 878016152
+                            [order_id] => 881681939
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-06 22:22:22
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340824292
+            [etd] => 2025-07-06 22:22:22
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:34 - AWB: 1091340827604 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 878035067
+                            [awb_code] => 1091340827604
+                            [courier_company_id] => 10
+                            [shipment_id] => 878035067
+                            [order_id] => 881700856
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-06 22:34:45
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340827604
+            [etd] => 2025-07-06 22:34:45
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:34 - AWB: 1091340831211 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 878055508
+                            [awb_code] => 1091340831211
+                            [courier_company_id] => 10
+                            [shipment_id] => 878055508
+                            [order_id] => 881721303
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-06 22:51:20
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340831211
+            [etd] => 2025-07-06 22:51:20
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:34 - AWB: 1091340831782 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 878058994
+                            [awb_code] => 1091340831782
+                            [courier_company_id] => 10
+                            [shipment_id] => 878058994
+                            [order_id] => 881724790
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Chandigarh
+                            [destination] => Chandigarh
+                            [consignee_name] => khushi
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-06 22:54:06
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340831782
+            [etd] => 2025-07-06 22:54:06
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:34 - AWB: 19041782234816 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 910714076
+                            [awb_code] => 19041782234816
+                            [courier_company_id] => 637
+                            [shipment_id] => 910714076
+                            [order_id] => 914412994
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Ganganagar
+                            [destination] => Ganganagar
+                            [consignee_name] => mohit
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-07 07:55:11
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/19041782234816
+            [etd] => 2025-08-07 07:55:11
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:34 - AWB: 19041782235973 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 910718412
+                            [awb_code] => 19041782235973
+                            [courier_company_id] => 637
+                            [shipment_id] => 910718412
+                            [order_id] => 914417331
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Ganganagar
+                            [destination] => Ganganagar
+                            [consignee_name] => mohit
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-07 07:59:32
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/19041782235973
+            [etd] => 2025-08-07 07:59:32
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:34 - AWB: 19041782278441 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 910839835
+                            [awb_code] => 19041782278441
+                            [courier_company_id] => 637
+                            [shipment_id] => 910839835
+                            [order_id] => 914538782
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Ganganagar
+                            [destination] => Ganganagar
+                            [consignee_name] => mohit
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-07 09:53:58
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/19041782278441
+            [etd] => 2025-08-07 09:53:58
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:34 - AWB: SF96230815KR - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 914306107
+                            [awb_code] => SF96230815KR
+                            [courier_company_id] => 58
+                            [shipment_id] => 914306107
+                            [order_id] => 918007822
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => komal
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shadowfax Surface
+                            [edd] => 2025-08-10 06:06:07
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 2025-08-04 16:08:06
+                        )
+
+                )
+
+            [shipment_track_activities] => Array
+                (
+                    [0] => Array
+                        (
+                            [date] => 2025-08-04 16:08:06
+                            [status] => cancelled_by_seller
+                            [activity] => Item cancelled by seller at HAR_Panchkula_FM
+                            [location] => HAR_Panchkula_FM
+                            [sr-status] => 20
+                            [sr-status-label] => PICKUP EXCEPTION
+                        )
+
+                )
+
+            [track_url] => https://shiprocket.co/tracking/SF96230815KR
+            [etd] => 2025-08-10 06:06:07
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:52:34 - AWB: SF96230799KR - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 914313813
+                            [awb_code] => SF96230799KR
+                            [courier_company_id] => 58
+                            [shipment_id] => 914313813
+                            [order_id] => 918015536
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => komal
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shadowfax Surface
+                            [edd] => 2025-08-10 06:11:35
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 2025-08-04 16:15:49
+                        )
+
+                )
+
+            [shipment_track_activities] => Array
+                (
+                    [0] => Array
+                        (
+                            [date] => 2025-08-04 16:15:49
+                            [status] => cancelled_by_seller
+                            [activity] => Item cancelled by seller at HAR_Panchkula_FM
+                            [location] => HAR_Panchkula_FM
+                            [sr-status] => 20
+                            [sr-status-label] => PICKUP EXCEPTION
+                        )
+
+                )
+
+            [track_url] => https://shiprocket.co/tracking/SF96230799KR
+            [etd] => 2025-08-10 06:11:35
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:53:14 - AWB: 1091340543533 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 876113359
+                            [awb_code] => 1091340543533
+                            [courier_company_id] => 10
+                            [shipment_id] => 876113359
+                            [order_id] => 879777970
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-05 03:46:42
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340543533
+            [etd] => 2025-07-05 03:46:42
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:53:14 - AWB: 1091340646304 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 876864705
+                            [awb_code] => 1091340646304
+                            [courier_company_id] => 10
+                            [shipment_id] => 876864705
+                            [order_id] => 880529638
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-05 22:19:34
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340646304
+            [etd] => 2025-07-05 22:19:34
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:53:14 - AWB: 1091340824292 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 878016152
+                            [awb_code] => 1091340824292
+                            [courier_company_id] => 10
+                            [shipment_id] => 878016152
+                            [order_id] => 881681939
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-06 22:22:22
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340824292
+            [etd] => 2025-07-06 22:22:22
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:53:14 - AWB: 1091340827604 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 878035067
+                            [awb_code] => 1091340827604
+                            [courier_company_id] => 10
+                            [shipment_id] => 878035067
+                            [order_id] => 881700856
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-06 22:34:45
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340827604
+            [etd] => 2025-07-06 22:34:45
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:53:14 - AWB: 1091340831211 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 878055508
+                            [awb_code] => 1091340831211
+                            [courier_company_id] => 10
+                            [shipment_id] => 878055508
+                            [order_id] => 881721303
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => Sarvjeet
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-06 22:51:20
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340831211
+            [etd] => 2025-07-06 22:51:20
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:53:14 - AWB: 1091340831782 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 878058994
+                            [awb_code] => 1091340831782
+                            [courier_company_id] => 10
+                            [shipment_id] => 878058994
+                            [order_id] => 881724790
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Chandigarh
+                            [destination] => Chandigarh
+                            [consignee_name] => khushi
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Delhivery Air
+                            [edd] => 2025-07-06 22:54:06
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/1091340831782
+            [etd] => 2025-07-06 22:54:06
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:53:14 - AWB: 19041782234816 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 910714076
+                            [awb_code] => 19041782234816
+                            [courier_company_id] => 637
+                            [shipment_id] => 910714076
+                            [order_id] => 914412994
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Ganganagar
+                            [destination] => Ganganagar
+                            [consignee_name] => mohit
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-07 07:55:11
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/19041782234816
+            [etd] => 2025-08-07 07:55:11
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:53:15 - AWB: 19041782235973 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 910718412
+                            [awb_code] => 19041782235973
+                            [courier_company_id] => 637
+                            [shipment_id] => 910718412
+                            [order_id] => 914417331
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Ganganagar
+                            [destination] => Ganganagar
+                            [consignee_name] => mohit
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-07 07:59:32
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/19041782235973
+            [etd] => 2025-08-07 07:59:32
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:53:15 - AWB: 19041782278441 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 910839835
+                            [awb_code] => 19041782278441
+                            [courier_company_id] => 637
+                            [shipment_id] => 910839835
+                            [order_id] => 914538782
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Ganganagar
+                            [destination] => Ganganagar
+                            [consignee_name] => mohit
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-07 09:53:58
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 
+                        )
+
+                )
+
+            [shipment_track_activities] => 
+            [track_url] => https://shiprocket.co/tracking/19041782278441
+            [etd] => 2025-08-07 09:53:58
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:53:15 - AWB: SF96230815KR - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 914306107
+                            [awb_code] => SF96230815KR
+                            [courier_company_id] => 58
+                            [shipment_id] => 914306107
+                            [order_id] => 918007822
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => komal
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shadowfax Surface
+                            [edd] => 2025-08-10 06:06:07
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 2025-08-04 16:08:06
+                        )
+
+                )
+
+            [shipment_track_activities] => Array
+                (
+                    [0] => Array
+                        (
+                            [date] => 2025-08-04 16:08:06
+                            [status] => cancelled_by_seller
+                            [activity] => Item cancelled by seller at HAR_Panchkula_FM
+                            [location] => HAR_Panchkula_FM
+                            [sr-status] => 20
+                            [sr-status-label] => PICKUP EXCEPTION
+                        )
+
+                )
+
+            [track_url] => https://shiprocket.co/tracking/SF96230815KR
+            [etd] => 2025-08-10 06:06:07
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-04 10:53:15 - AWB: SF96230799KR - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 914313813
+                            [awb_code] => SF96230799KR
+                            [courier_company_id] => 58
+                            [shipment_id] => 914313813
+                            [order_id] => 918015536
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => komal
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shadowfax Surface
+                            [edd] => 2025-08-10 06:11:35
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 2025-08-04 16:15:49
+                        )
+
+                )
+
+            [shipment_track_activities] => Array
+                (
+                    [0] => Array
+                        (
+                            [date] => 2025-08-04 16:15:49
+                            [status] => cancelled_by_seller
+                            [activity] => Item cancelled by seller at HAR_Panchkula_FM
+                            [location] => HAR_Panchkula_FM
+                            [sr-status] => 20
+                            [sr-status-label] => PICKUP EXCEPTION
+                        )
+
+                )
+
+            [track_url] => https://shiprocket.co/tracking/SF96230799KR
+            [etd] => 2025-08-10 06:11:35
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-06 09:22:29 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01987eb0-71b6-7560-9a65-21467c1c627e
+    [message] => Ohh! This AWB has been cancelled.
+    [status_code] => 500
+    [timestamp] => 2025-08-06T09:22:29Z
+)
+
+2025-08-06 09:22:29 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01987eb0-71df-7cbc-82d3-d2027dfeed49
+    [message] => Ohh! This AWB has been cancelled.
+    [status_code] => 500
+    [timestamp] => 2025-08-06T09:22:29Z
+)
+
+2025-08-06 09:22:29 - AWB: SF957683775KR - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 16
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 915623974
+                            [awb_code] => SF957683775KR
+                            [courier_company_id] => 58
+                            [shipment_id] => 915623974
+                            [order_id] => 919326483
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Cancellation Requested
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => kanika
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shadowfax Surface
+                            [edd] => 2025-08-10 08:01:01
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 2025-08-06 11:21:26
+                        )
+
+                )
+
+            [shipment_track_activities] => Array
+                (
+                    [0] => Array
+                        (
+                            [date] => 2025-08-06 11:21:26
+                            [status] => ofp
+                            [activity] => Item Out For Pickup at HAR_Panchkula_FM
+                            [location] => HAR_Panchkula_FM
+                            [sr-status] => 19
+                            [sr-status-label] => OUT FOR PICKUP
+                        )
+
+                    [1] => Array
+                        (
+                            [date] => 2025-08-06 11:21:12
+                            [status] => assigned_for_seller_pickup
+                            [activity] => Item Assigned For Seller Pickup at HAR_Panchkula_FM
+                            [location] => HAR_Panchkula_FM
+                            [sr-status] => NA
+                            [sr-status-label] => NA
+                        )
+
+                )
+
+            [track_url] => https://shiprocket.co/tracking/SF957683775KR
+            [etd] => 2025-08-10 08:01:01
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-06 09:22:29 - AWB: 19041784098732 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 916409273
+                            [awb_code] => 19041784098732
+                            [courier_company_id] => 637
+                            [shipment_id] => 916409273
+                            [order_id] => 920112448
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Mohali
+                            [destination] => Mohali
+                            [consignee_name] => Arvind
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-12 01:04:09
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 2025-08-06 13:11:05
+                        )
+
+                )
+
+            [shipment_track_activities] => Array
+                (
+                    [0] => Array
+                        (
+                            [date] => 2025-08-06 13:11:05
+                            [status] => FMOFP-101
+                            [activity] => Manifested - Out for Pickup
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => 19
+                            [sr-status-label] => OUT FOR PICKUP
+                        )
+
+                    [1] => Array
+                        (
+                            [date] => 2025-08-06 13:10:41
+                            [status] => DTUP-210
+                            [activity] => Manifested - Seller cancelled the order
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => 20
+                            [sr-status-label] => PICKUP EXCEPTION
+                        )
+
+                    [2] => Array
+                        (
+                            [date] => 2025-08-06 13:07:38
+                            [status] => FMPUR-101
+                            [activity] => Manifested - Pickup scheduled
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => NA
+                            [sr-status-label] => NA
+                        )
+
+                    [3] => Array
+                        (
+                            [date] => 2025-08-06 13:04:10
+                            [status] => DTUP-219
+                            [activity] => Manifested - Pincode updated by Addfix
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => NA
+                            [sr-status-label] => NA
+                        )
+
+                    [4] => Array
+                        (
+                            [date] => 2025-08-06 13:04:05
+                            [status] => X-UCI
+                            [activity] => Manifested - Manifest uploaded
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => NA
+                            [sr-status-label] => NA
+                        )
+
+                )
+
+            [track_url] => https://shiprocket.co/tracking/19041784098732
+            [etd] => 2025-08-12 01:04:09
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-06 09:22:35 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01987eb0-8a37-7e97-88e4-d298ebe13007
+    [message] => Ohh! This AWB has been cancelled.
+    [status_code] => 500
+    [timestamp] => 2025-08-06T09:22:35Z
+)
+
+2025-08-06 09:22:35 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01987eb0-8a5f-754a-af91-8a93edc65086
+    [message] => Ohh! This AWB has been cancelled.
+    [status_code] => 500
+    [timestamp] => 2025-08-06T09:22:35Z
+)
+
+2025-08-06 09:22:35 - AWB: SF957683775KR - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 16
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 915623974
+                            [awb_code] => SF957683775KR
+                            [courier_company_id] => 58
+                            [shipment_id] => 915623974
+                            [order_id] => 919326483
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Cancellation Requested
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => kanika
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shadowfax Surface
+                            [edd] => 2025-08-10 08:01:01
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 2025-08-06 11:21:26
+                        )
+
+                )
+
+            [shipment_track_activities] => Array
+                (
+                    [0] => Array
+                        (
+                            [date] => 2025-08-06 11:21:26
+                            [status] => ofp
+                            [activity] => Item Out For Pickup at HAR_Panchkula_FM
+                            [location] => HAR_Panchkula_FM
+                            [sr-status] => 19
+                            [sr-status-label] => OUT FOR PICKUP
+                        )
+
+                    [1] => Array
+                        (
+                            [date] => 2025-08-06 11:21:12
+                            [status] => assigned_for_seller_pickup
+                            [activity] => Item Assigned For Seller Pickup at HAR_Panchkula_FM
+                            [location] => HAR_Panchkula_FM
+                            [sr-status] => NA
+                            [sr-status-label] => NA
+                        )
+
+                )
+
+            [track_url] => https://shiprocket.co/tracking/SF957683775KR
+            [etd] => 2025-08-10 08:01:01
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-06 09:22:35 - AWB: 19041784098732 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 916409273
+                            [awb_code] => 19041784098732
+                            [courier_company_id] => 637
+                            [shipment_id] => 916409273
+                            [order_id] => 920112448
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Mohali
+                            [destination] => Mohali
+                            [consignee_name] => Arvind
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-12 01:04:09
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 2025-08-06 13:11:05
+                        )
+
+                )
+
+            [shipment_track_activities] => Array
+                (
+                    [0] => Array
+                        (
+                            [date] => 2025-08-06 13:11:05
+                            [status] => FMOFP-101
+                            [activity] => Manifested - Out for Pickup
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => 19
+                            [sr-status-label] => OUT FOR PICKUP
+                        )
+
+                    [1] => Array
+                        (
+                            [date] => 2025-08-06 13:10:41
+                            [status] => DTUP-210
+                            [activity] => Manifested - Seller cancelled the order
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => 20
+                            [sr-status-label] => PICKUP EXCEPTION
+                        )
+
+                    [2] => Array
+                        (
+                            [date] => 2025-08-06 13:07:38
+                            [status] => FMPUR-101
+                            [activity] => Manifested - Pickup scheduled
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => NA
+                            [sr-status-label] => NA
+                        )
+
+                    [3] => Array
+                        (
+                            [date] => 2025-08-06 13:04:10
+                            [status] => DTUP-219
+                            [activity] => Manifested - Pincode updated by Addfix
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => NA
+                            [sr-status-label] => NA
+                        )
+
+                    [4] => Array
+                        (
+                            [date] => 2025-08-06 13:04:05
+                            [status] => X-UCI
+                            [activity] => Manifested - Manifest uploaded
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => NA
+                            [sr-status-label] => NA
+                        )
+
+                )
+
+            [track_url] => https://shiprocket.co/tracking/19041784098732
+            [etd] => 2025-08-12 01:04:09
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-06 09:48:12 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01987ec7-ff3c-74b9-8f04-0bd10862da62
+    [message] => Ohh! This AWB has been cancelled.
+    [status_code] => 500
+    [timestamp] => 2025-08-06T09:48:12Z
+)
+
+2025-08-06 09:48:13 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01987ec7-ff67-75e2-b880-8caf32affac2
+    [message] => Ohh! This AWB has been cancelled.
+    [status_code] => 500
+    [timestamp] => 2025-08-06T09:48:13Z
+)
+
+2025-08-06 09:48:13 - AWB: SF957683775KR - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 16
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 915623974
+                            [awb_code] => SF957683775KR
+                            [courier_company_id] => 58
+                            [shipment_id] => 915623974
+                            [order_id] => 919326483
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Cancellation Requested
+                            [delivered_to] => Yamuna Nagar
+                            [destination] => Yamuna Nagar
+                            [consignee_name] => kanika
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shadowfax Surface
+                            [edd] => 2025-08-10 08:01:01
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 2025-08-06 11:21:26
+                        )
+
+                )
+
+            [shipment_track_activities] => Array
+                (
+                    [0] => Array
+                        (
+                            [date] => 2025-08-06 11:21:26
+                            [status] => ofp
+                            [activity] => Item Out For Pickup at HAR_Panchkula_FM
+                            [location] => HAR_Panchkula_FM
+                            [sr-status] => 19
+                            [sr-status-label] => OUT FOR PICKUP
+                        )
+
+                    [1] => Array
+                        (
+                            [date] => 2025-08-06 11:21:12
+                            [status] => assigned_for_seller_pickup
+                            [activity] => Item Assigned For Seller Pickup at HAR_Panchkula_FM
+                            [location] => HAR_Panchkula_FM
+                            [sr-status] => NA
+                            [sr-status-label] => NA
+                        )
+
+                )
+
+            [track_url] => https://shiprocket.co/tracking/SF957683775KR
+            [etd] => 2025-08-10 08:01:01
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-06 09:48:13 - AWB: 19041784098732 - Array
+(
+    [tracking_data] => Array
+        (
+            [track_status] => 1
+            [shipment_status] => 8
+            [shipment_track] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 916409273
+                            [awb_code] => 19041784098732
+                            [courier_company_id] => 637
+                            [shipment_id] => 916409273
+                            [order_id] => 920112448
+                            [pickup_date] => 
+                            [delivered_date] => 
+                            [weight] => 0.10
+                            [packages] => 1
+                            [current_status] => Canceled
+                            [delivered_to] => Mohali
+                            [destination] => Mohali
+                            [consignee_name] => Arvind
+                            [origin] => Mohali
+                            [courier_agent_details] => 
+                            [courier_name] => Shiprocket Surface
+                            [edd] => 2025-08-12 01:04:09
+                            [pod] => Available
+                            [pod_status] => OTP Based delivery
+                            [rto_delivered_date] => NA
+                            [return_awb_code] => 
+                            [updated_time_stamp] => 2025-08-06 13:11:05
+                        )
+
+                )
+
+            [shipment_track_activities] => Array
+                (
+                    [0] => Array
+                        (
+                            [date] => 2025-08-06 13:11:05
+                            [status] => FMOFP-101
+                            [activity] => Manifested - Out for Pickup
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => 19
+                            [sr-status-label] => OUT FOR PICKUP
+                        )
+
+                    [1] => Array
+                        (
+                            [date] => 2025-08-06 13:10:41
+                            [status] => DTUP-210
+                            [activity] => Manifested - Seller cancelled the order
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => 20
+                            [sr-status-label] => PICKUP EXCEPTION
+                        )
+
+                    [2] => Array
+                        (
+                            [date] => 2025-08-06 13:07:38
+                            [status] => FMPUR-101
+                            [activity] => Manifested - Pickup scheduled
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => NA
+                            [sr-status-label] => NA
+                        )
+
+                    [3] => Array
+                        (
+                            [date] => 2025-08-06 13:04:10
+                            [status] => DTUP-219
+                            [activity] => Manifested - Pincode updated by Addfix
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => NA
+                            [sr-status-label] => NA
+                        )
+
+                    [4] => Array
+                        (
+                            [date] => 2025-08-06 13:04:05
+                            [status] => X-UCI
+                            [activity] => Manifested - Manifest uploaded
+                            [location] => Chandigarh_Raiprkln_C (Chandigarh)
+                            [sr-status] => NA
+                            [sr-status-label] => NA
+                        )
+
+                )
+
+            [track_url] => https://shiprocket.co/tracking/19041784098732
+            [etd] => 2025-08-12 01:04:09
+            [qc_response] => 
+            [is_return] => 
+            [order_tag] => 
+        )
+
+)
+
+2025-08-12 07:16:43 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01989d23-74ad-7611-b877-1f37db3f0669
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:16:43Z
+)
+
+2025-08-12 07:16:43 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01989d23-74d0-782c-9027-381170ac5dc0
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:16:43Z
+)
+
+2025-08-12 07:16:43 - AWB: SF957683775KR - Array
+(
+    [error_id] => 01989d23-74f0-7b02-8a7d-725e6ed283c4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:16:43Z
+)
+
+2025-08-12 07:16:43 - AWB: 19041784098732 - Array
+(
+    [error_id] => 01989d23-7510-726a-b39e-f0362a3b1fa5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:16:43Z
+)
+
+2025-08-12 07:16:43 - AWB: 19041784199440 - Array
+(
+    [error_id] => 01989d23-753f-72a5-849e-50feb16edc77
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:16:43Z
+)
+
+2025-08-12 07:16:43 - AWB: 19041785959866 - Array
+(
+    [error_id] => 01989d23-7560-7e47-86c6-5421402bab5b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:16:43Z
+)
+
+2025-08-12 07:16:43 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d23-7589-77bf-b6b4-3622070e55a7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:16:43Z
+)
+
+2025-08-12 07:16:43 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d23-75a9-7645-b2e7-d5a270f04f0d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:16:43Z
+)
+
+2025-08-12 07:16:43 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d23-75c8-795c-8661-8d74d9921950
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:16:43Z
+)
+
+2025-08-12 07:17:48 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01989d24-7245-7099-9c81-fb95a9a2f266
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:17:48Z
+)
+
+2025-08-12 07:17:48 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01989d24-726f-76ef-acb1-a46bec065c8a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:17:48Z
+)
+
+2025-08-12 07:17:48 - AWB: SF957683775KR - Array
+(
+    [error_id] => 01989d24-729f-75f6-9f04-6f7644c5f2ab
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:17:48Z
+)
+
+2025-08-12 07:17:48 - AWB: 19041784098732 - Array
+(
+    [error_id] => 01989d24-72bf-7e93-bb37-8e16d82a6c9e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:17:48Z
+)
+
+2025-08-12 07:17:48 - AWB: 19041784199440 - Array
+(
+    [error_id] => 01989d24-72e4-7b47-8231-307750deb954
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:17:48Z
+)
+
+2025-08-12 07:17:48 - AWB: 19041785959866 - Array
+(
+    [error_id] => 01989d24-7313-7c98-a81a-3c7af24ce248
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:17:48Z
+)
+
+2025-08-12 07:17:48 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d24-733f-7451-b5a8-14ff8501012a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:17:48Z
+)
+
+2025-08-12 07:17:48 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d24-7374-7386-87ee-87b437e91057
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:17:48Z
+)
+
+2025-08-12 07:17:48 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d24-7396-7c65-b220-bc2a647f0a54
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:17:48Z
+)
+
+2025-08-12 07:21:48 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01989d28-1b15-796a-b433-dfd1acd00924
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:48Z
+)
+
+2025-08-12 07:21:48 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01989d28-1b37-7ec2-a499-f098117f3a73
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:48Z
+)
+
+2025-08-12 07:21:48 - AWB: SF957683775KR - Array
+(
+    [error_id] => 01989d28-1b58-7c6d-979e-0d45e2c74a17
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:48Z
+)
+
+2025-08-12 07:21:48 - AWB: 19041784098732 - Array
+(
+    [error_id] => 01989d28-1b85-7872-867b-7835afebf08a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:48Z
+)
+
+2025-08-12 07:21:48 - AWB: 19041784199440 - Array
+(
+    [error_id] => 01989d28-1bb4-705a-87bd-59ce05cb7013
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:48Z
+)
+
+2025-08-12 07:21:48 - AWB: 19041785959866 - Array
+(
+    [error_id] => 01989d28-1bdf-79e0-8bbc-1d777fdb492e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:48Z
+)
+
+2025-08-12 07:21:48 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-1c0c-757f-9ea6-0a04e5e68e9f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:48Z
+)
+
+2025-08-12 07:21:48 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-1c2e-7cdd-b427-19aad54ba2ca
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:48Z
+)
+
+2025-08-12 07:21:48 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-1c5f-70b4-80b5-b12fd15cb9d0
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:48Z
+)
+
+2025-08-12 07:21:50 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01989d28-2537-7c1f-beb2-92077b96078d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:50Z
+)
+
+2025-08-12 07:21:50 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01989d28-255a-716d-b2fb-4c443346aff6
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:50Z
+)
+
+2025-08-12 07:21:50 - AWB: SF957683775KR - Array
+(
+    [error_id] => 01989d28-257d-77b4-9b30-8abb2160155e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:50Z
+)
+
+2025-08-12 07:21:50 - AWB: 19041784098732 - Array
+(
+    [error_id] => 01989d28-259d-7f17-aef1-a99b0769f5c4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:50Z
+)
+
+2025-08-12 07:21:50 - AWB: 19041784199440 - Array
+(
+    [error_id] => 01989d28-25d6-79e4-a09d-a3df9a9e6b92
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:50Z
+)
+
+2025-08-12 07:21:50 - AWB: 19041785959866 - Array
+(
+    [error_id] => 01989d28-2601-7eb5-9f66-770d073ab96d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:50Z
+)
+
+2025-08-12 07:21:50 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-262d-7041-89ef-2e85c276f11a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:50Z
+)
+
+2025-08-12 07:21:50 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-2652-7df1-a92f-755fa024c6a8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:50Z
+)
+
+2025-08-12 07:21:50 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-2675-70a7-aab0-2de3e65d38bd
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:50Z
+)
+
+2025-08-12 07:21:52 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01989d28-2da0-76d3-8d76-e9a470e3993a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:52Z
+)
+
+2025-08-12 07:21:52 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01989d28-2df5-74b9-86c7-4efd33d11112
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:52Z
+)
+
+2025-08-12 07:21:52 - AWB: SF957683775KR - Array
+(
+    [error_id] => 01989d28-2e19-7d33-bbb3-33f7c5175f80
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:52Z
+)
+
+2025-08-12 07:21:52 - AWB: 19041784098732 - Array
+(
+    [error_id] => 01989d28-2e3c-752a-bac7-87da3585c705
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:52Z
+)
+
+2025-08-12 07:21:52 - AWB: 19041784199440 - Array
+(
+    [error_id] => 01989d28-2e5d-7f2a-a4ee-dc47b5454a90
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:52Z
+)
+
+2025-08-12 07:21:53 - AWB: 19041785959866 - Array
+(
+    [error_id] => 01989d28-2e80-7788-9520-c5357bfd901f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:53Z
+)
+
+2025-08-12 07:21:53 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-2eb0-7d5d-b3ee-c2cc9a9597f8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:53Z
+)
+
+2025-08-12 07:21:53 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-2ed3-7b72-b52f-8942d6ccf218
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:53Z
+)
+
+2025-08-12 07:21:53 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-2ef3-7114-ad56-f71c2efd1648
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:53Z
+)
+
+2025-08-12 07:21:55 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01989d28-3656-7e93-8da5-762caa68ca1a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:55Z
+)
+
+2025-08-12 07:21:55 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01989d28-3679-72eb-b13b-16158a319fcf
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:55Z
+)
+
+2025-08-12 07:21:55 - AWB: SF957683775KR - Array
+(
+    [error_id] => 01989d28-3698-7c5e-9b6c-61fbebd863a1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:55Z
+)
+
+2025-08-12 07:21:55 - AWB: 19041784098732 - Array
+(
+    [error_id] => 01989d28-36b8-7404-9972-0d95d82b8705
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:55Z
+)
+
+2025-08-12 07:21:55 - AWB: 19041784199440 - Array
+(
+    [error_id] => 01989d28-36da-7ee8-92c3-daeea4bfefd4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:55Z
+)
+
+2025-08-12 07:21:55 - AWB: 19041785959866 - Array
+(
+    [error_id] => 01989d28-3703-73ef-975f-a839201bc829
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:55Z
+)
+
+2025-08-12 07:21:55 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-3730-731a-832f-e867a3de0690
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:55Z
+)
+
+2025-08-12 07:21:55 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-3756-7ad4-a382-ff5149744a57
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:55Z
+)
+
+2025-08-12 07:21:55 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-3777-7332-bed3-9ff6e31e2aba
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:21:55Z
+)
+
+2025-08-12 07:22:09 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01989d28-6d5a-7d9f-a301-7bb7f08040ce
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:22:09Z
+)
+
+2025-08-12 07:22:09 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01989d28-6d77-77d9-9e39-0ddf3b54d445
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:22:09Z
+)
+
+2025-08-12 07:22:09 - AWB: SF957683775KR - Array
+(
+    [error_id] => 01989d28-6d9f-7812-9259-9af8e7e7b0a1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:22:09Z
+)
+
+2025-08-12 07:22:09 - AWB: 19041784098732 - Array
+(
+    [error_id] => 01989d28-6dbe-7c20-b7dc-c6a6de4ef8b1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:22:09Z
+)
+
+2025-08-12 07:22:09 - AWB: 19041784199440 - Array
+(
+    [error_id] => 01989d28-6dde-72f7-8c26-aa0889439a9c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:22:09Z
+)
+
+2025-08-12 07:22:09 - AWB: 19041785959866 - Array
+(
+    [error_id] => 01989d28-6dff-7160-8723-817b3f2167d4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:22:09Z
+)
+
+2025-08-12 07:22:09 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-6e1f-77dc-adac-60116c7a82bf
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:22:09Z
+)
+
+2025-08-12 07:22:09 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-6e3f-712a-aa4b-c46df0c5a6be
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:22:09Z
+)
+
+2025-08-12 07:22:09 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d28-6e65-7e56-9591-a8600b8111de
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:22:09Z
+)
+
+2025-08-12 07:23:32 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01989d29-b3aa-7ead-9cbf-b28c3d27fbc1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:23:32Z
+)
+
+2025-08-12 07:23:32 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01989d29-b3ca-7c3b-ae32-0116a891b1dc
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:23:32Z
+)
+
+2025-08-12 07:23:32 - AWB: SF957683775KR - Array
+(
+    [error_id] => 01989d29-b3ea-7177-a819-288cd71ffed6
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:23:32Z
+)
+
+2025-08-12 07:23:32 - AWB: 19041784098732 - Array
+(
+    [error_id] => 01989d29-b40a-7e81-a6ed-2b20dde454cd
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:23:32Z
+)
+
+2025-08-12 07:23:32 - AWB: 19041784199440 - Array
+(
+    [error_id] => 01989d29-b42a-7b2c-b608-2759a6c6b6b3
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:23:32Z
+)
+
+2025-08-12 07:23:32 - AWB: 19041785959866 - Array
+(
+    [error_id] => 01989d29-b448-79d8-92fa-3072f785a6b2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:23:32Z
+)
+
+2025-08-12 07:23:32 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d29-b469-7bc3-b5b0-8e88cea69e49
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:23:32Z
+)
+
+2025-08-12 07:23:32 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d29-b48c-76fe-9cbe-4dbb453b78ef
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:23:32Z
+)
+
+2025-08-12 07:23:32 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989d29-b4ac-7c62-b432-8b46e9a3d1f2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T07:23:32Z
+)
+
+2025-08-12 10:09:06 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01989dc1-46da-7c0d-96a3-1ff34a9e6115
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T10:09:06Z
+)
+
+2025-08-12 10:09:06 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01989dc1-46f9-793d-8ac9-7555cebf5a38
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T10:09:06Z
+)
+
+2025-08-12 10:09:06 - AWB: SF957683775KR - Array
+(
+    [error_id] => 01989dc1-4719-7151-97c6-9dc782775ee9
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T10:09:06Z
+)
+
+2025-08-12 10:09:06 - AWB: 19041784098732 - Array
+(
+    [error_id] => 01989dc1-473c-7d6b-b9e8-4bf41596d4c5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T10:09:06Z
+)
+
+2025-08-12 10:09:06 - AWB: 19041784199440 - Array
+(
+    [error_id] => 01989dc1-475d-70ab-a21b-75d4caf5197c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T10:09:06Z
+)
+
+2025-08-12 10:09:06 - AWB: 19041785959866 - Array
+(
+    [error_id] => 01989dc1-477d-7ce5-a6e5-854328008484
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T10:09:06Z
+)
+
+2025-08-12 10:09:06 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989dc1-47a6-7cb0-8ce7-e5a3820bd1d4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T10:09:06Z
+)
+
+2025-08-12 10:09:06 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989dc1-47c7-7d25-bb0a-92a68509ea25
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T10:09:06Z
+)
+
+2025-08-12 10:09:06 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989dc1-47ea-702c-8bfc-6e36eba1a514
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T10:09:06Z
+)
+
+2025-08-12 10:09:06 - AWB: 19041786599880 - Array
+(
+    [error_id] => 01989dc1-480d-72ad-9ac1-98293bcf99b0
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T10:09:06Z
+)
+
+2025-08-12 11:31:58 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01989e0d-2572-70ff-8a18-87dda3771d1b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:31:58Z
+)
+
+2025-08-12 11:31:58 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01989e0d-258f-7e39-baff-ad6c03b3fe32
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:31:58Z
+)
+
+2025-08-12 11:31:58 - AWB: SF957683775KR - Array
+(
+    [error_id] => 01989e0d-25ad-7ac6-af37-81d34d44cac8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:31:58Z
+)
+
+2025-08-12 11:31:58 - AWB: 19041784098732 - Array
+(
+    [error_id] => 01989e0d-25d0-7ea0-ad0a-9ae6faf7e584
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:31:58Z
+)
+
+2025-08-12 11:31:58 - AWB: 19041784199440 - Array
+(
+    [error_id] => 01989e0d-25ee-7b46-b9c3-57000fbc7d3d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:31:58Z
+)
+
+2025-08-12 11:31:58 - AWB: 19041785959866 - Array
+(
+    [error_id] => 01989e0d-260b-7818-89f9-e5591d92d166
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:31:58Z
+)
+
+2025-08-12 11:31:58 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989e0d-2626-7d42-ace9-3713a2847506
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:31:58Z
+)
+
+2025-08-12 11:31:58 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989e0d-2644-73cf-9250-ae4f09cff904
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:31:58Z
+)
+
+2025-08-12 11:31:58 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989e0d-2669-7b8e-a94d-1fc58d03da07
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:31:58Z
+)
+
+2025-08-12 11:31:58 - AWB: 19041786599880 - Array
+(
+    [error_id] => 01989e0d-268c-7479-a13a-9f54203cd6dd
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:31:58Z
+)
+
+2025-08-12 11:33:11 - AWB: SF957684225KR - Array
+(
+    [error_id] => 01989e0e-43ca-71c0-a890-7f2bb449a394
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:33:11Z
+)
+
+2025-08-12 11:33:11 - AWB: 19041783797975 - Array
+(
+    [error_id] => 01989e0e-43e8-771e-9be8-de3f90fb5e63
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:33:11Z
+)
+
+2025-08-12 11:33:11 - AWB: SF957683775KR - Array
+(
+    [error_id] => 01989e0e-4408-7072-843b-8e07ad747e4f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:33:11Z
+)
+
+2025-08-12 11:33:11 - AWB: 19041784098732 - Array
+(
+    [error_id] => 01989e0e-4426-71b4-a7e6-7e05348b5aff
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:33:11Z
+)
+
+2025-08-12 11:33:11 - AWB: 19041784199440 - Array
+(
+    [error_id] => 01989e0e-4443-7c1e-ad53-17b5be49821e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:33:11Z
+)
+
+2025-08-12 11:33:11 - AWB: 19041785959866 - Array
+(
+    [error_id] => 01989e0e-4462-73a4-9bf9-cedd0929d48b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:33:11Z
+)
+
+2025-08-12 11:33:11 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989e0e-447f-7b34-9fbd-88ff66bf1eb7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:33:11Z
+)
+
+2025-08-12 11:33:11 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989e0e-449b-74f2-824e-4b103f4f82d8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:33:11Z
+)
+
+2025-08-12 11:33:11 - AWB: 7656567565 - Array
+(
+    [error_id] => 01989e0e-44b6-74e4-8f4d-ef1ff1725ca1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:33:11Z
+)
+
+2025-08-12 11:33:12 - AWB: 19041786599880 - Array
+(
+    [error_id] => 01989e0e-44d1-717a-a6fe-04b7e05d7498
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-12T11:33:12Z
+)
+
+2025-08-13 08:11:30 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a27b-f8e7-708f-a6eb-a1754c5132fe
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a27b-f90a-7d49-abc8-1994235c97b5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a27b-f92b-7576-857f-2a73d5d874b8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a27b-f949-79ef-9b82-88ffc15de0d6
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a27b-f969-73cf-b457-327d751a6690
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a27b-f984-7e6f-9c24-935393c4caaf
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27b-f9a3-7b0f-8323-9b9700b9e7e2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27b-f9c5-7016-a388-0e3c24a93361
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27b-f9e4-7b07-b56e-b64f276460ce
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27b-fa01-77c6-953c-a6998a036d3c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a27b-fa21-7f07-8231-ce92ddff7ad4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a27b-fa42-7d37-94dd-36608fa17008
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a27b-fa62-73f3-823d-64fa1bbfd340
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a27b-fa80-7d6a-b9de-81db3625fe9b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:30 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a27b-faa5-714f-a80a-9c838955a1ac
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:30Z
+)
+
+2025-08-13 08:11:41 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a27c-22f0-7911-8231-93237d0a31b3
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a27c-230c-7bd7-8ccf-d9a47ce783dd
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a27c-232a-7b90-889c-189f8c5ab047
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a27c-2349-70c5-b283-8c37fd336593
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a27c-2365-7546-909d-280b70c0808c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a27c-2385-796e-b93d-915e97db24be
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27c-23a7-7d15-9a23-a528dba3bd10
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27c-23ca-7874-bae7-2b21eb6962ce
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27c-23e8-7b44-97c3-7272e4f6c946
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27c-2406-796e-8d69-c138d1f5e29b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a27c-2423-7bc7-ae0a-2119009cce7f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a27c-2440-7a93-8d98-e26455d899c7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a27c-245e-78f9-b0f6-127252fefe02
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a27c-247b-7db9-a08c-13a63788f540
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:41 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a27c-2497-7e94-ac92-6b4239627810
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:41Z
+)
+
+2025-08-13 08:11:45 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a27c-34ae-7245-84e2-ecadbeb1a019
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:45Z
+)
+
+2025-08-13 08:11:45 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a27c-34d0-70bc-8577-9e86fa21c84d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:45Z
+)
+
+2025-08-13 08:11:45 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a27c-34ee-7cab-a836-1951572a4305
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:45Z
+)
+
+2025-08-13 08:11:45 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a27c-350e-7457-a967-a00ebf7ba1cf
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:45Z
+)
+
+2025-08-13 08:11:45 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a27c-352e-7682-b12e-de9b5dd55779
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:45Z
+)
+
+2025-08-13 08:11:45 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a27c-354e-72df-bf32-fcc54daaec5f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:45Z
+)
+
+2025-08-13 08:11:45 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27c-356f-748d-8e60-3f18cda0ec96
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:45Z
+)
+
+2025-08-13 08:11:45 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27c-358c-7901-9b33-2402018500e5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:45Z
+)
+
+2025-08-13 08:11:45 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27c-35ad-7862-ad1c-5afd7bd949bb
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:45Z
+)
+
+2025-08-13 08:11:45 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27c-35cb-74ea-a6bf-2e76a987c23f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:45Z
+)
+
+2025-08-13 08:11:46 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a27c-35e5-7061-bb34-87068fefda98
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:46Z
+)
+
+2025-08-13 08:11:46 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a27c-3609-751e-82a8-6b26a428568a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:46Z
+)
+
+2025-08-13 08:11:46 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a27c-3626-7304-a826-061d7a7459cb
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:46Z
+)
+
+2025-08-13 08:11:46 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a27c-3642-760c-ad1c-25afcb48a8f9
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:46Z
+)
+
+2025-08-13 08:11:46 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a27c-3660-7d51-86fc-479cbace8774
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:46Z
+)
+
+2025-08-13 08:11:48 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a27c-4030-716a-a3df-6aa4501921f2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:48Z
+)
+
+2025-08-13 08:11:48 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a27c-4051-7563-b1b1-1adfb47d47a5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:48Z
+)
+
+2025-08-13 08:11:48 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a27c-4070-742a-9e6f-b2c1c16c814b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:48Z
+)
+
+2025-08-13 08:11:48 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a27c-4093-78e9-acef-561c4cd851a0
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:48Z
+)
+
+2025-08-13 08:11:48 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a27c-40b7-7125-9ba2-425d9eeb0047
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:48Z
+)
+
+2025-08-13 08:11:48 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a27c-40d7-785e-a1c4-50ff0a245edf
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:48Z
+)
+
+2025-08-13 08:11:48 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27c-40f6-7983-9fd2-daa576995327
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:48Z
+)
+
+2025-08-13 08:11:48 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27c-4119-7cef-b882-6e109499e715
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:48Z
+)
+
+2025-08-13 08:11:48 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27c-4135-7436-b7cc-f2395cd4c64e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:48Z
+)
+
+2025-08-13 08:11:48 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27c-4156-775a-83ae-b399cfba403c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:48Z
+)
+
+2025-08-13 08:11:48 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a27c-417d-71ef-8279-f8479b461c35
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:48Z
+)
+
+2025-08-13 08:11:49 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a27c-419d-70b6-aadb-f8dc7cf7eb67
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:49Z
+)
+
+2025-08-13 08:11:49 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a27c-41c5-79d1-9bef-ce2bb5867134
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:49Z
+)
+
+2025-08-13 08:11:49 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a27c-41ed-7883-a25f-fa18ddae45d2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:49Z
+)
+
+2025-08-13 08:11:49 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a27c-420e-7166-8093-52d9501b38aa
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:11:49Z
+)
+
+2025-08-13 08:13:27 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a27d-c105-7d0e-b0e3-9bf8c11f1228
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a27d-c127-72e5-8eee-12b3d77a4c9d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a27d-c146-7f25-bb45-f428c4f57f4c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a27d-c166-7284-8083-42f7d79faa28
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a27d-c18a-7936-b00b-12a5635b3b23
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a27d-c1ac-710b-a35a-8be620ae2195
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27d-c1d6-7c5a-9ed6-8ed6524aed07
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27d-c1fa-7707-8351-8ed09b741a1f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27d-c21b-79ab-ad8f-677857b85289
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a27d-c244-72d5-b006-e751728b0f5e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a27d-c268-7ac5-ac9d-e9874aa21345
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a27d-c28c-7b58-a0a4-4a30fee37a9e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a27d-c2bc-785e-afc0-cceff5dd4542
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a27d-c2dc-7b50-8a01-d499af21bc44
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:13:27 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a27d-c307-7b09-869d-cf1ca5aaf515
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:13:27Z
+)
+
+2025-08-13 08:29:16 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a28c-3d31-7911-b539-3adebe4a6160
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a28c-3d58-77c1-bbbe-cbf30e1e39f6
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a28c-3d7d-7038-910b-062ee2eea8e7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a28c-3d9b-72e1-8587-6e0b70e427a2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a28c-3dba-7c0c-9831-2c91801ede7f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a28c-3de5-7e56-b760-6088f5eafdb5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28c-3e03-7762-9210-86f1f8777120
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28c-3e21-725a-b038-c45126512106
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28c-3e45-7047-9412-523813f95b21
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28c-3e64-7a86-9d33-656444ba361f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a28c-3e84-7003-891c-1e58ce0d8b12
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a28c-3e9f-7a70-90cc-61193258338f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a28c-3ec2-7aff-ac90-fa2aef259a57
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a28c-3edf-73db-8bc8-b84921211884
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:16 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a28c-3f01-7758-ad15-44f86654de84
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:16Z
+)
+
+2025-08-13 08:29:19 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a28c-4740-7c94-bae3-073fa9c4158d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a28c-4760-72f2-a981-0cd6b53bddf1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a28c-477e-7cdb-9f76-13826b9842ac
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a28c-479e-778f-81ff-62b693d079c5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a28c-47c5-7966-888d-7d0a9cb3567b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a28c-47e0-7d86-b1a4-3bf591c98ca3
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28c-47ff-752f-b7c0-43d8675b74e4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28c-481d-7af9-9f7a-2c83ffb3f644
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28c-483f-76c3-89f1-a94b556ad70a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28c-485b-7a2e-b9b7-bac9725e18ce
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a28c-487f-79ea-be12-5b6c638d3aa5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a28c-48a7-73c6-8226-c2e62107c591
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a28c-48c9-7b58-a5a9-ab2a8d523033
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a28c-48e9-7c82-939c-9fd67f119a62
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:29:19 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a28c-4917-749e-9f9f-e5fe07321d83
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:29:19Z
+)
+
+2025-08-13 08:30:33 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a28d-6aa4-7b5e-bd48-4eceb45b7f9b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:33Z
+)
+
+2025-08-13 08:30:33 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a28d-6ac3-7d12-8987-c8826c57dd33
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:33Z
+)
+
+2025-08-13 08:30:33 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a28d-6adf-730a-8fb9-c37ba8d24daa
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:33Z
+)
+
+2025-08-13 08:30:33 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a28d-6afa-726b-8101-3d76bc4fad29
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:33Z
+)
+
+2025-08-13 08:30:33 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a28d-6b17-72b2-92cd-d81c24fa52b4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:33Z
+)
+
+2025-08-13 08:30:33 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a28d-6b34-72ba-90d1-13ce4e9c3128
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:33Z
+)
+
+2025-08-13 08:30:33 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28d-6b52-769a-9449-44966193fbc9
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:33Z
+)
+
+2025-08-13 08:30:33 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28d-6b70-739a-987b-3d6482e987dc
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:33Z
+)
+
+2025-08-13 08:30:33 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28d-6b8d-7ad5-aa33-bc47fb5dbd05
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:33Z
+)
+
+2025-08-13 08:30:33 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28d-6baa-73b8-86bb-6516fb302c5b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:33Z
+)
+
+2025-08-13 08:30:33 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a28d-6bcc-7528-b73d-245c52aa973f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:33Z
+)
+
+2025-08-13 08:30:33 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a28d-6be8-706e-adb4-ed91a85f0967
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:33Z
+)
+
+2025-08-13 08:30:33 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a28d-6c04-7afe-a4eb-b2eb80028974
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:33Z
+)
+
+2025-08-13 08:30:34 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a28d-6c1e-710c-bfa5-cf93144f3fcc
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:34Z
+)
+
+2025-08-13 08:30:34 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a28d-6c3e-7771-85c1-38a9ecddcec2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:30:34Z
+)
+
+2025-08-13 08:31:10 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a28d-facd-7139-b1a3-f81200b72539
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:10Z
+)
+
+2025-08-13 08:31:10 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a28d-fae9-7167-8d28-a80b5b20daad
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:10Z
+)
+
+2025-08-13 08:31:10 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a28d-fb08-7531-bf78-686f9b4094b5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:10Z
+)
+
+2025-08-13 08:31:10 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a28d-fb49-7847-a517-2e47f7a3c653
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:10Z
+)
+
+2025-08-13 08:31:10 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a28d-fb6d-720d-9752-cddeec4d58db
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:10Z
+)
+
+2025-08-13 08:31:10 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a28d-fb8c-75af-b7e4-bcd2ae1e1425
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:10Z
+)
+
+2025-08-13 08:31:10 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28d-fbae-79b9-96bf-92f46906378b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:10Z
+)
+
+2025-08-13 08:31:10 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28d-fbd7-7793-bd21-222c296b7ea8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:10Z
+)
+
+2025-08-13 08:31:10 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28d-fbf8-7eb4-9939-c5974b0094a1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:10Z
+)
+
+2025-08-13 08:31:10 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a28d-fc18-7032-ad78-0c0783c16579
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:10Z
+)
+
+2025-08-13 08:31:11 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a28d-fca3-7127-b949-3a41904cb4f3
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:11Z
+)
+
+2025-08-13 08:31:11 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a28d-fcc3-7b09-8b5d-2fbeb30db03c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:11Z
+)
+
+2025-08-13 08:31:11 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a28d-fcea-70a1-9979-e686b1a8f26e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:11Z
+)
+
+2025-08-13 08:31:11 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a28d-fd08-7df7-976a-9e858b6109e1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:11Z
+)
+
+2025-08-13 08:31:11 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a28d-fd28-7335-a8a2-f38892c3f502
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T08:31:11Z
+)
+
+2025-08-13 09:07:29 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a2af-3b3d-7f23-89da-6365bc83bd60
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:29Z
+)
+
+2025-08-13 09:07:29 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a2af-3b5b-7290-aea7-e836e564c4d1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:29Z
+)
+
+2025-08-13 09:07:29 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a2af-3b75-7c22-b2cd-863b36e4833f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:29Z
+)
+
+2025-08-13 09:07:29 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a2af-3b92-7ae2-9c9b-090f4a36ae47
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:29Z
+)
+
+2025-08-13 09:07:29 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a2af-3bb1-7c3b-a0f6-6c9f68d112c8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:29Z
+)
+
+2025-08-13 09:07:29 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a2af-3bce-7cd9-8bb0-efeaafe532d7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:29Z
+)
+
+2025-08-13 09:07:29 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a2af-3bef-757b-9354-ad26cf3ab591
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:29Z
+)
+
+2025-08-13 09:07:29 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a2af-3c10-7f3f-a67b-a3066b56d682
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:29Z
+)
+
+2025-08-13 09:07:29 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a2af-3c2c-75bb-90d1-38d695e07621
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:29Z
+)
+
+2025-08-13 09:07:29 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a2af-3c47-7c39-a79d-e9124df59462
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:29Z
+)
+
+2025-08-13 09:07:30 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a2af-3c63-7bfd-9f7e-53e0d3e0e821
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:30Z
+)
+
+2025-08-13 09:07:30 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a2af-3c89-731a-9796-d05eb6d9b196
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:30Z
+)
+
+2025-08-13 09:07:30 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a2af-3ca5-74af-9cb8-f2e42912d112
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:30Z
+)
+
+2025-08-13 09:07:30 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a2af-3cef-7b37-8a69-ddd9b2150f8e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:30Z
+)
+
+2025-08-13 09:07:30 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a2af-3d0f-747b-87c2-f72d9a513877
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T09:07:30Z
+)
+
+2025-08-13 13:21:42 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a397-f827-7077-9f90-d4a49ed981d3
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a397-f845-758f-b6e9-d2f439d89f5c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a397-f867-7169-8ea0-31d16699881c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a397-f887-7811-bcd4-d5f664633e9c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a397-f8a8-7eab-aade-942a92c91441
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a397-f8c8-7107-bb84-7d4dadae7750
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a397-f8e4-7410-bfef-dbd4f7f003ca
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a397-f903-721c-887b-e9e307a31f91
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a397-f920-7924-93b8-4430cd84f75d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a397-f93f-7408-9aea-e10579d79ff7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a397-f95d-7236-a898-17c74f4b0fa3
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a397-f97d-7af1-a7e6-9067905e5aa3
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a397-f99d-76e0-813d-72f3f95d1ac5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a397-f9bf-7b1e-b3a0-72576eff9b10
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:42 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a397-fa52-780d-888b-52b7d5f08086
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:42Z
+)
+
+2025-08-13 13:21:43 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198a397-fa73-7b28-998a-1b7537818a7f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-13T13:21:43Z
+)
+
+2025-08-14 10:21:16 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a819-22ef-7835-9575-dd911ebbfde2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a819-230e-7056-9c2b-86a8953db29f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a819-232b-7cb5-91e6-7aa5dfa604c6
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a819-234b-7f2d-974d-0bab9e3ee744
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a819-236a-7a93-8e3f-54d6ce415364
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a819-2385-7c98-94f3-b4f1fe6d05f0
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-23a6-79bb-8600-90162b741e15
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-23c2-7c63-afb4-1cc00cdcb71d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-23e0-7cbc-b146-740bc46de57e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-2405-708f-8df6-bd909123f237
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a819-2424-77e8-965f-b7f970a30f53
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a819-2441-7adb-8eb5-c9119ab9150c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a819-2460-7512-b168-737d0ea716f8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a819-2481-710b-9ac9-27aae2846b3a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a819-249d-7249-9130-f93fda9a2b5e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198a819-24bd-7375-b3b1-fc8c661afa4b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:16 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198a819-24db-703e-81cd-f382142ff6b4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:16Z
+)
+
+2025-08-14 10:21:22 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a819-390d-72c1-8f2b-4c67ea403513
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a819-392e-72d6-8714-4aec494b18b4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a819-3955-7813-a40f-04e91b879c39
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a819-397c-7a5e-9d3e-b3cdaf6ab472
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a819-39a5-7c85-a6c7-48cc59fae8fc
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a819-39c7-73ed-95f1-7571af992c6e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-39eb-762d-bf18-b5db7a73de5c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-3a08-7e0c-bbe5-81156f24c6a0
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-3a2c-7b88-91da-36735e2845fc
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-3a4c-70e2-bd38-ba6dd235a06a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a819-3a79-7b01-952b-3b6a3c1b6cfe
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a819-3a9b-748d-b016-1c0ed461cafd
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a819-3aba-7808-a565-75c0beb19446
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a819-3ad7-7530-918d-e701e4ff06d1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a819-3af8-7b3a-ade8-fdf562715f39
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198a819-3b17-7a51-beee-e80b500eeee6
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:22 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198a819-3b35-7288-8321-63ea6da21066
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:22Z
+)
+
+2025-08-14 10:21:27 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a819-4d9a-712a-8f89-5d54932dac9a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a819-4db9-7a05-b86c-e13d45783573
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a819-4dd6-78a8-96ab-ddd5080f93e0
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a819-4dfa-7ca5-8774-677f83346729
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a819-4e24-7e27-9088-a4024fa442e2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a819-4e43-7140-ad5b-45be40de271b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-4e66-7e02-bf17-3736b25e996b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-4e87-76b7-8498-ffd809daaf7a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-4ea7-7eda-9a44-0703baa8c639
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-4ec3-76f9-a125-0c73f3f3d9b0
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a819-4ee0-7530-bf94-110acf77ff5e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a819-4efe-72e4-af2e-3e2cf013bee0
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a819-4f1c-7acb-9014-4f7622b5054f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a819-4f39-7514-9098-ba68b34f03b9
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a819-4f58-761b-a67b-6631360eac79
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198a819-4f75-7768-a035-b033f1ceb041
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:27 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198a819-4f95-75e2-85e5-6826a903c749
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:27Z
+)
+
+2025-08-14 10:21:30 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198a819-5be5-70d0-96b1-e2353d4c7758
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:30Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198a819-5c08-757d-b51c-a72ee85ab05b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198a819-5c36-7337-afc4-03c76c3ad1a5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198a819-5c5f-7e8e-ba71-46c1c78d8ac3
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198a819-5c82-7d59-84b5-cb237bdb8e60
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198a819-5ca3-76cf-8488-3491617dfe7f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-5cc9-71be-b1a1-708acc02959b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-5ce9-7dd3-812f-c7dd5ea37a50
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-5d09-78a6-9897-0540e5939cb4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198a819-5d36-772a-ae32-ca82f3b7b3b6
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198a819-5d58-7123-937f-af5ac0825623
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198a819-5d7d-7701-be3f-1d300f9dfb2e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198a819-5da6-7534-a3c8-253925f840a7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198a819-5dc8-7b45-aa3c-cfe488297c64
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198a819-5dec-7ee9-8f5a-73c4eebc4620
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198a819-5e0e-7689-bc78-6f21635fc733
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+
+2025-08-14 10:21:31 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198a819-5e2f-73ae-a89d-8b19ed88d7e1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-14T10:21:31Z
+)
+

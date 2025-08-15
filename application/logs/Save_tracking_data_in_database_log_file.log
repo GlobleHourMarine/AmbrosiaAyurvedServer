@@ -1,0 +1,33 @@
+Array
+(
+    [order_id] => ORDER_1754040293
+    [awb_code] => 19041782234816
+    [shiprocket_order_id] => 914412994
+    [shipment_id] => 910714076
+    [courier_company] => Shiprocket Surface
+    [expected_delivery_date] => 2025-08-01 14:55:09
+    [track_status] => 1
+    [current_status] => Pickup Generated
+)
+Array
+(
+    [order_id] => ORDER_1754040553
+    [awb_code] => 19041782235973
+    [shiprocket_order_id] => 914417331
+    [shipment_id] => 910718412
+    [courier_company] => Shiprocket Surface
+    [expected_delivery_date] => 2025-08-01 14:59:30
+    [track_status] => 1
+    [current_status] => Pickup Generated
+)
+Array
+(
+    [order_id] => ORDER_1754047416
+    [awb_code] => 19041782278441
+    [shiprocket_order_id] => 914538782
+    [shipment_id] => 910839835
+    [courier_company] => Shiprocket Surface
+    [expected_delivery_date] => 2025-08-01 16:53:58
+    [track_status] => 1
+    [current_status] => Pickup Generated
+)

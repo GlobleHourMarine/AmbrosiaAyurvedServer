@@ -1,0 +1,63 @@
+Array
+(
+    [merchantId] => M22NOXGSL1P2A
+    [merchantOrderId] => ORDER_1754030507
+    [orderId] => OMO2508011211478150305591
+    [state] => COMPLETED
+    [amount] => 100
+    [payableAmount] => 100
+    [feeAmount] => 0
+    [expireAt] => 1754031407815
+    [paymentDetails] => Array
+        (
+            [0] => Array
+                (
+                    [transactionId] => OM2508011211499142199638
+                    [paymentMode] => UPI_QR
+                    [timestamp] => 1754030509945
+                    [amount] => 100
+                    [payableAmount] => 100
+                    [feeAmount] => 0
+                    [state] => COMPLETED
+                    [instrument] => Array
+                        (
+                            [type] => ACCOUNT
+                            [ifsc] => HDFC0001326
+                            [accountType] => SAVINGS
+                        )
+
+                    [rail] => Array
+                        (
+                            [type] => UPI
+                            [utr] => 521393804217
+                            [upiTransactionId] => ICI5e6c20043a2b48b4874df3695ec21167
+                        )
+
+                    [splitInstruments] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [instrument] => Array
+                                        (
+                                            [type] => ACCOUNT
+                                            [ifsc] => HDFC0001326
+                                            [accountType] => SAVINGS
+                                        )
+
+                                    [rail] => Array
+                                        (
+                                            [type] => UPI
+                                            [utr] => 521393804217
+                                            [upiTransactionId] => ICI5e6c20043a2b48b4874df3695ec21167
+                                        )
+
+                                    [amount] => 100
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
