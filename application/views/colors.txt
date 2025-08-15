@@ -1,0 +1,4 @@
+background: linear-gradient(to bottom, #804e69, #f2d7e4);
+background: linear-gradient(to bottom, #804e69, #fce4ec);
+background: linear-gradient(to bottom, #002B5B, #B0E0E6) blue gradient
+background: linear-gradient(to bottom, #1A237E, #E3F2FD);
