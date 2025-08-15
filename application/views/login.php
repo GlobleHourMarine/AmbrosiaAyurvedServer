@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Login | Ambrosia Ayurved Account</title>
@@ -10,11 +6,6 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
 
   <style>
-    body {
-      margin: 0;
-      font-family: 'Open Sans', sans-serif;
-      background-color: #f9f9f9;
-    }
 
     /* Curved background */
     .background {
@@ -121,9 +112,6 @@
     transform: translateY(-3px);
   }
 }
-
-
-
     #otpSection,
     #namesection {
       display: none;
@@ -170,9 +158,6 @@
       transform: translateX(0%) !important;
     }
 
-    body {
-      overflow: auto !important;
-    }
 
     .modal-backdrop.show {
       opacity: 0 !important;
@@ -239,9 +224,8 @@
       }
     }
   </style>
-</head>
 
-<body>
+<body style="overflow: auto !important; margin: 0l; font-family:'Open Sans', sans-serif; background-color: #f9f9f9">
 
   <div class="background"></div>
 
@@ -453,5 +437,3 @@ setInterval(() => {
 }, 5000);
   </script>
 
-</body>
-</html>

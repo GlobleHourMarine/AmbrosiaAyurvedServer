@@ -245,41 +245,41 @@ class User extends CI_Controller
         }
     }
     public function send_temp_loginotp()
-{
-    $phone = $this->input->post('phone');
+    {
+        $phone = $this->input->post('phone');
 
-    // Validate mobile number
-    if (!preg_match('/^[6-9]\d{9}$/', $phone)) {
+        // Validate mobile number
+        if (!preg_match('/^[6-9]\d{9}$/', $phone)) {
+            return $this->output
+                ->set_content_type('application/json')
+                ->set_output(json_encode([
+                    'status' => 'error',
+                    'message' => '❌ Invalid phone number. Please enter a valid 10-digit number.'
+                ]));
+        }
+
+        // Check if user exists
+        $user = $this->db->where('mobile', $phone)->get('user_table')->row();
+        $is_new = $user ? false : true;
+
+        // Instead of calling OTP API, use static OTP
+        $static_otp = '101010';
+
+        // Optionally: Save OTP in session for later verification
+        $this->session->set_userdata('login_otp', $static_otp);
+        $this->session->set_userdata('otp_phone', $phone);
+
+        // Return success response
         return $this->output
             ->set_content_type('application/json')
             ->set_output(json_encode([
-                'status' => 'error',
-                'message' => '❌ Invalid phone number. Please enter a valid 10-digit number.'
+                'status' => 'success',
+                'session_id' => 'manual-test', // Static session ID placeholder
+                'otp' => $static_otp, // Send OTP only for testing; remove in production
+                'is_new' => $is_new,
+                'message' => "✅ Static OTP ($static_otp) generated for {$phone}"
             ]));
     }
-
-    // Check if user exists
-    $user = $this->db->where('mobile', $phone)->get('user_table')->row();
-    $is_new = $user ? false : true;
-
-    // Instead of calling OTP API, use static OTP
-    $static_otp = '101010';
-
-    // Optionally: Save OTP in session for later verification
-    $this->session->set_userdata('login_otp', $static_otp);
-    $this->session->set_userdata('otp_phone', $phone);
-
-    // Return success response
-    return $this->output
-        ->set_content_type('application/json')
-        ->set_output(json_encode([
-            'status' => 'success',
-            'session_id' => 'manual-test', // Static session ID placeholder
-            'otp' => $static_otp, // Send OTP only for testing; remove in production
-            'is_new' => $is_new,
-            'message' => "✅ Static OTP ($static_otp) generated for {$phone}"
-        ]));
-}
 
 
 
@@ -339,58 +339,58 @@ class User extends CI_Controller
         }
     }
     public function verify_temp_loginotp()
-{
-    $otp = $this->input->post('otp');
-    $phone = $this->input->post('phone');
-    $name = $this->input->post('name'); // only for new users
+    {
+        $otp = $this->input->post('otp');
+        $phone = $this->input->post('phone');
+        $name = $this->input->post('name'); // only for new users
 
-    // Static OTP for testing
-    $static_otp = '101010';
+        // Static OTP for testing
+        $static_otp = '101010';
 
-    // Check OTP
-    if ($otp === $static_otp) {
-        // Check if user exists
-        $user = $this->db->where('mobile', $phone)->get('user_table')->row();
+        // Check OTP
+        if ($otp === $static_otp) {
+            // Check if user exists
+            $user = $this->db->where('mobile', $phone)->get('user_table')->row();
 
-        if (!$user) {
-            // Create new account
-            $insert_data = [
-                'fname' => $name,
-                'mobile' => $phone,
-                'created_at' => date('Y-m-d H:i:s')
-            ];
-            $this->db->insert('user_table', $insert_data);
-            $user_id = $this->db->insert_id();
+            if (!$user) {
+                // Create new account
+                $insert_data = [
+                    'fname' => $name,
+                    'mobile' => $phone,
+                    'created_at' => date('Y-m-d H:i:s')
+                ];
+                $this->db->insert('user_table', $insert_data);
+                $user_id = $this->db->insert_id();
 
-            // Fetch new user
-            $user = $this->db->where('user_id', $user_id)->get('user_table')->row();
+                // Fetch new user
+                $user = $this->db->where('user_id', $user_id)->get('user_table')->row();
+            }
+
+            // Login the user
+            $this->session->set_userdata([
+                'user_id' => $user->user_id,
+                'fname' => $user->fname,
+                'lname' => $user->lname ?? '',
+                'email' => $user->email ?? '',
+                'mobile' => $user->mobile,
+                'logged_in' => TRUE
+            ]);
+
+            return $this->output
+                ->set_content_type('application/json')
+                ->set_output(json_encode([
+                    'status' => 'success',
+                    'message' => "✅ Logged in successfully"
+                ]));
+        } else {
+            return $this->output
+                ->set_content_type('application/json')
+                ->set_output(json_encode([
+                    'status' => 'error',
+                    'message' => "❌ Invalid OTP. Please try again."
+                ]));
         }
-
-        // Login the user
-        $this->session->set_userdata([
-            'user_id' => $user->user_id,
-            'fname' => $user->fname,
-            'lname' => $user->lname ?? '',
-            'email' => $user->email ?? '',
-            'mobile' => $user->mobile,
-            'logged_in' => TRUE
-        ]);
-
-        return $this->output
-            ->set_content_type('application/json')
-            ->set_output(json_encode([
-                'status' => 'success',
-                'message' => "✅ Logged in successfully"
-            ]));
-    } else {
-        return $this->output
-            ->set_content_type('application/json')
-            ->set_output(json_encode([
-                'status' => 'error',
-                'message' => "❌ Invalid OTP. Please try again."
-            ]));
     }
-}
 
 
     public function userlogout()
