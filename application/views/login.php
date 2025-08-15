@@ -436,5 +436,35 @@ setInterval(() => {
   index = (index + 1) % colors.length;
   btn.style.backgroundColor = colors[index];
 }, 5000);
+
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.dropdown-toggle').forEach(function (dropdownToggleEl) {
+      dropdownToggleEl.addEventListener('click', function (e) {
+        e.stopPropagation(); // Click bubbling रोकना
+        let parentDropdown = this.parentElement;
+        parentDropdown.classList.toggle('show');
+        let menu = parentDropdown.querySelector('.dropdown-menu');
+        if (menu) {
+          menu.classList.toggle('show');
+        }
+      });
+    });
+
+    // Dropdown के अंदर click करने पर dropdown बंद न हो
+    document.querySelectorAll('.dropdown-menu').forEach(function (menu) {
+      menu.addEventListener('click', function (e) {
+        e.stopPropagation();
+      });
+    });
+
+    // बाहर click करने पर dropdown बंद हो
+    document.addEventListener('click', function () {
+      document.querySelectorAll('.dropdown-menu.show').forEach(function (menu) {
+        menu.classList.remove('show');
+        menu.parentElement.classList.remove('show');
+      });
+    });
+  });
+
   </script>
 
