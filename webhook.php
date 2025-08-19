@@ -35,5 +35,5 @@ if ($data && isset($data['ref']) && $data['ref'] === 'refs/heads/test') {
     echo "Deployed branch: test\n";
     echo $output;
 } else {
-    echo "Not a test branch push";
+    echo "Not a test branch pushing";
 }
