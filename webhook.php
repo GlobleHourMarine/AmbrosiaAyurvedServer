@@ -18,15 +18,17 @@ if ($signatureHeader) {
 
 $data = json_decode($payload, true);
 
-if ($data && isset($data['ref']) && $data['ref'] === 'refs/heads/test') {
-    $gitBin = "/usr/bin/git"; // adjust with which git
-    $cmd = "cd /home/u467404997/domains/ambrosiaayurved.in/public_html/it && $gitBin pull origin test 2>&1";
+if ($data && isset($data['ref'])) {
+    $branch = str_replace('refs/heads/', '', $data['ref']);
+    $gitBin = "/usr/bin/git";
+    $cmd = "cd /home/u467404997/domains/ambrosiaayurved.in/public_html/it && $gitBin pull origin $branch 2>&1";
     $output = shell_exec($cmd);
 
-    file_put_contents(__DIR__ . '/deploy.log', date('Y-m-d H:i:s') . " - $cmd\n$output\n\n", FILE_APPEND);
+    file_put_contents(__DIR__ . '/deploy.log', date('Y-m-d H:i:s') . " - Branch: $branch\n$cmd\n$output\n\n", FILE_APPEND);
 
-    echo "Deployed branch: test\n";
+    echo "Deployed branch: $branch\n";
     echo $output;
-} else {
+}
+else {
     echo "Not a test branch push";
 }
