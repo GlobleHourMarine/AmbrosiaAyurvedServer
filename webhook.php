@@ -2,7 +2,10 @@
 $secret = "Ambrosia@123";
 $payload = file_get_contents('php://input');
 $headers = getallheaders();
-file_put_contents('/home/u467404997/domains/ambrosiaayurved.in/public_html/webhook.log', print_r("Inside webhook"), FILE_APPEND);
+// file_put_contents('/home/u467404997/domains/ambrosiaayurved.in/public_html/webhook.log', print_r("Inside webhook"), FILE_APPEND);
+
+file_put_contents(__DIR__ . '/webhook.log', "Inside webhook\n", FILE_APPEND);
+
 
 // Normalize header case
 $signatureHeader = $headers['X-Hub-Signature-256'] ?? $headers['x-hub-signature-256'] ?? null;
