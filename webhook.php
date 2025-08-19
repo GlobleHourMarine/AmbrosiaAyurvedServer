@@ -23,6 +23,6 @@ if ($data && isset($data['ref']) && $data['ref'] === 'refs/heads/test') {
     shell_exec("cd /home/u467404997/domains/ambrosiaayurved.in/public_html/it && git pull origin test 2>&1");
     echo "Deployed branch: test";
 } else {
-    echo "Not a test branch push";
+    echo "Not a test branch pushing";
 }
 ?>
