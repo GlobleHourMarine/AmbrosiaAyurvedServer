@@ -850,6 +850,8 @@ class User extends CI_Controller
 
     public function submit_review()
     {
+        print_r("Hello");
+        die();
         $uploaded_paths = [];
 
         if (!empty($_FILES['media_files']['name'][0])) {
@@ -865,7 +867,7 @@ class User extends CI_Controller
 
                 $originalName = preg_replace('/[^A-Za-z0-9\-_\.]/', '_', $_FILES['file']['name']);
                 $config['upload_path']   = FCPATH . 'uploads/reviews/';
-                $config['allowed_types'] = 'jpg|jpeg|png|mp4|mov|avi';
+                $config['allowed_types'] = 'jpg|jpeg|png|mp4|mov|avi|webp';
                 $config['max_size']      = 51200;
                 $config['file_name']     = uniqid('file_', true) . '_' . $originalName;
                 $config['overwrite']     = false;
@@ -894,7 +896,7 @@ class User extends CI_Controller
         $data = array(
             'user_id' => $user_id,
             'product_id' => $product_id,
-            'order_id' => $oder_id,
+            'order_id' => $order_id,
             'rating' => $rating,
             'message' => $message,
             'file_path' => $media_json,

@@ -229,7 +229,6 @@
     <div class="container-fluid">
         <div class="content-container navbar-body">
             <!-- <h3 style="background-color:#eaf2f9; text-decoration:none;">Payment Details</h3> -->
-
             <!-- Filter Section -->
             <div class="filter-section">
                 <div class="filter-options">

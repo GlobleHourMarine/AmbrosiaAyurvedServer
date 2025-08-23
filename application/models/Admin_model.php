@@ -230,6 +230,7 @@ class Admin_model extends CI_Model
         $this->db->from('payment_table p');
         $this->db->join('user_table u', 'p.user_id = u.user_id');
         $this->db->group_by('u.country');
+        $this->db->where("status", 'COMPLETED');  // filter by payment status
         $this->db->order_by('total_amount', 'DESC');
         $query = $this->db->get();
         return $query->result();
@@ -242,6 +243,8 @@ class Admin_model extends CI_Model
         $this->db->join('user_table u', 'p.user_id = u.user_id');
         $this->db->group_by('u.country');
         $this->db->order_by('total_payment', 'DESC');
+        $this->db->where("status", 'COMPLETED');  // filter by payment status
+
         return $this->db->get()->result();
     }
     public function get_current_month_total()
@@ -250,6 +253,7 @@ class Admin_model extends CI_Model
         $this->db->from('payment_table');
         $this->db->where("MONTH(date)", date('m'));
         $this->db->where("YEAR(date)", date('Y'));
+        $this->db->where("status", 'COMPLETED');  // filter by payment status
 
         $query = $this->db->get();
         return $query->row_array();  // returns ['total_amount' => value]
@@ -316,25 +320,19 @@ class Admin_model extends CI_Model
     public function get_monthly_sales()
     {
         $labels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-        $monthly = array_fill(1, 12, 0); // month number => amount
+        $monthly = array_fill(1, 12, 0);
 
         $sql = "
         SELECT 
-            DATE_FORMAT(payment_table.created_at, '%b') AS month, 
-            MONTH(payment_table.created_at) AS month_num,
-            SUM(payment_table.amount) AS total_sales 
-        FROM 
-            payment_table 
-        JOIN 
-            order_table ON order_table.order_id = payment_table.order_id 
-        WHERE 
-            payment_table.status = 'COMPLETED' 
-            AND YEAR(payment_table.created_at) = YEAR(CURDATE())
-        GROUP BY 
-            MONTH(payment_table.created_at)
-        ORDER BY 
-            MONTH(payment_table.created_at)
-         ";
+            DATE_FORMAT(payment_table.date, '%b') AS month, 
+            MONTH(payment_table.date) AS month_num,
+            SUM(CAST(payment_table.amount AS DECIMAL(10,2))) AS total_sales 
+        FROM payment_table
+        WHERE YEAR(payment_table.date) = YEAR(CURDATE())
+          AND payment_table.status = 'COMPLETED'
+        GROUP BY MONTH(payment_table.date)
+        ORDER BY MONTH(payment_table.date)
+     ";
 
         $query = $this->db->query($sql);
         $results = $query->result();
@@ -348,7 +346,6 @@ class Admin_model extends CI_Model
             'data' => array_values($monthly)
         ];
     }
-
 
     public function get_daily_sales()
     {
@@ -369,9 +366,8 @@ class Admin_model extends CI_Model
             SELECT CURDATE()
         ) AS d
         LEFT JOIN payment_table p 
-            ON DATE(p.created_at) = d.date AND p.status = 'COMPLETED'
-        LEFT JOIN order_table o 
-            ON o.order_id = p.order_id
+            ON DATE(p.created_at) = d.date
+           AND p.status = 'COMPLETED'
         GROUP BY d.date
         ORDER BY d.date
      ";
@@ -397,20 +393,14 @@ class Admin_model extends CI_Model
 
         $sql = "
         SELECT 
-            YEARWEEK(payment_table.created_at, 1) AS year_week,
-            CONCAT('Week of ', DATE_FORMAT(DATE_SUB(payment_table.created_at, INTERVAL (WEEKDAY(payment_table.created_at)) DAY), '%d %b')) AS week_label,
-            SUM(payment_table.amount) AS total_sales
-        FROM 
-            payment_table
-        JOIN 
-            order_table ON order_table.order_id = payment_table.order_id
-        WHERE 
-            payment_table.status = 'COMPLETED'
-            AND payment_table.created_at >= CURDATE() - INTERVAL 28 DAY
-        GROUP BY 
-            year_week
-        ORDER BY 
-            year_week
+            YEARWEEK(payment_table.date, 1) AS year_week,
+            CONCAT('Week of ', DATE_FORMAT(DATE_SUB(payment_table.date, INTERVAL (WEEKDAY(payment_table.date)) DAY), '%d %b')) AS week_label,
+            SUM(CAST(payment_table.amount AS DECIMAL(10,2))) AS total_sales
+        FROM payment_table
+        WHERE payment_table.date >= CURDATE() - INTERVAL 28 DAY
+          AND payment_table.status = 'COMPLETED'
+        GROUP BY year_week
+        ORDER BY year_week
      ";
 
         $query = $this->db->query($sql);
@@ -421,9 +411,11 @@ class Admin_model extends CI_Model
             $data[] = (float) $row->total_sales;
         }
 
-        return ['labels' => $labels, 'data' => $data];
+        return [
+            'labels' => $labels,
+            'data'   => $data
+        ];
     }
-
 
     public function get_yearly_sales()
     {
@@ -431,27 +423,23 @@ class Admin_model extends CI_Model
         $data = [];
 
         $currentYear = date('Y');
-        $yearRange = [$currentYear - 2, $currentYear - 1, $currentYear]; // e.g. [2023, 2024, 2025]
+        $yearRange = [$currentYear - 2, $currentYear - 1, $currentYear];
 
         foreach ($yearRange as $year) {
             $labels[] = $year;
-            $data[$year] = 0; // Initialize with 0
+            $data[$year] = 0;
         }
 
         $sql = "
         SELECT 
-            YEAR(payment_table.created_at) AS year, 
-            SUM(payment_table.amount) AS total_sales 
-        FROM 
-            payment_table 
-        JOIN 
-            order_table ON order_table.order_id = payment_table.order_id 
-        WHERE 
-            payment_table.status = 'COMPLETED'
-            AND YEAR(payment_table.created_at) >= YEAR(CURDATE()) - 2
-        GROUP BY 
-            YEAR(payment_table.created_at)
-     ";
+            YEAR(payment_table.date) AS year, 
+            SUM(CAST(payment_table.amount AS DECIMAL(10,2))) AS total_sales 
+        FROM payment_table
+        WHERE YEAR(payment_table.date) >= YEAR(CURDATE()) - 2
+          AND payment_table.status = 'COMPLETED'
+        GROUP BY YEAR(payment_table.date)
+        ORDER BY year
+      ";
 
         $query = $this->db->query($sql);
         $results = $query->result();

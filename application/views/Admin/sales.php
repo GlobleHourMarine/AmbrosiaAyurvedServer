@@ -282,21 +282,29 @@
                 if (res.sales.length) {
                     $.each(res.sales, function(i, sale) {
                         let fullName = `${sale.fname || ''} ${sale.lname || ''}`.trim();
+
+                        // ✅ Status mapping for string values
                         let statusMap = {
-                            '0': ['Pending', 'badge badge-warning'],
-                            '1': ['Done', 'badge badge-success'],
-                            '2': ['Rejected', 'badge badge-danger'],
+                            "Canceled": ["Canceled", "badge bg-danger"],
+                            "Pickup Generated": ["Pickup Generated", "badge bg-info"],
+                            "Delivered": ["Delivered", "badge bg-success"],
+                            "Rejected": ["Rejected", "badge bg-secondary"],
+                            "Pending": ["Pending", "badge bg-warning"],
+                            "Processing": ["Processing", "badge bg-primary"]
                         };
-                        let status = statusMap[sale.payment_status] || ['Unknown', 'badge badge-secondary'];
+
+                        // Handle NULL or unknown statuses
+                        let status = statusMap[sale.delivery_status] || ["Unknown", "badge bg-dark"];
+
                         html += `
-                        <tr>
-                            <td>${fullName}</td>
-                            <td>${sale.country || 'N/A'}</td>
-                            <td>${sale.mobile || 'No phone'}</td>
-                            <td>Rs.${Math.round(parseFloat(sale.amount))}</td>
-                            <td>${new Date(sale.date).toLocaleDateString('en-GB')}</td>
-                            <td><span class="${status[1]}">${status[0]}</span></td>
-                        </tr>`;
+                <tr>
+                    <td>${fullName}</td>
+                    <td>${sale.country || 'N/A'}</td>
+                    <td>${sale.mobile || 'No phone'}</td>
+                    <td>Rs.${Math.round(parseFloat(sale.amount))}</td>
+                    <td>${new Date(sale.date).toLocaleDateString('en-GB')}</td>
+                    <td><span class="${status[1]}">${status[0]}</span></td>
+                </tr>`;
                     });
                 } else {
                     html = '<tr><td colspan="6" class="text-center">No sales records found.</td></tr>';
@@ -318,8 +326,8 @@
 
                 for (let i = start; i <= end; i++) {
                     paginationHtml += `<li class="page-item ${i === page ? 'active' : ''}">
-                        <a class="page-link" href="#" data-page="${i}">${i}</a>
-                    </li>`;
+                <a class="page-link" href="#" data-page="${i}">${i}</a>
+            </li>`;
                 }
 
                 if (end < totalPages) {
@@ -333,6 +341,7 @@
                 $('#loader').hide(); // Hide loader after done
             }
         });
+
     }
 
     $(document).on('change', 'input[name="payment-filter"], #fromPaymentDate, #toPaymentDate', function() {

@@ -16,6 +16,7 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+    
     <link
         rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
@@ -27,6 +28,9 @@
         integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
         crossorigin="anonymous" />
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+
+
 
     <link rel="stylesheet" href="<?php echo base_url('assets/css/header.css'); ?>" />
     <?php if (!empty($custom_css)) {
@@ -73,6 +77,10 @@
         }
     </script>
     <style>
+        *{
+            font-family: source-serif-pro, Georgia, Cambria, "Times New Roman", Times, serif;
+                /* font-family: Josefin Sans, sans-serif; */
+        }
         /* Existing modal styles, keep as is if they work for your existing modals */
         .modal {
             position: fixed;
@@ -804,7 +812,7 @@
         }
 
         .navbar-brand img {
-            height: 50px;
+            height: 60px;
             /* Slightly reduced logo size */
             transition: all 0.3s ease;
         }
@@ -905,7 +913,7 @@
             border-radius: 50%;
             width: 18px;
             height: 18px;
-            display: flex;
+            display: flex !important;
             justify-content: center;
             align-items: center;
         }
@@ -1488,6 +1496,7 @@
         .dropdown:hover .dropdown-menu {
             display: none;
         }
+
     </style>
 
 
@@ -1517,12 +1526,53 @@
         <div id="loader"></div>
     </div>
 
-    <div class="whatsapp-float">
-        <a href="https://wa.me/YOURPHONENUMBER" class="whatsapp-link" target="_blank">
-            <i class="fab fa-whatsapp whatsapp-icon"></i>
-            <span class="whatsapp-text">Chat with us</span>
-        </a>
-    </div>
+    <!-- ✅ WhatsApp -->
+<div style="position: fixed; right: 2px; bottom: 27%; z-index: 1000;">
+  <a href="https://wa.me/918000057233" 
+     style="padding: 10px;
+        background: #fff;
+        border-radius: 10px 0px 0px 10px;
+        color: inherit;
+        font-size: 12px;
+        text-decoration: none;
+        transition: 0.3s;
+        box-shadow: 0 0 12px 0 #0003;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        overflow: hidden;
+        width: 50px;"
+     target="_blank">
+     
+      <i class="fab fa-whatsapp" style="font-size: 28px; margin-right: 8px; flex-shrink: 0; border-radius: 10px; padding: 5px; background: #25D366; color: white;"></i>
+      <span style="white-space: nowrap; font-size: 13px; opacity: 0; transition: opacity 0.3s;">Chat with us</span>
+  </a>
+</div>
+
+<!-- ✅ Free Diagnosis Test -->
+<div style="position: fixed; right: 2px; bottom: 18%; z-index: 1000;">
+  <a href="/free-diagnosis" 
+     style="padding: 10px;
+        background: linear-gradient(to right, #ec4899, #ef4444, #f97316);
+        border-radius: 10px 0px 0px 10px;
+        color: inherit;
+        font-size: 12px;
+        text-decoration: none;
+        transition: 0.3s;
+        box-shadow: 0 0 12px 0 #0003;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        overflow: hidden;
+        width: 50px;"
+     target="_blank">
+     
+      <img src="https://p7.hiclipart.com/preview/14/65/239/ico-avatar-scalable-vector-graphics-icon-doctor-with-stethoscope.jpg" style=" width: 40px; height: 40px; font-size: 28px; margin-right: 8px; flex-shrink: 0; border-radius: 45px"></img>
+      <span style="white-space: nowrap; font-size: 13px; opacity: 0; color: white; transition: opacity 0.3s;">Free Diagnosis Test</span>
+  </a>
+</div>
+
+
 
     <?php
     $isLoggedIn = $this->session->userdata('user_id');
@@ -1597,7 +1647,7 @@
                 <ul class="navbar-nav utility-nav">
                     <button style="font-size: 20px; margin-right: 8px; border: none; background: none; display:flex" type="button" data-bs-toggle="offcanvas" data-bs-target="#aaCartDrawer">
                         <i class="fas fa-shopping-cart"></i>
-                        <span id="cartCount" style="background: rgb(65, 178, 30);color: white; border-radius: 50%; font-size: 12px; font- margin-right: 0px; margin-top: 8px; margin-left: 5px;">0</span>
+                        <span id="cartCount" style="background: rgb(65, 178, 30); color: white; border-radius: 50%; font-size: 12px; font-margin-right: 0px; margin-top: 8px; margin-left: 5px;  display: flex !important;">0</span>
                     </button>
                     <li class="nav-item">
                         <a class="nav-link" href="<?= site_url('redirect/' . encrypt_url('contact_us')); ?>?>">
@@ -1720,10 +1770,10 @@
                                 <span><i class="fas fa-history me-2" style="width: 18px; text-align: center;"></i>Order History</span>
                                 <i class="fas fa-chevron-right" style="font-size: 0.7rem;"></i>
                             </a>
-                            <a href="<?= base_url('track-order'); ?>" class="btn btn-sm btn-outline-secondary d-flex align-items-center justify-content-between py-2 px-3" style="border-radius: 8px; font-size: 0.8rem;">
+                            <!-- <a href="<?= base_url('track-order'); ?>" class="btn btn-sm btn-outline-secondary d-flex align-items-center justify-content-between py-2 px-3" style="border-radius: 8px; font-size: 0.8rem;">
                                 <span><i class="fas fa-truck me-2" style="width: 18px; text-align: center;"></i>Track Order</span>
                                 <i class="fas fa-chevron-right" style="font-size: 0.7rem;"></i>
-                            </a>
+                            </a> -->
                             <button
                                 class="btn btn-sm btn-outline-secondary d-flex align-items-center justify-content-between py-2 px-3"
                                 style="border-radius: 8px; font-size: 0.8rem;"
@@ -1823,7 +1873,7 @@
 
     <!-- 🛒 Cart Drawer -->
 
-    <div class="aa-offcanvas aa-offcanvas-end" tabindex="-1" id="aaCartDrawer" aria-labelledby="aaCartDrawerLabel">
+    <div class="aa-offcanvas aa-offcanvas-end" tabindex="-1" id="aaCartDrawer" aria-labelledby="aaCartDrawerLabel" style="z-index: 9999 !important;">
   <div class="aa-offcanvas-header aa-border-bottom">
     <h5 class="aa-offcanvas-title" id="aaCartDrawerLabel">
       <i class="fas fa-shopping-cart me-2"></i> Your Cart
@@ -2105,4 +2155,32 @@
                 }
             }
         });
+
+  // WhatsApp hover effect
+  const waLink = document.querySelector('a[href*="wa.me"]');
+  const waText = waLink.querySelector('span');
+
+  waLink.addEventListener('mouseover', () => {
+    waLink.style.width = '160px';
+    waText.style.opacity = '1';
+  });
+
+  waLink.addEventListener('mouseout', () => {
+    waLink.style.width = '50px';
+    waText.style.opacity = '0';
+  });
+
+  // ✅ Free Diagnosis hover effect
+  const diagLink = document.querySelector('a[href*="/free-diagnosis"]');
+  const diagText = diagLink.querySelector('span');
+
+  diagLink.addEventListener('mouseover', () => {
+    diagLink.style.width = '200px';
+    diagText.style.opacity = '1';
+  });
+
+  diagLink.addEventListener('mouseout', () => {
+    diagLink.style.width = '50px';
+    diagText.style.opacity = '0';
+  });
     </script>

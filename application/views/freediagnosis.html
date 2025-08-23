@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Free Health Test</title>
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, #e0f2f1, #b2dfdb);
+      font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: #333;
+    }
+
+    /* Card */
+    .card {
+      position: relative;
+      z-index: 5;
+      border-radius: 20px;
+      padding: 48px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 40px;
+      box-shadow: 0 12px 32px rgba(0, 0, 0, 0.15);
+      background: #fff;
+      max-width: 950px;
+      transform: translateY(40px);
+      opacity: 0;
+      transition: transform 0.8s ease-out, opacity 0.8s ease-out;
+    }
+
+    h1 {
+      margin: 0 0 16px;
+      font-size: clamp(26px, 2.5vw, 38px);
+      line-height: 1.3;
+      font-weight: 800;
+      color: #00695c;
+    }
+
+    p { margin: 0; color: #555; font-size: 16px; }
+
+    .btnWrap { display:flex; flex-direction:column; gap:16px; align-items:flex-start; }
+
+    .btn {
+      width: 280px;
+      display: flex; align-items:center; justify-content:center; gap:10px;
+      padding:14px 22px;
+      border-radius:14px;
+      font-size:17px; font-weight:600;
+      cursor:pointer; user-select:none;
+      transition: all .25s ease;
+    }
+
+    .btn.upload {
+      border:2px solid #009688;
+      background:#fff;
+      color:#009688;
+      box-shadow:0 6px 14px rgba(0,150,136,0.25);
+    }
+    .btn.upload:hover {
+      background:#009688;
+      color:#fff;
+    }
+
+    .btn.start {
+      border:none;
+      background: linear-gradient(135deg,#009688,#00695c);
+      color:#fff;
+      box-shadow:0 6px 16px rgba(0,105,92,0.4);
+    }
+    .btn.start:hover {
+      transform: translateY(-2px);
+      box-shadow:0 10px 24px rgba(0,105,92,0.55);
+    }
+
+    .btn.secondary {
+      border:2px solid #aaa; background:transparent; color:#555;
+    }
+
+    .btn.submit {
+      background: #e0f2f1; border:2px solid #009688; color:#aaa;
+      cursor:not-allowed;
+    }
+
+    .spinner {
+      width:26px;height:26px;
+      border:3px solid #ddd;border-top:3px solid #009688;
+      border-radius:50%;animation:spin .8s linear infinite;
+    }
+    @keyframes spin {100%{transform:rotate(360deg)}}
+
+    /* Responsive */
+    @media(max-width:768px){
+      body{padding:20px;}
+      .card{flex-direction:column;gap:20px;padding:24px;text-align:center;max-width:420px;}
+      .btnWrap{align-items:center;width:100%;}
+      .btn{max-width:320px;width:100%;}
+    }
+    
+    @media(max-width: 768px) {
+  body {
+    padding: 20px;
+  }
+
+  .card {
+    flex-direction: column;   /* row → column */
+    gap: 20px;
+    padding: 24px;
+    text-align: center;
+    max-width: 420px;
+    width: 100%;              /* full width on mobile */
+  }
+
+  .leftText {
+    padding: 1rem !important; /* kam padding */
+    max-width: 100% !important;
+  }
+
+  .leftText img {
+    width: 80px !important;   /* logo chhota */
+    margin-bottom: 0.75rem;
+  }
+
+  .leftText h1 {
+    font-size: 1.5rem !important;
+    margin-bottom: 0.5rem;
+  }
+
+  .leftText p {
+    font-size: 1rem !important;
+    line-height: 1.4;
+  }
+
+  .btnWrap {
+    align-items: center;
+    width: 100%;
+  }
+
+  .btn {
+    max-width: 320px;
+    width: 100%;
+  }
+}
+
+  </style>
+</head>
+<body>
+  <!-- Card -->
+<div class="card" id="cardRoot">
+  <div class="leftText" 
+     style="max-width: 36rem; margin: 0 auto; text-align: center; padding: 2rem; 
+            background: linear-gradient(135deg, #e0f7fa, #ffffff);
+            border-radius: 1.25rem; box-shadow: 0 8px 20px rgba(0,0,0,0.08); 
+            transition: transform 0.3s ease, box-shadow 0.3s ease;">
+  
+  <img src="https://test.ambrosiaayurved.in/assets/images/new_logo11.webp" 
+       style="width: 110px; height: auto; margin-bottom: 1rem; 
+              animation: floatLogo 3s ease-in-out infinite;" />
+
+  <h1 style="font-size: 2rem; font-weight: 700; color: #004d40; margin-bottom: 0.75rem;">
+    Free Health Test
+  </h1>
+
+  <p style="font-size: 1.125rem; line-height: 1.6; color: #37474f;">
+    Upload your medical report and get an 
+    <span style="font-weight:700; color:#009688; background: rgba(0,150,136,0.1); padding: 0 4px; border-radius: 4px;">
+      instant online diagnosis
+    </span> 
+    powered by AI.
+  </p>
+</div>
+
+  <div class="btnWrap">
+    <!-- Upload -->
+    <label for="fileInput" class="btn upload" style="width: 227px !important">
+      📑 Upload Report
+    </label>
+    <input id="fileInput" type="file" accept=".pdf,.jpg,.jpeg,.png" style="display:none" />
+    <div id="loadingSpinner" style="display:none;align-items:center;gap:8px;color:#009688;font-weight:600;">
+      <div class="spinner"></div> Uploading...
+    </div>
+
+    <!-- Start -->
+    <button id="startBtn" class="btn start">▶ Start Online Diagnosis</button>
+
+    <!-- Submit & Back -->
+    <button id="submitBtn" class="btn submit" disabled>Submit Report</button>
+    <button onclick="location.href='/'" class="btn secondary">Back to Home</button>
+  </div>
+</div>
+
+<!-- Status -->
+<div id="statusBar" style="position:absolute;bottom:20px;left:50%;transform:translateX(-50%);width:min(720px,92%);text-align:center;z-index:20;">
+  <p id="errorText" style="margin:6px 0;font-weight:700;color:#d32f2f;display:none"></p>
+  <p id="okText" style="margin:6px 0;font-weight:600;color:#388e3c;display:none"></p>
+</div>
+
+<script>
+  const card=document.getElementById("cardRoot");
+  const fileInput=document.getElementById("fileInput");
+  const spinner=document.getElementById("loadingSpinner");
+  const submitBtn=document.getElementById("submitBtn");
+  const errorText=document.getElementById("errorText");
+  const okText=document.getElementById("okText");
+  const startBtn=document.getElementById("startBtn");
+  let selectedFile=null;
+
+  // Animate card on load
+  window.addEventListener("load",()=>{
+    requestAnimationFrame(()=>{card.style.transform="translateY(0)";card.style.opacity="1";});
+  });
+
+  const allowedTypes=["application/pdf","image/jpeg","image/png"];
+  const maxSize=5*1024*1024;
+
+  fileInput.addEventListener("change",(e)=>{
+    const uploadedFile=e.target.files[0];
+    if(!uploadedFile) return;
+
+    // Reset messages
+    errorText.style.display="none";
+    okText.style.display="none";
+
+    if(!allowedTypes.includes(uploadedFile.type)){
+      errorText.textContent="❌ Only PDF, JPG, or PNG files allowed.";
+      errorText.style.display="block"; fileInput.value=""; return;
+    }
+    if(uploadedFile.size>maxSize){
+      errorText.textContent="❌ File size must not exceed 5 MB.";
+      errorText.style.display="block"; fileInput.value=""; return;
+    }
+
+    spinner.style.display="flex";
+    submitBtn.disabled=true;
+
+    setTimeout(()=>{
+      spinner.style.display="none";
+      okText.textContent=`✅ Uploaded: ${uploadedFile.name} (${(uploadedFile.size/1024/1024).toFixed(2)} MB)`;
+      okText.style.display="block";
+      submitBtn.disabled=false;
+      submitBtn.style.cursor="pointer";
+      submitBtn.style.background="#009688";
+      submitBtn.style.color="#fff";
+    },2000);
+
+    selectedFile=uploadedFile;
+  });
+
+  startBtn.addEventListener("click",()=>{window.location.href="/test";});
+  submitBtn.addEventListener("click",()=>{
+    if(selectedFile){alert("✅ Report submitted successfully!");window.location.href="/test";}
+  });
+</script>
+</body>
+</html>

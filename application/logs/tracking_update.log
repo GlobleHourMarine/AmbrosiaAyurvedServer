@@ -4834,3 +4834,2459 @@
     [timestamp] => 2025-08-14T10:21:31Z
 )
 
+2025-08-15 08:08:18 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198acc5-c464-749a-92ce-52dd4548a71d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:18Z
+)
+
+2025-08-15 08:08:18 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198acc5-c483-737c-ab21-1364068c5a32
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:18Z
+)
+
+2025-08-15 08:08:18 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198acc5-c49f-797e-be60-dec49ac798e1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:18Z
+)
+
+2025-08-15 08:08:18 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198acc5-c4bd-7f40-8dce-4edfe4484e04
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:18Z
+)
+
+2025-08-15 08:08:18 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198acc5-c4dc-76b2-8ba0-621b21a20e26
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:18Z
+)
+
+2025-08-15 08:08:18 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198acc5-c4fc-7de1-809b-65490fdbf893
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:18Z
+)
+
+2025-08-15 08:08:18 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198acc5-c51c-780a-b526-ee19ce5198ff
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:18Z
+)
+
+2025-08-15 08:08:19 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198acc5-c53e-7a8f-8eac-f8773e39ad9f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:19Z
+)
+
+2025-08-15 08:08:19 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198acc5-c55a-7928-8ca6-bdc243db3e84
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:19Z
+)
+
+2025-08-15 08:08:19 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198acc5-c577-7697-95ca-9300008285c7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:19Z
+)
+
+2025-08-15 08:08:19 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198acc5-c599-740d-9419-2c547763c03d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:19Z
+)
+
+2025-08-15 08:08:19 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198acc5-c5ba-73b0-b4a2-d0fe80bc9dfe
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:19Z
+)
+
+2025-08-15 08:08:19 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198acc5-c5d7-7c81-bb75-5130a1d2d742
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:19Z
+)
+
+2025-08-15 08:08:19 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198acc5-c5f6-73b6-bf66-3fcf0983010c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:19Z
+)
+
+2025-08-15 08:08:19 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198acc5-c614-70ed-aa81-41ae7b7959e4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:19Z
+)
+
+2025-08-15 08:08:19 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198acc5-c62f-72b1-be16-da22ea02444e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:19Z
+)
+
+2025-08-15 08:08:19 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198acc5-c64b-7e5f-b97b-8e738ab1d4ab
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-15T08:08:19Z
+)
+
+2025-08-18 05:44:46 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198bbb5-6fa1-74f5-9e52-81f05ed8d2c2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:46Z
+)
+
+2025-08-18 05:44:46 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198bbb5-6fca-7b02-9777-380bfe8d6560
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:46Z
+)
+
+2025-08-18 05:44:46 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198bbb5-6ff9-7787-80c0-3dde554776b3
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:46Z
+)
+
+2025-08-18 05:44:46 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198bbb5-702d-7e2b-b0d4-4f5757cae604
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:46Z
+)
+
+2025-08-18 05:44:46 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198bbb5-704f-7b3d-ad71-3358b75de667
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:46Z
+)
+
+2025-08-18 05:44:46 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198bbb5-707e-75c8-963f-a65ac814a696
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:46Z
+)
+
+2025-08-18 05:44:47 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198bbb5-70a3-70c4-b91a-ab5ff6e15620
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:47Z
+)
+
+2025-08-18 05:44:47 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198bbb5-70cc-708c-904e-056870e6d6d3
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:47Z
+)
+
+2025-08-18 05:44:47 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198bbb5-70f6-7dc0-accb-5a2a406e6f4e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:47Z
+)
+
+2025-08-18 05:44:47 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198bbb5-711c-7109-8c86-be974d758146
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:47Z
+)
+
+2025-08-18 05:44:47 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198bbb5-713a-7e11-ba92-ad9d191a719b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:47Z
+)
+
+2025-08-18 05:44:47 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198bbb5-7160-7733-b3ae-a08560dfe5a8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:47Z
+)
+
+2025-08-18 05:44:47 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198bbb5-7181-7aa7-957f-11d032dfddfd
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:47Z
+)
+
+2025-08-18 05:44:47 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198bbb5-719f-7c0a-952f-fcaae6333338
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:47Z
+)
+
+2025-08-18 05:44:47 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198bbb5-71be-75a2-9602-707deffb8379
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:47Z
+)
+
+2025-08-18 05:44:47 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198bbb5-71e4-7920-b7ac-fbd2346ee5ce
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:47Z
+)
+
+2025-08-18 05:44:47 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198bbb5-7208-76db-8711-8dc73a1a0e78
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T05:44:47Z
+)
+
+2025-08-18 06:00:40 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198bbc3-fdb7-7a66-948e-25206171526c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:40Z
+)
+
+2025-08-18 06:00:40 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198bbc3-fddf-7455-8e4c-944c36f76e50
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:40Z
+)
+
+2025-08-18 06:00:40 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198bbc3-fe05-7874-ae65-86f5771c95bc
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:40Z
+)
+
+2025-08-18 06:00:40 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198bbc3-fe27-7977-b358-f0e11b884828
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:40Z
+)
+
+2025-08-18 06:00:40 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198bbc3-fe45-7b0a-bdb8-d41ccfaec182
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:40Z
+)
+
+2025-08-18 06:00:40 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198bbc3-fe64-7aa7-af5d-c1e1314c4535
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:40Z
+)
+
+2025-08-18 06:00:40 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198bbc3-fe87-7bff-b0b0-a3d8c286aab2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:40Z
+)
+
+2025-08-18 06:00:40 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198bbc3-fea4-7979-8362-7380958c1ace
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:40Z
+)
+
+2025-08-18 06:00:40 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198bbc3-fec3-7070-8e2e-2e4468f207a1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:40Z
+)
+
+2025-08-18 06:00:40 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198bbc3-fee2-7ced-ac20-497f27de15d7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:40Z
+)
+
+2025-08-18 06:00:40 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198bbc3-ff06-7c90-8316-80039ebcbb0d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:40Z
+)
+
+2025-08-18 06:00:41 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198bbc3-ff2b-7d04-bdfa-62baef56d8a1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:41Z
+)
+
+2025-08-18 06:00:41 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198bbc3-ff4e-71d8-a46e-62eb9fb2ff76
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:41Z
+)
+
+2025-08-18 06:00:41 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198bbc3-ff71-78b9-9eb2-c7e92b4d8f35
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:41Z
+)
+
+2025-08-18 06:00:41 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198bbc3-ff96-7517-ab0f-927684a08605
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:41Z
+)
+
+2025-08-18 06:00:41 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198bbc3-ffb4-7204-8969-c0f80efd508f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:41Z
+)
+
+2025-08-18 06:00:41 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198bbc3-ffd5-7c7c-8ae9-0fb7d65e3fb3
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T06:00:41Z
+)
+
+2025-08-18 12:54:33 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198bd3e-eabe-74e3-8119-4c4ae4295653
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:33Z
+)
+
+2025-08-18 12:54:33 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198bd3e-eaec-72b8-b377-7a4cd9addfcc
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:33Z
+)
+
+2025-08-18 12:54:34 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198bd3e-eb11-7b5d-8af7-c217b568d7b7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198bd3e-eb3b-731e-994e-2ba9da44223a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198bd3e-eb5b-7bdd-a50d-8a81aaa6d24e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198bd3e-eb7e-7f14-8d13-6fd4eb54d2ae
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198bd3e-eba0-75c7-8eed-ca8dcd2ce718
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198bd3e-ebc0-7aa4-a79e-c07e352fe9a7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198bd3e-ebe0-70bd-aac0-26bfa8fbbac3
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198bd3e-ebfc-7a2f-9a15-b6d205ba0360
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198bd3e-ec20-78b0-acc3-25df67e50bc7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198bd3e-ec3f-796b-8728-2499f6ed3944
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198bd3e-ec5c-727a-b3fc-f5c9cdf95a6c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198bd3e-ec7a-791d-8a6a-6cf9d96f67f5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198bd3e-ec98-7358-9596-7d88f73ff518
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198bd3e-ecb7-784f-b77c-b68cbcecaf4b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-18 12:54:34 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198bd3e-ecd6-70ad-afe7-205454393829
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-18T12:54:34Z
+)
+
+2025-08-19 11:36:01 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198c21d-5d4b-7d2c-950b-f74b86fb19cd
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198c21d-5d71-7a68-aa5e-64ae012a5e8e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198c21d-5da5-7a57-b9c4-d3e4b6197f60
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c21d-5dd7-7407-8837-e8d334c1f36f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198c21d-5e24-7509-b28e-3ed8e9bc18d9
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c21d-5e4f-77e7-bd78-4f13a04b58c4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c21d-5e77-7047-875e-2d757ca78c03
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c21d-5ed5-7196-ba00-f99c16e66e40
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c21d-5ef5-74eb-b858-f96d5dc68e80
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c21d-5f1f-7ad5-ae13-3516e98bf262
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c21d-5f3e-7e2d-868f-e4a27be7deee
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c21d-5f5c-7225-9719-356524ee4a09
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198c21d-5f77-7a15-af65-3200cd0b9769
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c21d-5f93-7635-936c-53f9c8778a71
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c21d-5fbc-7b70-96d8-d22d5542b368
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198c21d-5fdc-7757-8b60-08e4f7dca61c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 11:36:01 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198c21d-5ffa-7c82-8265-b6a008e6c93a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T11:36:01Z
+)
+
+2025-08-19 14:14:25 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198c2ae-6210-7cb6-a090-57f846200ebd
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198c2ae-6235-7034-82c6-e1e1578fce77
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198c2ae-6253-70a8-ae08-757b19807d91
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c2ae-626f-7d18-94da-8e39ccb9a966
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198c2ae-628d-70f0-a54a-850cba98f9da
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c2ae-62b1-7b25-bfd2-2280eb9de418
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c2ae-62d1-777d-a6d5-39bc26cb0d07
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c2ae-62ee-7d9f-9313-85a087964839
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c2ae-6318-78eb-bc32-11d9639ac5c1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c2ae-6337-7a47-80f3-9d0a959df022
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c2ae-6354-7844-b5b6-a9647c33fbbb
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c2ae-6372-7885-a846-df6b5bd734ec
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198c2ae-6395-704f-9c00-cc7bcb06051a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c2ae-63b2-7089-b65e-d82db2ad68d4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c2ae-63e9-7849-829d-2076a01221fd
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198c2ae-6405-7d62-b80a-86917abb80c5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198c2ae-6429-7040-b109-6792e19e98dc
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-19 14:14:25 - AWB: 19041789767855 - Array
+(
+    [error_id] => 0198c2ae-6446-7817-9b8b-9fcf1fe6eea2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-19T14:14:25Z
+)
+
+2025-08-20 05:06:22 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198c5de-fd9d-7ebd-b93a-d1fff5871edf
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198c5de-fdb8-7114-a997-581131090ea6
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198c5de-fdd2-7bf8-970b-0138e29ee0dd
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c5de-fdf0-7d34-86fa-68a1c3e66c79
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198c5de-fe0d-7869-87a7-c09ccd842147
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c5de-fe2b-7c73-88c3-e805992dfff4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5de-fe4b-72f7-b009-5f5e0d79f68e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5de-fe65-7cb7-9717-448bc0c3ac54
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5de-fe81-71e6-808e-e19be6419fa3
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5de-fe9b-77ef-b574-4d8360244159
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c5de-feb8-7ad6-9863-ee06868060d5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c5de-fed2-7acf-b98e-ce5feea43271
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198c5de-feee-7b4f-ab7a-87033d75d028
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c5de-ff0a-718c-bb92-d7c40c66bb75
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c5de-ff24-7c70-8ab3-b9bc974e397f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198c5de-ff40-7019-ae0e-b3db99ddb393
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198c5de-ff5f-7021-9d0c-ecf0b2ab9cd1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:06:22 - AWB: 19041789767855 - Array
+(
+    [error_id] => 0198c5de-ff7b-72dd-9f6f-8614e5621d21
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:06:22Z
+)
+
+2025-08-20 05:12:44 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198c5e4-d1d6-7a23-a39c-de2e4a96fd55
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198c5e4-d1f4-7e1e-b33a-c8319df8bea4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198c5e4-d210-7cc0-8ecb-53d34f90b92b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c5e4-d22b-7db3-bbcf-762f3caf268b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198c5e4-d248-7532-9933-91656d96d69e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c5e4-d265-717e-a252-e3ab82468732
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5e4-d281-79b0-a5ae-e8185e56aa78
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5e4-d29e-7aa5-a31f-04128729e8ff
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5e4-d2ba-7352-b730-c3437ebc4b54
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5e4-d2d6-7807-bb15-5efb4cdf214d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c5e4-d2f3-737c-b4e0-a734f1a906c5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c5e4-d311-73e9-8b60-d78bd4ffe449
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198c5e4-d330-7559-93e4-dcb63e65d951
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c5e4-d349-7812-8f24-b5e274879aad
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c5e4-d366-727f-a5e2-9f4fc98679f4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198c5e4-d380-7d4c-95f3-9d4bb2325dc2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198c5e4-d39d-71f9-bb31-0729d0637ef4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:12:44 - AWB: 19041789767855 - Array
+(
+    [error_id] => 0198c5e4-d3bd-7ade-ba27-9de59739df17
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:12:44Z
+)
+
+2025-08-20 05:13:07 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198c5e5-2b6b-7626-8bcc-dcff4d89c42f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198c5e5-2b86-7bbc-aa05-11830ccaed61
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198c5e5-2ba1-7b6d-b09b-d4e3bb4e5874
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c5e5-2bbe-715e-9ed3-2a6c8c1f786a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198c5e5-2bdb-7dfc-a176-dea44889b619
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c5e5-2bf6-76da-8c9e-aa2f6ddfbf21
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5e5-2c0f-7a6f-ae5c-a2b866e4f78a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5e5-2c29-7c00-baa1-3bf9019e248a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5e5-2c43-7d74-ba20-587cb18c9cc8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5e5-2c60-73c2-ab16-688415de48b2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c5e5-2c79-7423-b181-0c2e1e49d847
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c5e5-2c97-7aaa-8219-6810071568c8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198c5e5-2cb2-77af-ae9d-b6bd91b1b6fe
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c5e5-2cd0-774f-acc0-d162c460050e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c5e5-2ce9-7e9e-8ef2-be7ac69271c8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198c5e5-2d02-7e01-a37e-68375d6323d6
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198c5e5-2d1d-7518-8561-9fb35ae32586
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:07 - AWB: 19041789767855 - Array
+(
+    [error_id] => 0198c5e5-2d38-7406-b46e-e88d51275cb4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:07Z
+)
+
+2025-08-20 05:13:16 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198c5e5-4de6-7d0c-a28f-d8ebec1207a7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198c5e5-4e01-71da-b6cc-297c916da0c5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198c5e5-4e1c-7f0e-b07a-8bf30f4b90ca
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c5e5-4e39-77b3-ab9f-c68b574bb683
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198c5e5-4e51-79ba-be84-f9470f8f35cd
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c5e5-4e6c-7963-8ba8-fe59c6194d97
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5e5-4e87-7688-813b-aa045663a986
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5e5-4ea2-7181-972c-f682988660fc
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5e5-4ebf-73fb-9383-185066a8a881
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5e5-4ed9-7920-860c-32c61b1e680a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c5e5-4ef1-7c5a-b920-fbef28e8aab5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c5e5-4f0e-7481-ab4d-de7b12d9f5d4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198c5e5-4f2a-7b38-99da-920fca6d44ee
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c5e5-4f43-7c89-b31b-38eabce4fa91
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c5e5-4f5c-7697-b0d6-c9e8df297c88
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198c5e5-4f78-78ff-8382-c477d216402e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198c5e5-4f93-7b2d-b367-efb9d784a364
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:13:16 - AWB: 19041789767855 - Array
+(
+    [error_id] => 0198c5e5-4fb5-7166-9b53-257b8dbcf9f6
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:13:16Z
+)
+
+2025-08-20 05:22:05 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198c5ed-6418-7f02-b0d3-05b114717f48
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:05Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198c5ed-6434-7042-a457-0c2a2010daa8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198c5ed-6475-7e67-9210-07075c58ee8d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c5ed-649f-7977-a399-abbf098a8795
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198c5ed-64bc-748b-a352-e06b9e7c6d0c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c5ed-64ef-72c3-a0e1-71f4aac74f7a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-650a-7c3b-aba2-624edbe78754
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-652d-7d18-85ed-8c123616cc97
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-654f-7b41-8a7c-dd2741bd5edc
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-656b-796c-921b-584419247067
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c5ed-6584-7772-ba32-454c830a4a54
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c5ed-659f-7175-a592-af0fb3e843ac
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198c5ed-65c0-7c59-83b6-506559a5393e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c5ed-65e2-7367-b840-036698802305
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c5ed-661c-76ea-919c-e928d1963095
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198c5ed-663b-7db3-91ac-4d1153d8464c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198c5ed-6664-7ce8-a586-634e008ec354
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041789767855 - Array
+(
+    [error_id] => 0198c5ed-668a-7bc2-9d43-1767453f0f05
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:06 - AWB: 19041790002996 - Array
+(
+    [error_id] => 0198c5ed-66ad-7cf7-8b91-23a562ebf524
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:06Z
+)
+
+2025-08-20 05:22:08 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198c5ed-6d55-78ae-acf9-e022e74f5f6f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198c5ed-6d78-73fe-9fe6-dd231e041253
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198c5ed-6da9-79de-9fcb-7488240242c7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c5ed-6dcb-7b93-95ee-ebed4b645c2c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198c5ed-6df4-734c-bf53-1bad8c4890c2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c5ed-6e19-7689-a85d-de596dd7efb9
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-6e37-7574-b454-47d976dc92d4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-6e58-75f0-9893-df00b893a730
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-6e7b-7f25-b633-dc531a9e7626
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-6e98-78ad-8e97-c67839b1946c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c5ed-6eb5-721b-96eb-6513238d1bfd
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c5ed-6ed2-7989-a332-874bce9a7f6d
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198c5ed-6eed-7a0e-b60a-dc55477f6529
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c5ed-6f0b-7487-a088-26c5d0120303
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c5ed-6f27-7414-8701-eef177195155
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198c5ed-6f46-7cd1-a29f-17b2631217e6
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198c5ed-6f6a-7e86-a56b-aae7cdc50835
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041789767855 - Array
+(
+    [error_id] => 0198c5ed-6f8a-703c-9538-e41666156b47
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:08 - AWB: 19041790002996 - Array
+(
+    [error_id] => 0198c5ed-6fa4-7867-a5d4-0b806bc35b50
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:08Z
+)
+
+2025-08-20 05:22:10 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198c5ed-7561-7823-9277-ab9e3969927c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198c5ed-7589-7cc3-8c6c-412bb37ff82a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198c5ed-75a7-755f-9973-dceca49648ad
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c5ed-75c4-7964-b9bf-80a00a9f4868
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198c5ed-75de-7daf-a71d-adf8671e86a4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c5ed-75ff-7461-9a8e-d463bb15acc1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-761b-73c4-9bd7-3a1739922640
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-7642-7bc5-8c66-9531af814533
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-7667-7b2e-8e1c-59e30ea5a9f9
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-7685-7907-b6bf-989a5ac8ed16
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c5ed-76a2-7557-af17-c0fe69700812
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c5ed-76be-7432-a3fb-083f086b36c7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198c5ed-76e7-7715-896c-bdc47c082392
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c5ed-7703-738d-a0e8-4e923684c249
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c5ed-7723-78f9-841f-fd9928717674
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198c5ed-775e-78d4-bf9b-669fbb99c908
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198c5ed-7779-7e35-9a98-5ac6f31261ab
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:10 - AWB: 19041789767855 - Array
+(
+    [error_id] => 0198c5ed-77a2-793a-9840-7b9fb03bfb02
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:10Z
+)
+
+2025-08-20 05:22:11 - AWB: 19041790002996 - Array
+(
+    [error_id] => 0198c5ed-77d4-7029-8fd9-962fddb41ea8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:11Z
+)
+
+2025-08-20 05:22:15 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198c5ed-88bf-7e97-9fe7-3ecbe31896fe
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198c5ed-88dc-7015-a540-8866ed861f0f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198c5ed-8908-7576-8931-f7ac52b76b65
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c5ed-8938-727f-bbc5-f6a729148c3b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198c5ed-8952-7419-879c-bd7bc585a7ed
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c5ed-896e-7ecd-80a4-aa51745891e4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-8992-7c5b-93bc-0ee65d5dce9b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-89ae-7887-832e-178927ebfeec
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-89cc-7d84-8a84-7c8736d229e7
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ed-89f0-7539-826c-8828d44aaeec
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c5ed-8a11-7ee5-b2a7-07a6fa21e87a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c5ed-8a38-731d-b27b-15cf9e25ebb8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198c5ed-8a52-7b38-9978-6319f8e9e551
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c5ed-8a73-78ee-a771-0da60e71cd6a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c5ed-8a96-7e68-93c4-3d0a3f64d596
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198c5ed-8ab2-7350-84e4-99a683e6ddf2
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198c5ed-8ada-7971-bb46-ac0161f8249e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041789767855 - Array
+(
+    [error_id] => 0198c5ed-8b00-7aa7-83c6-02d66217a249
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:15 - AWB: 19041790002996 - Array
+(
+    [error_id] => 0198c5ed-8b29-7691-92c4-aa4518f7cce4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:15Z
+)
+
+2025-08-20 05:22:54 - AWB: SF957684225KR - Array
+(
+    [error_id] => 0198c5ee-22fd-7c5c-b2a6-9a7d73338954
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:54Z
+)
+
+2025-08-20 05:22:54 - AWB: 19041783797975 - Array
+(
+    [error_id] => 0198c5ee-2318-7ae6-94c6-091b7f69bf9f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:54Z
+)
+
+2025-08-20 05:22:54 - AWB: SF957683775KR - Array
+(
+    [error_id] => 0198c5ee-2334-7510-9da9-8d7ef4985043
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:54Z
+)
+
+2025-08-20 05:22:54 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c5ee-2350-7d18-a8c1-0b80874e6488
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:54Z
+)
+
+2025-08-20 05:22:54 - AWB: 19041784199440 - Array
+(
+    [error_id] => 0198c5ee-236f-7eca-a4af-5179e36827e5
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:54Z
+)
+
+2025-08-20 05:22:54 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c5ee-238c-7310-b52f-d17cac272c18
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:54Z
+)
+
+2025-08-20 05:22:55 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ee-23aa-7d1e-8863-8761aa98ba78
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:55Z
+)
+
+2025-08-20 05:22:55 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ee-23cb-7b5e-9a4d-472c055129e0
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:55Z
+)
+
+2025-08-20 05:22:55 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ee-23e9-7e89-b744-2bab7c78eee0
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:55Z
+)
+
+2025-08-20 05:22:55 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c5ee-2404-7829-afb7-bade72dff134
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:55Z
+)
+
+2025-08-20 05:22:55 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c5ee-2420-701e-ba13-b3048e309e8b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:55Z
+)
+
+2025-08-20 05:22:55 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c5ee-243c-7b0a-9549-f262e87e49be
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:55Z
+)
+
+2025-08-20 05:22:55 - AWB: 19041786975813 - Array
+(
+    [error_id] => 0198c5ee-245a-75f3-be1e-19a1033bdbf1
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:55Z
+)
+
+2025-08-20 05:22:55 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c5ee-2476-7cab-b5f5-f3bb1e757868
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:55Z
+)
+
+2025-08-20 05:22:55 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c5ee-2492-70ae-af98-e1d8319885eb
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:55Z
+)
+
+2025-08-20 05:22:55 - AWB: 19041787246223 - Array
+(
+    [error_id] => 0198c5ee-24ab-7ed4-b986-e7f5cce65b9b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:55Z
+)
+
+2025-08-20 05:22:55 - AWB: 19041787529034 - Array
+(
+    [error_id] => 0198c5ee-24c8-71c2-ae29-afb1615ec620
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:55Z
+)
+
+2025-08-20 05:22:55 - AWB: 19041789767855 - Array
+(
+    [error_id] => 0198c5ee-24eb-736a-baa7-5b378eb20390
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:55Z
+)
+
+2025-08-20 05:22:55 - AWB: 19041790002996 - Array
+(
+    [error_id] => 0198c5ee-251a-7cfe-97a4-399921299366
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T05:22:55Z
+)
+
+2025-08-20 08:22:37 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c692-a9f2-70e5-84ae-367c5efd0a8c
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:22:37Z
+)
+
+2025-08-20 08:22:37 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c692-aa1d-7143-b688-7cf589ede392
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:22:37Z
+)
+
+2025-08-20 08:22:37 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c692-aa41-74fd-8199-cab51e51cc16
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:22:37Z
+)
+
+2025-08-20 08:22:37 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c692-aa6a-786c-ac93-cb43f6d1ed55
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:22:37Z
+)
+
+2025-08-20 08:22:37 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c692-aa8d-7970-84c0-f659b3abb9e8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:22:37Z
+)
+
+2025-08-20 08:22:37 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c692-aaae-7821-a061-57ec0b8b9b83
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:22:37Z
+)
+
+2025-08-20 08:22:37 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c692-aad0-7e3c-a2bc-e4c78a42274e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:22:37Z
+)
+
+2025-08-20 08:22:37 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c692-aaf5-73b3-a928-644a50c49069
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:22:37Z
+)
+
+2025-08-20 08:22:37 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c692-ab18-74f5-b368-53d98195d2eb
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:22:37Z
+)
+
+2025-08-20 08:22:37 - AWB: 19041790002996 - Array
+(
+    [error_id] => 0198c692-ab40-70dd-9ce1-2241200634e6
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:22:37Z
+)
+
+2025-08-20 08:22:37 - AWB: 19041790031431 - Array
+(
+    [error_id] => 0198c692-ab5d-7864-af14-440d9ce28f61
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:22:37Z
+)
+
+2025-08-20 08:23:28 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c693-7380-76b9-be47-80f01f9a7021
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:23:28Z
+)
+
+2025-08-20 08:23:28 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c693-73ae-703d-a473-ccd8a4924258
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:23:28Z
+)
+
+2025-08-20 08:23:28 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c693-73cd-79b9-9083-bf0c8217fb91
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:23:28Z
+)
+
+2025-08-20 08:23:29 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c693-73e9-72e2-ab76-300f9cddf49f
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:23:29Z
+)
+
+2025-08-20 08:23:29 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c693-7407-7af4-8d77-2a52ec4e491b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:23:29Z
+)
+
+2025-08-20 08:23:29 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c693-7424-7da8-9396-8f41c59fd2db
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:23:29Z
+)
+
+2025-08-20 08:23:29 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c693-7442-72a3-ba5e-50339f150ca9
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:23:29Z
+)
+
+2025-08-20 08:23:29 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c693-7465-7140-af35-f82df905ecaa
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:23:29Z
+)
+
+2025-08-20 08:23:29 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c693-7481-7386-9c94-a0544e893372
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:23:29Z
+)
+
+2025-08-20 08:23:29 - AWB: 19041790002996 - Array
+(
+    [error_id] => 0198c693-749d-78e9-92c7-1bfeb2c86e8b
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:23:29Z
+)
+
+2025-08-20 08:23:29 - AWB: 19041790031431 - Array
+(
+    [error_id] => 0198c693-74c9-7d77-9165-f2d594047005
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T08:23:29Z
+)
+
+2025-08-20 11:42:00 - AWB: 19041784098732 - Array
+(
+    [error_id] => 0198c749-355f-7aee-8ab3-3c7a28fbd178
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T11:42:00Z
+)
+
+2025-08-20 11:42:00 - AWB: 19041785959866 - Array
+(
+    [error_id] => 0198c749-3589-736b-a754-11ac4684a526
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T11:42:00Z
+)
+
+2025-08-20 11:42:00 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c749-35ae-77fe-8584-b1695a000d87
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T11:42:00Z
+)
+
+2025-08-20 11:42:00 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c749-35cc-7033-b432-46ba26f183b8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T11:42:00Z
+)
+
+2025-08-20 11:42:00 - AWB: 19041786599880 - Array
+(
+    [error_id] => 0198c749-362e-7806-bc27-1cd704abe32e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T11:42:00Z
+)
+
+2025-08-20 11:42:00 - AWB: 19041786693794 - Array
+(
+    [error_id] => 0198c749-3677-7a14-9f61-d3854c6b215e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T11:42:00Z
+)
+
+2025-08-20 11:42:00 - AWB: 19041786972700 - Array
+(
+    [error_id] => 0198c749-3697-7615-9d57-4a1a7bdd09bd
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T11:42:00Z
+)
+
+2025-08-20 11:42:01 - AWB: 19041786999812 - Array
+(
+    [error_id] => 0198c749-37b5-7453-8ad1-83e08595d00e
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T11:42:01Z
+)
+
+2025-08-20 11:42:01 - AWB: 19041787021862 - Array
+(
+    [error_id] => 0198c749-37dd-7655-9d14-7bd3dcf3b20a
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T11:42:01Z
+)
+
+2025-08-20 11:42:01 - AWB: 19041790002996 - Array
+(
+    [error_id] => 0198c749-381f-786d-b08a-6ad39b92b632
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T11:42:01Z
+)
+
+2025-08-20 11:42:01 - AWB: 19041790031431 - Array
+(
+    [error_id] => 0198c749-3843-79d3-801b-cab978f15db6
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-20T11:42:01Z
+)
+
+2025-08-23 05:21:03 - AWB: 19041790671625 - Array
+(
+    [error_id] => 0198d55f-848c-7389-9642-c954ab25e3e8
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-23T05:21:03Z
+)
+
+2025-08-23 05:21:09 - AWB: 19041790671625 - Array
+(
+    [error_id] => 0198d55f-9b3a-735c-a698-407920e335c9
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-23T05:21:09Z
+)
+
+2025-08-23 05:21:18 - AWB: 19041790671625 - Array
+(
+    [error_id] => 0198d55f-bfba-7429-b429-48341d2f6686
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-23T05:21:18Z
+)
+
+2025-08-23 05:21:31 - AWB: 19041790671625 - Array
+(
+    [error_id] => 0198d55f-f2a2-7efe-9bb5-ff44d403e0f4
+    [message] => unauthorized request
+    [status_code] => 401
+    [timestamp] => 2025-08-23T05:21:31Z
+)
+

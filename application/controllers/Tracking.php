@@ -334,7 +334,8 @@ class Tracking extends CI_Controller
     }
     public function update_tracking_status()
     {
-        $orders = $this->tracking_model->get_all_orders('track_order');
+        $user_id=$this->session->userdata('user_id');
+        $orders = $this->tracking_model->get_all_orders('track_order',$user_id);
         file_put_contents(APPPATH . 'logs/All_orders_for_update_tracking_data.log', print_r($orders, true), FILE_APPEND);
 
         if ($orders) {
@@ -358,6 +359,7 @@ class Tracking extends CI_Controller
             }
             // echo json_encode(['status' => 'success', 'data' => $data, 'message' => 'Tracking status updated for all orders']);
         }
+        show_404();
         // else {
         //     echo json_encode(['status' => 'error', 'message' => 'No orders found in track_order table']);
         // }

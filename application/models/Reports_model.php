@@ -14,9 +14,10 @@ class Reports_model extends CI_Model
 
     public function get_orders_with_users($limit, $offset)
     {
-        $this->db->select('order_table.*, user_table.user_id as user_id, user_table.fname,user_table.lname, user_table.country');
+        $this->db->select('order_table.*, user_table.user_id as user_id, user_table.fname, user_table.lname, user_table.country, track_order.current_status');
         $this->db->from('order_table');
         $this->db->join('user_table', 'user_table.user_id = order_table.user_id', 'left');
+        $this->db->join('track_order', 'track_order.order_id = order_table.order_id', 'left'); // join track_order
         $this->db->order_by('order_table.order_id', 'DESC');
         $this->db->limit($limit, $offset); // Apply limit and offset for pagination
         $query = $this->db->get();
@@ -156,16 +157,25 @@ class Reports_model extends CI_Model
     // }
     public function get_filtered_orders($filter_type = null, $search_term = null, $from_date = null, $to_date = null, $country = null, $limit = null, $offset = null)
     {
-        $this->db->select('order_table.*, user_table.user_id as user_id, user_table.fname, user_table.lname, user_table.country');
+        $this->db->select('
+        order_table.*, 
+        user_table.user_id as user_id, 
+        user_table.fname, 
+        user_table.lname, 
+        user_table.country, 
+        track_order.current_status
+            ');
         $this->db->from('order_table');
         $this->db->join('user_table', 'user_table.user_id = order_table.user_id', 'left');
         $this->db->join('payment_table', 'payment_table.order_id = order_table.order_id');
+        $this->db->join('track_order', 'track_order.order_id = order_table.order_id', 'left'); // ✅ join track_order for status
+
         $this->db->where('payment_table.status', 'COMPLETED');
 
+        // apply filters
         $this->_apply_order_filters($filter_type, $search_term, $from_date, $to_date, $country);
 
         $this->db->group_by('order_table.order_id'); // prevent duplicates
-
         $this->db->order_by('order_table.order_id', 'DESC');
 
         if ($limit !== null && $offset !== null) {
@@ -175,6 +185,8 @@ class Reports_model extends CI_Model
         $query = $this->db->get();
         return $query->result_array();
     }
+
+
     public function get_total_filtered_orders($filter_type = null, $search_term = null, $from_date = null, $to_date = null, $country = null)
     {
         // Build main query first
@@ -459,9 +471,19 @@ class Reports_model extends CI_Model
     {
         date_default_timezone_set('Asia/Kolkata');
 
-        $this->db->select('u.fname, u.lname, u.country, u.mobile, p.amount, p.date, p.status as payment_status');
+        $this->db->select('
+        u.fname, 
+        u.lname, 
+        u.country, 
+        u.mobile, 
+        p.amount, 
+        p.date, 
+        p.status as payment_status,
+        t.current_status as delivery_status
+    ');
         $this->db->from('payment_table p');
         $this->db->join('user_table u', 'u.user_id = p.user_id', 'left');
+        $this->db->join('track_order t', 't.order_id = p.order_id', 'left'); // ✅ join delivery status
 
         // Filter by country type
         if ($filter_type === 'national') {

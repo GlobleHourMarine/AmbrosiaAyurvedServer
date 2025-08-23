@@ -51,9 +51,16 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 
-$route['404_override'] = '';
+$route['404_override'] = 'Errors_controller/page_404';
+$route['test_page'] = 'Ambrosia_main/test_page';
+
+$route['sound_autoplay'] = 'Ambrosia_main/sound_autoplay';
+
+
 $route['translate_uri_dashes'] = FALSE;
 $route['default_controller'] = 'Ambrosia_main';
+
+
 $route['contact_us'] = 'Ambrosia_main/contact_us';
 $route['about_us'] = 'Ambrosia_main/about_us';
 $route['our_products'] = 'Ambrosia_main/our_products';
@@ -85,9 +92,12 @@ $route['place_order'] = 'Ambrosia_main/place_order';
 $route['new_cart'] = 'Ambrosia_main/new_cart';
 $route['add_your_review'] = 'Ambrosia_main/add_your_review';
 $route['apply_coupon'] = 'Ambrosia_main/apply_coupon';
+$route['free-diagnosis'] = 'Ambrosia_main/free_diagnosis';
+$route['test']     = 'Ambrosia_main/test_diagnosis';
 
 //user controler....
 $route['user_reviews'] = 'user/user_reviews';
+
 $route['bill'] = 'user/billing';
 $route['get-cart-count'] = 'user/get_cart_count';
 $route['support/delete-account'] = 'user/DeleteAccount';

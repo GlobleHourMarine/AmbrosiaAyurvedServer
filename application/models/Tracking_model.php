@@ -94,9 +94,9 @@ class Tracking_model extends CI_Model
             return false;
         }
     }
-    public function get_all_orders($table)
+    public function get_all_orders($table, $user_id)
     {
-        $query = $this->db->get($table);
+        $query = $this->db->where('user_id', $user_id)->get($table);
         return $query->result_array();
     }
 

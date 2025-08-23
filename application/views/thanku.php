@@ -62,7 +62,7 @@
       // Redirect user after video ends, with 1 seconds delay
       video.addEventListener("ended", () => {
         setTimeout(() => {
-          window.location.href = "<?= base_url('bill') ?>";
+          window.location.href = "<?php  echo base_url('bill') ?>";
         }, 1000);
       });
     </script>

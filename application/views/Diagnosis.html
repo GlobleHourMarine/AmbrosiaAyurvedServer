@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Diabetes Risk Test</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Poppins', sans-serif; }
+
+    /* Question step wrapper with fixed height */
+    .questions-wrapper {
+      min-height: 380px; /* Adjust if needed */
+      position: relative;
+    }
+
+    /* Step animations */
+    .question-step {
+      position: absolute;
+      width: 100%;
+      opacity: 0;
+      transform: translateY(20px);
+      pointer-events: none;
+      transition: opacity 0.4s ease, transform 0.4s ease;
+    }
+    .question-step.active {
+      opacity: 1;
+      transform: translateY(0);
+      pointer-events: auto;
+      position: relative;
+    }
+
+    /* Dot animation */
+    .dot-step.active {
+      background-color: #1e3a8a;
+      color: white;
+      animation: pulseDot 0.6s ease;
+    }
+    @keyframes pulseDot {
+      0% { transform: scale(0.8); }
+      50% { transform: scale(1.2); }
+      100% { transform: scale(1); }
+    }
+
+    /* Button hover */
+    .option-btn {
+      transition: all 0.3s ease;
+    }
+    .option-btn:hover {
+      transform: translateY(-3px) scale(1.02);
+      box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+    }
+
+    /* Container gradient */
+    .main-card {
+      background: linear-gradient(to bottom right, #fde047, #facc15);
+    }
+  </style>
+</head>
+<body class="bg-gradient-to-br from-blue-400 to-blue-800 flex justify-center p-4 min-h-screen items-center">
+
+  <div class="main-card rounded-3xl w-full max-w-4xl shadow-2xl overflow-hidden">
+
+    <!-- Progress Bar -->
+    <div class="flex items-center px-4 py-4 text-blue-900 font-bold text-xs sm:text-sm">
+      <div class="flex items-center w-full">
+        <span class="dot-step w-8 h-8 border-2 border-blue-900 rounded-full flex items-center justify-center active">1</span>
+        <div class="dot-line flex-1 h-[2px] bg-blue-900 mx-1"></div>
+        <span class="dot-step w-8 h-8 border-2 border-blue-900 rounded-full flex items-center justify-center">2</span>
+        <div class="dot-line flex-1 h-[2px] bg-blue-900 mx-1"></div>
+        <span class="dot-step w-8 h-8 border-2 border-blue-900 rounded-full flex items-center justify-center">3</span>
+        <div class="dot-line flex-1 h-[2px] bg-blue-900 mx-1"></div>
+        <span class="dot-step w-8 h-8 border-2 border-blue-900 rounded-full flex items-center justify-center">4</span>
+        <div class="dot-line flex-1 h-[2px] bg-blue-900 mx-1"></div>
+        <span class="dot-step w-8 h-8 border-2 border-blue-900 rounded-full flex items-center justify-center">5</span>
+        <div class="dot-line flex-1 h-[2px] bg-blue-900 mx-1"></div>
+        <span class="dot-step w-8 h-8 border-2 border-blue-900 rounded-full flex items-center justify-center">6</span>
+        <div class="dot-line flex-1 h-[2px] bg-blue-900 mx-1"></div>
+        <span class="dot-step w-8 h-8 border-2 border-blue-900 rounded-full flex items-center justify-center">7</span>
+        <div class="dot-line flex-1 h-[2px] bg-blue-900 mx-1"></div>
+        <span class="dot-step w-8 h-8 border-2 border-blue-900 rounded-full flex items-center justify-center">8</span>
+      </div>
+    </div>
+    <div id="resultStep" class="hidden text-center p-6">
+  <h2 class="text-3xl font-bold text-blue-900">Your Result</h2>
+  <p id="resultText" class="mt-4 text-lg text-blue-900"></p>
+  <button onclick="location.reload()" class="mt-6 px-6 py-3 bg-blue-900 text-white rounded-lg">Restart</button>
+    <button onclick="window.location.href='/'" 
+        class="mt-6 px-6 py-3 bg-blue-900 text-white rounded-lg">
+  Back to Home
+</button>
+</div>
+
+    <!-- Questions -->
+<div class="p-2">
+  <div class="questions-wrapper space-y-8">
+
+    <!-- Common Step Style: All steps follow same structure -->
+    <!-- Step 1 -->
+    <div class="question-step active flex flex-col sm:flex-row items-center sm:items-start justify-center mx-4 sm:mx-10 min-h-[350px]" data-step="1">
+      <div class="flex-shrink-0 flex justify-center items-center w-[305px] h-[250px]">
+        <img src="https://worlddiabetesday.org/type-2-diabetes-risk-assessment/wp-content/themes/risk-assessment/_/img/2023/RAT-Slide-2.png" alt="Party Hat" class="w-full h-full object-contain">
+      </div>
+      <div class="sm:ml-10 flex flex-col justify-center text-center sm:text-left w-full max-w-md">
+        <h2 class="text-3xl font-bold text-blue-900 mb-2">How old are you?</h2>
+        <p class="text-blue-900 mb-6">The older you are, the higher your risk for type 2 diabetes.</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0">YOUNGER THAN 40</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="1">40-49 YEARS</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="1.5">50-59 YEARS</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="2">60+ YEARS</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Step 2 -->
+    <div class="question-step flex flex-col sm:flex-row items-center sm:items-start justify-center mx-4 sm:mx-10 min-h-[350px]" data-step="2">
+      <div class="flex-shrink-0 flex justify-center items-center w-[305px] h-[250px]">
+        <img src="https://static.vecteezy.com/system/resources/previews/005/084/945/non_2x/big-family-with-three-generation-free-vector.jpg" alt="Family History" class="w-full h-full object-contain">
+      </div>
+      <div class="sm:ml-10 flex flex-col justify-center text-center sm:text-left w-full max-w-md">
+        <h2 class="text-3xl font-bold text-blue-900 mb-2">Do you have a family history of diabetes?</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="1">YES</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0">NO</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Step 3 -->
+    <div class="question-step flex flex-col sm:flex-row items-center sm:items-start justify-center mx-4 sm:mx-10 min-h-[350px]" data-step="3">
+      <div class="flex-shrink-0 flex justify-center items-center w-[305px] h-[250px]">
+        <img src="https://static.vecteezy.com/system/resources/previews/001/486/331/large_2x/cartoon-character-with-high-blood-pressure-symptoms-free-vector.jpg" alt="High Blood Pressure" class="w-full h-full object-contain">
+      </div>
+      <div class="sm:ml-10 flex flex-col justify-center text-center sm:text-left w-full max-w-md">
+        <h2 class="text-3xl font-bold text-blue-900 mb-2">Do you have high blood pressure?</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="1">YES</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0">NO</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.2">Once in a Week</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.4">More Than in a Week</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.2">Once in a Month</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.4">More than in a Month</button>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- Step 4 -->
+    <div class="question-step flex flex-col sm:flex-row items-center sm:items-start justify-center mx-4 sm:mx-10 min-h-[350px]" data-step="4">
+      <div class="flex-shrink-0 flex justify-center items-center w-[305px] h-[250px]">
+        <img src="https://static.vecteezy.com/system/resources/previews/066/332/312/non_2x/young-man-running-marathon-illustration-isolated-on-white-background-vector.jpg" alt="Exercise" class="w-full h-full object-contain">
+      </div>
+      <div class="sm:ml-10 flex flex-col justify-center text-center sm:text-left w-full max-w-md">
+        <h2 class="text-3xl font-bold text-blue-900 mb-2">Do you exercise regularly?</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0">YES</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="1">NO</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.2">Once in a Week</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.4">More Than in a Week</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.6">Once in a Month</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.8">More than in a Month</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Step 5 -->
+    <div class="question-step  flex flex-col sm:flex-row items-center sm:items-start justify-center mx-4 sm:mx-10 min-h-[350px]" data-step="5">
+      <div class="flex-shrink-0 flex justify-center items-center w-[305px] h-[250px]">
+        <img src="https://www.shutterstock.com/image-vector/cholesterol-human-blood-vessels-heart-260nw-2008618103.jpg" alt="High Cholesterol" class="w-full h-full object-contain">
+      </div>
+      <div class="sm:ml-10 flex flex-col justify-center text-center sm:text-left w-full max-w-md">
+        <h2 class="text-3xl font-bold text-blue-900 mb-2">Do you have high cholesterol?</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="1">YES</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0">NO</button>
+                    <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.2">Once in a Week</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.4">More Than in a Week</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.2">Once in a Month</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.6">More than in a Month</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Step 6 -->
+    <div class="question-step  flex flex-col sm:flex-row items-center sm:items-start justify-center mx-4 sm:mx-10 min-h-[350px]" data-step="6">
+      <div class="flex-shrink-0 flex justify-center items-center w-[305px] h-[250px]">
+        <img src="https://static.vecteezy.com/system/resources/previews/060/399/055/non_2x/woman-preparing-a-fresh-salad-with-vegetables-in-minimal-flat-art-vector.jpg" alt="Fruits and Vegetables" class="w-full h-full object-contain">
+      </div>
+      <div class="sm:ml-10 flex flex-col justify-center text-center sm:text-left w-full max-w-md">
+        <h2 class="text-3xl font-bold text-blue-900 mb-2">How often do you eat vegetables or fruits?</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0">I eat vegetables or fruits every day</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="1">I do not eat vegetables or fruits every day</button>
+                    <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.5">Once in a Week</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.8">More Than in a Week</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="1">Once in a Month</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="2">More than in a Month</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Step 7 -->
+    <div class="question-step  flex flex-col sm:flex-row items-center sm:items-start justify-center mx-4 sm:mx-10 min-h-[350px]" data-step="7">
+      <div class="flex-shrink-0 flex justify-center items-center w-[305px] h-[250px]">
+        <img src="https://worlddiabetesday.org/type-2-diabetes-risk-assessment/wp-content/themes/risk-assessment/_/img/bmi_graphic-01.png" alt="Weight Category" class="w-full h-full object-contain">
+      </div>
+      <div class="sm:ml-10 flex flex-col justify-center text-center sm:text-left w-full max-w-md">
+        <h2 class="text-3xl font-bold text-blue-900 mb-2">What is your current body weight category?</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0">Under 40 KG</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.5">40-49 Kg</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.7">50-59 Kg</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.9">60-69 Kg</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="1">70-79 Kg</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="2">80+</button>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- Step 8 -->
+    <div class="question-step  flex flex-col sm:flex-row items-center sm:items-start justify-center mx-4 sm:mx-10 min-h-[350px]" data-step="8">
+      <div class="flex-shrink-0 flex justify-center items-center w-[305px] h-[250px]">
+        <img src="https://img.freepik.com/premium-vector/passive-lifestyle-flat-modern-design-illustration_566886-29.jpg" alt="sedentary lifestyle?" class="w-full h-full object-contain">
+      </div>
+      <div class="sm:ml-10 flex flex-col justify-center text-center sm:text-left w-full max-w-md">
+        <h2 class="text-3xl font-bold text-blue-900 mb-2">Do you have a physical activity?</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0">Yes</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="1">No</button>
+                    <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.5">Once in a Week</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.6">More Than in a Week</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="0.8">Once in a Month</button>
+          <button class="option-btn border border-blue-900 px-4 py-3 font-bold text-blue-900 rounded-lg hover:bg-blue-900 hover:text-white shadow-md" data-points="1">More than in a Month</button>
+        </div>
+      </div>
+    </div>
+    </div>
+    
+    
+    <!-- Navigation Buttons -->
+    <div class="flex justify-between px-6 py-4 border-t border-blue-900 bg-yellow-400">
+      <button id="prevBtn" class="text-blue-900 font-bold flex items-center gap-2 hover:underline hover:scale-105 transition-transform" disabled>
+        <span class="text-lg">↰</span> PREVIOUS
+      </button>
+      <button id="nextBtn" class="hidden text-blue-900 font-bold flex items-center gap-2 hover:underline hover:scale-105 transition-transform">
+        NEXT <span class="text-lg">↱</span>
+      </button>
+    </div>
+  </div>
+  
+
+<script>
+let currentStep = 1;
+let score = 0;
+
+const steps = document.querySelectorAll(".question-step");
+const dots = document.querySelectorAll(".dot-step");
+const nextBtn = document.getElementById("nextBtn");
+const prevBtn = document.getElementById("prevBtn");
+const optionButtons = document.querySelectorAll(".option-btn");
+const resultStep = document.getElementById("resultStep");
+const resultText = document.getElementById("resultText");
+const progressBar = document.getElementById("progressBar"); // wrap your dots in a div with this ID
+
+optionButtons.forEach(button => {
+  button.addEventListener("click", () => {
+    score += parseFloat(button.dataset.points || 0); // safer
+    goNextStep();
+  });
+});
+
+function showStep(step) {
+  steps.forEach(s => s.classList.remove("active"));
+  const stepDiv = document.querySelector(`.question-step[data-step="${step}"]`);
+  if (stepDiv) stepDiv.classList.add("active");
+
+  dots.forEach((dot, idx) => {
+    dot.classList.toggle("active", idx === step - 1);
+  });
+
+  prevBtn.disabled = step === 1;
+}
+
+function goNextStep() {
+  if (currentStep < steps.length) {
+    currentStep++;
+    showStep(currentStep);
+  } else {
+    showResult();
+  }
+}
+
+function showResult() {
+  document.querySelector(".questions-wrapper").classList.add("hidden");
+  if (progressBar) progressBar.classList.add("hidden");
+  nextBtn.classList.add("hidden");
+  prevBtn.classList.add("hidden");
+  resultStep.classList.remove("hidden");
+
+  let risk = score <= 4 ? "Low Risk ✅"
+            : score <= 8 ? "Moderate Risk ⚠️"
+            : "High Risk ❗";
+
+  resultText.innerText = `Your score is ${score}. This indicates: ${risk}`;
+}
+
+prevBtn.addEventListener("click", () => {
+  if (currentStep > 1) {
+    currentStep--;
+    showStep(currentStep);
+  }
+});
+
+showStep(currentStep);
+</script>
+
+
+</body>
+</html>

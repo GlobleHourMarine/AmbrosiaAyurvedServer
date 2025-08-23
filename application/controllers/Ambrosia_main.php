@@ -12,6 +12,50 @@ class Ambrosia_main extends CI_Controller
     }
 
 
+    public function test_page(){
+
+    // ---------- Deleted Views ----------
+    // $this->load->view('../views/test_otp.php');
+    // $this->load->view('../views/payment_failure.php');
+    // $this->load->view('../views/add_coupon.php');
+    // $this->load->view('../views/order_place.php');
+    // $this->load->view('../views/demo_login.php'); // temporary
+    // $this->load->view('../views/my_cart.php');
+    // $this->load->view('../views/cart.php');
+    // $this->load->view('../views/paymentdone.php');
+    // $this->load->view('../views/benefit.php');
+    // $this->load->view('../views/benefits.php');
+
+
+
+
+
+
+    
+    // ---------- Not Needed (for now) ----------
+    // $this->load->view('../views/forgotpassword.php');
+    // $this->load->view('../views/verifyotp.php');
+    // $this->load->view('../views/setpassword.php');
+    // $this->load->view('../views/ReviewPage.html');
+    // $this->load->view('../views/delete_user_account.php');
+    // $this->load->view('../views/register.php');
+    // $this->load->view('../views/reviews.php'); // description page
+
+
+
+
+    // ---------- Currently Important ----------
+    // $this->load->view('../views/description.php');
+    // $this->load->view('../views/user_information.php');
+
+
+}
+    public function free_diagnosis(){
+        $this->load->view('../views/freediagnosis.html');
+    }
+    public function test_diagnosis(){
+        $this->load->view('../views/Diagnosis.html');
+    }
 
     public function language()
     {
@@ -352,7 +396,12 @@ class Ambrosia_main extends CI_Controller
 
     public function view($slug)
     {
+        // print_r($slug);
+        // die();
         $product_data = $this->usermodel->get_product_by_slug($slug);
+        // echo "<pre>";
+        // print_r($product_data);
+        // die();
 
         if (!$product_data) {
             show_404(); // Return 404 if no product found
@@ -382,7 +431,14 @@ class Ambrosia_main extends CI_Controller
     }
     public function thanku()
     {
-        $this->load->view('thanku.php');
+        // $this->load->view('thanku.php');
+        $this->load->view('Payment.php');
+
+
+    }
+    public function sound_autoplay(){
+        $this->load->view('sound_autoplay.php');
+
     }
     public function add_coupon()
     {

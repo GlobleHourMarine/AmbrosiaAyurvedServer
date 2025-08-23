@@ -6157,3 +6157,4996 @@ Array
         )
 
 )
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Exception
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-13 07:54:23
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Exception
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-13 07:54:23
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Exception
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-13 07:54:23
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Exception
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-13 07:54:23
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Exception
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-13 07:54:23
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Exception
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-13 07:54:23
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+    [17] => Array
+        (
+            [id] => 37
+            [user_id] => 10126
+            [order_id] => ORDER_1755606531
+            [shiprocket_order_id] => 935755561
+            [shipment_id] => 932205128
+            [awb_code] => 19041789767855
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-19
+            [created_at] => 2025-08-19 12:29:43
+            [updated_at] => 2025-08-19 12:29:43
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Exception
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-13 07:54:23
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+    [17] => Array
+        (
+            [id] => 37
+            [user_id] => 10126
+            [order_id] => ORDER_1755606531
+            [shiprocket_order_id] => 935755561
+            [shipment_id] => 932205128
+            [awb_code] => 19041789767855
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-19
+            [created_at] => 2025-08-19 12:29:43
+            [updated_at] => 2025-08-19 12:29:43
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Exception
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-13 07:54:23
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+    [17] => Array
+        (
+            [id] => 37
+            [user_id] => 10126
+            [order_id] => ORDER_1755606531
+            [shiprocket_order_id] => 935755561
+            [shipment_id] => 932205128
+            [awb_code] => 19041789767855
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-19
+            [created_at] => 2025-08-19 12:29:43
+            [updated_at] => 2025-08-19 12:29:43
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Exception
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-13 07:54:23
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+    [17] => Array
+        (
+            [id] => 37
+            [user_id] => 10126
+            [order_id] => ORDER_1755606531
+            [shiprocket_order_id] => 935755561
+            [shipment_id] => 932205128
+            [awb_code] => 19041789767855
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-19
+            [created_at] => 2025-08-19 12:29:43
+            [updated_at] => 2025-08-19 12:29:43
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Exception
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-13 07:54:23
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+    [17] => Array
+        (
+            [id] => 37
+            [user_id] => 10126
+            [order_id] => ORDER_1755606531
+            [shiprocket_order_id] => 935755561
+            [shipment_id] => 932205128
+            [awb_code] => 19041789767855
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-19
+            [created_at] => 2025-08-19 12:29:43
+            [updated_at] => 2025-08-19 12:29:43
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-20 05:14:31
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+    [17] => Array
+        (
+            [id] => 37
+            [user_id] => 10126
+            [order_id] => ORDER_1755606531
+            [shiprocket_order_id] => 935755561
+            [shipment_id] => 932205128
+            [awb_code] => 19041789767855
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-19
+            [created_at] => 2025-08-19 12:29:43
+            [updated_at] => 2025-08-19 12:29:43
+        )
+
+    [18] => Array
+        (
+            [id] => 38
+            [user_id] => 10042
+            [order_id] => ORDER_1755667189
+            [shiprocket_order_id] => 936361716
+            [shipment_id] => 932809811
+            [awb_code] => 19041790002996
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-20
+            [created_at] => 2025-08-20 05:20:41
+            [updated_at] => 2025-08-20 05:20:41
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-20 05:14:31
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+    [17] => Array
+        (
+            [id] => 37
+            [user_id] => 10126
+            [order_id] => ORDER_1755606531
+            [shiprocket_order_id] => 935755561
+            [shipment_id] => 932205128
+            [awb_code] => 19041789767855
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-19
+            [created_at] => 2025-08-19 12:29:43
+            [updated_at] => 2025-08-19 12:29:43
+        )
+
+    [18] => Array
+        (
+            [id] => 38
+            [user_id] => 10042
+            [order_id] => ORDER_1755667189
+            [shiprocket_order_id] => 936361716
+            [shipment_id] => 932809811
+            [awb_code] => 19041790002996
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-20
+            [created_at] => 2025-08-20 05:20:41
+            [updated_at] => 2025-08-20 05:20:41
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-20 05:14:31
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+    [17] => Array
+        (
+            [id] => 37
+            [user_id] => 10126
+            [order_id] => ORDER_1755606531
+            [shiprocket_order_id] => 935755561
+            [shipment_id] => 932205128
+            [awb_code] => 19041789767855
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-19
+            [created_at] => 2025-08-19 12:29:43
+            [updated_at] => 2025-08-19 12:29:43
+        )
+
+    [18] => Array
+        (
+            [id] => 38
+            [user_id] => 10042
+            [order_id] => ORDER_1755667189
+            [shiprocket_order_id] => 936361716
+            [shipment_id] => 932809811
+            [awb_code] => 19041790002996
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-20
+            [created_at] => 2025-08-20 05:20:41
+            [updated_at] => 2025-08-20 05:20:41
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-20 05:14:31
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+    [17] => Array
+        (
+            [id] => 37
+            [user_id] => 10126
+            [order_id] => ORDER_1755606531
+            [shiprocket_order_id] => 935755561
+            [shipment_id] => 932205128
+            [awb_code] => 19041789767855
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-19
+            [created_at] => 2025-08-19 12:29:43
+            [updated_at] => 2025-08-19 12:29:43
+        )
+
+    [18] => Array
+        (
+            [id] => 38
+            [user_id] => 10042
+            [order_id] => ORDER_1755667189
+            [shiprocket_order_id] => 936361716
+            [shipment_id] => 932809811
+            [awb_code] => 19041790002996
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-20
+            [created_at] => 2025-08-20 05:20:41
+            [updated_at] => 2025-08-20 05:20:41
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [user_id] => 10046
+            [order_id] => ORDER_1754387949
+            [shiprocket_order_id] => 919151230
+            [shipment_id] => 915448924
+            [awb_code] => SF957684225KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 10:02:56
+            [updated_at] => 2025-08-05 10:05:12
+        )
+
+    [1] => Array
+        (
+            [id] => 15
+            [user_id] => 10117
+            [order_id] => ORDER_1754392532
+            [shiprocket_order_id] => 919240807
+            [shipment_id] => 915538323
+            [awb_code] => 19041783797975
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-08
+            [created_at] => 2025-08-05 11:16:12
+            [updated_at] => 2025-08-05 11:16:44
+        )
+
+    [2] => Array
+        (
+            [id] => 16
+            [user_id] => 10118
+            [order_id] => ORDER_1754396936
+            [shiprocket_order_id] => 919326483
+            [shipment_id] => 915623974
+            [awb_code] => SF957683775KR
+            [courier_company] => Shadowfax Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-10
+            [created_at] => 2025-08-05 12:30:57
+            [updated_at] => 2025-08-11 10:03:46
+        )
+
+    [3] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [4] => Array
+        (
+            [id] => 19
+            [user_id] => 10097
+            [order_id] => ORDER_1754479418
+            [shiprocket_order_id] => 920394947
+            [shipment_id] => 916696704
+            [awb_code] => 19041784199440
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 11:23:55
+            [updated_at] => 2025-08-13 05:39:12
+        )
+
+    [5] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [6] => Array
+        (
+            [id] => 21
+            [user_id] => 
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:03:07
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [9] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [10] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [11] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [12] => Array
+        (
+            [id] => 27
+            [user_id] => 10097
+            [order_id] => ORDER_1755063497
+            [shiprocket_order_id] => 928069243
+            [shipment_id] => 924526960
+            [awb_code] => 19041786975813
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:38:48
+            [updated_at] => 2025-08-13 07:29:34
+        )
+
+    [13] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [14] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-20 05:14:31
+        )
+
+    [15] => Array
+        (
+            [id] => 35
+            [user_id] => 10126
+            [order_id] => ORDER_1755088655
+            [shiprocket_order_id] => 928738053
+            [shipment_id] => 925195302
+            [awb_code] => 19041787246223
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-13
+            [created_at] => 2025-08-13 12:38:00
+            [updated_at] => 2025-08-13 12:38:00
+        )
+
+    [16] => Array
+        (
+            [id] => 36
+            [user_id] => 10126
+            [order_id] => ORDER_1755154207
+            [shiprocket_order_id] => 929930943
+            [shipment_id] => 926386894
+            [awb_code] => 19041787529034
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-14
+            [created_at] => 2025-08-14 06:50:38
+            [updated_at] => 2025-08-14 06:50:38
+        )
+
+    [17] => Array
+        (
+            [id] => 37
+            [user_id] => 10126
+            [order_id] => ORDER_1755606531
+            [shiprocket_order_id] => 935755561
+            [shipment_id] => 932205128
+            [awb_code] => 19041789767855
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-19
+            [created_at] => 2025-08-19 12:29:43
+            [updated_at] => 2025-08-19 12:29:43
+        )
+
+    [18] => Array
+        (
+            [id] => 38
+            [user_id] => 10042
+            [order_id] => ORDER_1755667189
+            [shiprocket_order_id] => 936361716
+            [shipment_id] => 932809811
+            [awb_code] => 19041790002996
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-20
+            [created_at] => 2025-08-20 05:20:41
+            [updated_at] => 2025-08-20 05:20:41
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [1] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [2] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [3] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [4] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [5] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [6] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-20 05:14:31
+        )
+
+    [9] => Array
+        (
+            [id] => 38
+            [user_id] => 10042
+            [order_id] => ORDER_1755667189
+            [shiprocket_order_id] => 936361716
+            [shipment_id] => 932809811
+            [awb_code] => 19041790002996
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-20
+            [created_at] => 2025-08-20 05:20:41
+            [updated_at] => 2025-08-20 05:20:41
+        )
+
+    [10] => Array
+        (
+            [id] => 39
+            [user_id] => 10042
+            [order_id] => ORDER_1755669053
+            [shiprocket_order_id] => 936406542
+            [shipment_id] => 932854628
+            [awb_code] => 19041790031431
+            [courier_company] => Shiprocket Surface
+            [current_status] => Out for Pickup
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-26
+            [created_at] => 2025-08-20 05:51:34
+            [updated_at] => 2025-08-20 07:56:32
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [1] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [2] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [3] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [4] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [5] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [6] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-20 05:14:31
+        )
+
+    [9] => Array
+        (
+            [id] => 38
+            [user_id] => 10042
+            [order_id] => ORDER_1755667189
+            [shiprocket_order_id] => 936361716
+            [shipment_id] => 932809811
+            [awb_code] => 19041790002996
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-20
+            [created_at] => 2025-08-20 05:20:41
+            [updated_at] => 2025-08-20 05:20:41
+        )
+
+    [10] => Array
+        (
+            [id] => 39
+            [user_id] => 10042
+            [order_id] => ORDER_1755669053
+            [shiprocket_order_id] => 936406542
+            [shipment_id] => 932854628
+            [awb_code] => 19041790031431
+            [courier_company] => Shiprocket Surface
+            [current_status] => Out for Pickup
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-26
+            [created_at] => 2025-08-20 05:51:34
+            [updated_at] => 2025-08-20 07:56:32
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 17
+            [user_id] => 10042
+            [order_id] => ORDER_1754465625
+            [shiprocket_order_id] => 920112448
+            [shipment_id] => 916409273
+            [awb_code] => 19041784098732
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-12
+            [created_at] => 2025-08-06 07:34:06
+            [updated_at] => 2025-08-11 10:32:31
+        )
+
+    [1] => Array
+        (
+            [id] => 20
+            [user_id] => 10042
+            [order_id] => ORDER_1754897721
+            [shiprocket_order_id] => 925298518
+            [shipment_id] => 921758396
+            [awb_code] => 19041785959866
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-17
+            [created_at] => 2025-08-11 07:37:59
+            [updated_at] => 2025-08-11 10:05:11
+        )
+
+    [2] => Array
+        (
+            [id] => 22
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:05:58
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [3] => Array
+        (
+            [id] => 23
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-11 12:11:28
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [4] => Array
+        (
+            [id] => 24
+            [user_id] => 10042
+            [order_id] => OREDR_1234567
+            [shiprocket_order_id] => 926700739
+            [shipment_id] => 923159725
+            [awb_code] => 19041786599880
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 09:24:36
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [5] => Array
+        (
+            [id] => 25
+            [user_id] => 10042
+            [order_id] => ORDER_1755001326
+            [shiprocket_order_id] => 926981599
+            [shipment_id] => 923440459
+            [awb_code] => 19041786693794
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-12 12:22:41
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [6] => Array
+        (
+            [id] => 26
+            [user_id] => 10042
+            [order_id] => ORDER_1755063287
+            [shiprocket_order_id] => 928064610
+            [shipment_id] => 924522330
+            [awb_code] => 19041786972700
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:35:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [7] => Array
+        (
+            [id] => 28
+            [user_id] => 10042
+            [order_id] => ORDER_1755064616
+            [shiprocket_order_id] => 928103645
+            [shipment_id] => 924561356
+            [awb_code] => 19041786999812
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 05:58:17
+            [updated_at] => 2025-08-13 07:07:09
+        )
+
+    [8] => Array
+        (
+            [id] => 29
+            [user_id] => 10042
+            [order_id] => ORDER_1755065813
+            [shiprocket_order_id] => 928135642
+            [shipment_id] => 924593344
+            [awb_code] => 19041787021862
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-18
+            [created_at] => 2025-08-13 06:17:25
+            [updated_at] => 2025-08-20 05:14:31
+        )
+
+    [9] => Array
+        (
+            [id] => 38
+            [user_id] => 10042
+            [order_id] => ORDER_1755667189
+            [shiprocket_order_id] => 936361716
+            [shipment_id] => 932809811
+            [awb_code] => 19041790002996
+            [courier_company] => Shiprocket Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-20
+            [created_at] => 2025-08-20 05:20:41
+            [updated_at] => 2025-08-20 05:20:41
+        )
+
+    [10] => Array
+        (
+            [id] => 39
+            [user_id] => 10042
+            [order_id] => ORDER_1755669053
+            [shiprocket_order_id] => 936406542
+            [shipment_id] => 932854628
+            [awb_code] => 19041790031431
+            [courier_company] => Shiprocket Surface
+            [current_status] => Canceled
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-26
+            [created_at] => 2025-08-20 05:51:34
+            [updated_at] => 2025-08-20 08:29:35
+        )
+
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 42
+            [user_id] => 10124
+            [order_id] => ORDER_1755771026
+            [shiprocket_order_id] => 937868823
+            [shipment_id] => 934315504
+            [awb_code] => 19041790671625
+            [courier_company] => Delhivery Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-21
+            [created_at] => 2025-08-21 10:10:49
+            [updated_at] => 2025-08-21 10:10:49
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 42
+            [user_id] => 10124
+            [order_id] => ORDER_1755771026
+            [shiprocket_order_id] => 937868823
+            [shipment_id] => 934315504
+            [awb_code] => 19041790671625
+            [courier_company] => Delhivery Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-21
+            [created_at] => 2025-08-21 10:10:49
+            [updated_at] => 2025-08-21 10:10:49
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 42
+            [user_id] => 10124
+            [order_id] => ORDER_1755771026
+            [shiprocket_order_id] => 937868823
+            [shipment_id] => 934315504
+            [awb_code] => 19041790671625
+            [courier_company] => Delhivery Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-21
+            [created_at] => 2025-08-21 10:10:49
+            [updated_at] => 2025-08-21 10:10:49
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 42
+            [user_id] => 10124
+            [order_id] => ORDER_1755771026
+            [shiprocket_order_id] => 937868823
+            [shipment_id] => 934315504
+            [awb_code] => 19041790671625
+            [courier_company] => Delhivery Surface
+            [current_status] => Pickup Generated
+            [track_status] => 1
+            [expected_delivery_date] => 2025-08-21
+            [created_at] => 2025-08-21 10:10:49
+            [updated_at] => 2025-08-21 10:10:49
+        )
+
+)

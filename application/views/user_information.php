@@ -640,6 +640,7 @@
                     <?= $this->session->flashdata('error'); ?>
                 </div>
             <?php endif; ?>
+
             <div class="checkout-form-header">
                 <h2>Checkout Details</h2>
                 <div class="checkout-divider"></div>
@@ -652,7 +653,7 @@
                     <div class="checkout-login-toggle">
                         <h3><i class="checkout-icon">🔒</i> Already have an account?</h3>
                         <div style="display: flex; gap: 10px;">
-                            <button id="loginYesBtn" class="checkout-btn" style="padding: 8px 16px; width: auto; background: #f8f9fa; color: #333; border: 1px solid #ddd;">Yes</button>
+                            <button id="loginYesBtn" class="checkout-btn" style="padding: 8px 16px; width: auto; background: #3498db; color: #333; border: 1px solid #ddd;">Yes</button>
                             <button id="loginNoBtn" class="checkout-btn" style="padding: 8px 16px; width: auto; color: black !important;">No</button>
                         </div>
                     </div>
@@ -979,7 +980,7 @@
                 $("#saveAddressBtn").show();
             <?php endif; ?>
 
-            $("#loginForm").hide();
+            $("#loginForm").show();
             $("#addressCards").hide();
             $("#addNewAddressBtn").hide();
             $("#addressFormContainer").hide();
@@ -1072,9 +1073,6 @@
                 // Set focus to first field
                 $("#first-name").focus();
             });
-
-
-
 
             // Replace the toggle with these buttons
             $("#loginYesBtn").click(function() {

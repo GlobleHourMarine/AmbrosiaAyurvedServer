@@ -226,7 +226,6 @@
         <div class="col-12">
             <div class="card shadow mb-4">
                 <!-- <div class="card-header order-header py-3"> -->
-                <h4 class="m-0 font-weight-bold text-white " style="bckground-color:#eaf2f9;">Orders Management</h4>
                 <!-- </div> -->
 
                 <h5 style="background-color:#eaf2f9;text-align:center;margin:0px;padding:10px 0px;">Orders management</h5>
@@ -254,7 +253,7 @@
                                 <label for="filter-pending">Pending</label>
                             </div>
                             <div class="filter-option">
-                                <input type="radio" id="filter-cancelled" name="order-filter" value="cancelled">
+                                <input type="radio" id="filter-cancelled" name="order-filter" value="Canceled">
                                 <label for="filter-cancelled">Cancelled</label>
                             </div>
                             <div class="filter-option">
@@ -285,9 +284,6 @@
                             </div>
 
                         </div>
-
-
-
                     </div>
 
                     <div class="table-responsive">
@@ -298,7 +294,6 @@
                                     <th>Customer ID</th>
                                     <th>Customer Name</th>
                                     <th>Country</th>
-
                                     <th>Product ID</th>
                                     <th>No. of Products</th>
                                     <th>Product Amount</th>
@@ -326,30 +321,7 @@
                                             <td>Rs.<?php echo number_format($value['product_price'] * 0.12, 2) ?></td>
                                             <td>Rs.<?php echo $value['total_price'] ?></td>
                                             <td><?php echo date('d M Y', strtotime($value['created_at'])) ?></td>
-                                            <td>
-                                                <?php
-                                                switch ($value['status']) {
-                                                    case 0:
-                                                        echo '<span class="status-badge status-cancelled">Cancelled</span>';
-                                                        break;
-                                                    case 1:
-                                                        echo '<span class="status-badge status-pending">Pending</span>';
-                                                        break;
-                                                    case 2:
-                                                        echo '<span class="status-badge status-processing">processing</span>';
-                                                        break;
-                                                    case 3:
-                                                        echo '<span class="status-badge status-rejected">Rejected</span>';
-                                                        break;
-                                                    case 4:
-                                                        echo '<span class="status-badge status-delivered">Delivered</span>';
-                                                        break;
-
-                                                    default:
-                                                        echo '<span class="status-badge status-unknown">Unknown</span>';
-                                                }
-                                                ?>
-                                            </td>
+                                            <td><?php echo $value['current_status'] ? $value['current_status'] : 'No Status'; ?></td>
                                         </tr>
                                     <?php endforeach; ?>
                                 <?php endif; ?>
@@ -394,30 +366,31 @@
                         $.each(response.order_details, function(index, order) {
                             var statusBadgeClass = '';
                             var statusText = '';
-                            switch (parseInt(order.status)) {
-                                case 0:
+                            console.log("Raw status from DB:", order.current_status);
+
+                            let status = order.current_status ? order.current_status.toString().trim().toLowerCase() : '';
+                            console.log("Normalized Status:", status);
+                            switch (status) {
+                                case 'canceled': // works even if DB is "Canceled" or "canceled "
                                     statusBadgeClass = 'status-cancelled';
-                                    statusText = 'Cancelled';
+                                    statusText = 'Canceled';
                                     break;
-                                case 1:
-                                    statusBadgeClass = 'status-pending';
-                                    statusText = 'Pending';
-                                    break;
-                                case 2:
+                                case 'pickup generated':
                                     statusBadgeClass = 'status-processing';
                                     statusText = 'Processing';
                                     break;
-                                case 3:
-                                    statusBadgeClass = 'status-rejected';
-                                    statusText = 'Rejected';
-                                    break;
-                                case 4:
+                                case 'delivered':
                                     statusBadgeClass = 'status-delivered';
                                     statusText = 'Delivered';
                                     break;
+                                case '':
+                                case 'null':
+                                    statusBadgeClass = 'status-pending';
+                                    statusText = 'Pending';
+                                    break;
                                 default:
                                     statusBadgeClass = 'status-unknown';
-                                    statusText = 'Unknown';
+                                    statusText = order.current_status;
                             }
 
                             var gst = (parseFloat(order.product_price) * 0.12).toFixed(2);

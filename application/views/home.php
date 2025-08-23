@@ -770,7 +770,7 @@
         width: 100%;
         height: auto;
         display: flex;
-        background-color: #f1f3fc;
+        background-color: none !important;
         margin-top: 0;
         justify-content: space-between;
         padding: 10px 30px;
@@ -1420,7 +1420,7 @@
     .unique-heading {
         text-align: center;
         /* color: rgb(118, 150, 123); */
-        font-weight: 900;
+        font-weight: 540;
         /* font-family: "Cinzel", serif; */
         /* text-shadow: 2px 2px 10px rgba(124, 187, 124, 0.8), 0 0 15px rgba(34, 139, 34, 0.6), 0 0 20px rgba(0, 255, 127, 0.5); */
         letter-spacing: 3px;
@@ -2187,6 +2187,399 @@
   background-color: #28a745; /* green dot for active */
 }
 
+.product-container2{
+    background-color:transparent !important;
+}
+
+.unique-heading{
+ font-family: source-serif-pro, Georgia, Cambria, "Times New Roman", Times, serif;
+ font-feature-settings: "lnum", "tnum"; /* Lining + tabular numbers */
+}
+
+/* .diagnosis-wrapper {
+    position: fixed;
+    bottom: 24px;
+    left: 24px;
+    z-index: 9999;
+    display: none;
+  } */
+
+  /* Show only on large screens */
+  /* @media (min-width: 1024px) {
+    .diagnosis-wrapper {
+      display: block;
+    }
+  } */
+
+  /* Button styles */
+  /* #freeDiagnosisBtn {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: linear-gradient(to right, #ec4899, #ef4444, #f97316);
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 9999px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    animation: bounce 1s infinite;
+    cursor: pointer;
+  } */
+
+  /* Glow effect */
+  /* #freeDiagnosisBtn span {
+    position: absolute;
+    inset: 0;
+    border-radius: 9999px;
+    background-color: #ec4899;
+    opacity: 0.5;
+    filter: blur(16px);
+    animation: pulse 2s infinite;
+    z-index: -10;
+  } */
+
+  /* Hover effects */
+  /* #freeDiagnosisBtn:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  #freeDiagnosisBtn:hover i {
+    transform: rotate(12deg) scale(1.1);
+  } */
+
+  /* Animations */
+  /* @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 0.5; }
+    50% { opacity: 0.75; }
+  } */
+
+
+
+
+
+
+
+
+        /* ______________________________________________________________________________ */
+ 
+     /* .ingredients-showcase {
+        max-width: 1200px;
+        margin: 50px auto;
+        padding: 0 20px;
+    }
+    
+    .section-header {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    
+    .section-title {
+        font-size: 2.5rem;
+        color: #2c3e50;
+        margin-bottom: 15px;
+        font-weight: 700;
+        position: relative;
+        display: inline-block;
+    }
+    
+    .section-title:after {
+        content: "";
+        position: absolute;
+        bottom: -10px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 80px;
+        height: 4px;
+        background: linear-gradient(90deg, #27ae60, #2ecc71);
+        border-radius: 2px;
+    }
+    
+    .section-subtitle {
+        font-size: 1.1rem;
+        color: #7f8c8d;
+        max-width: 700px;
+        margin: 0 auto;
+        line-height: 1.6;
+    }
+    
+    .ingredients-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 30px;
+    }
+    
+    .ingredient-card {
+        background: white;
+        border-radius: 15px;
+        overflow: hidden;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+        transition: all 0.3s ease;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+    
+    .ingredient-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 15px 40px rgba(0,0,0,0.12);
+    }
+    
+    .ingredient-image {
+        height: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 30px;
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9f5e9 100%);
+    }
+    
+    .ingredient-image img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+        filter: drop-shadow(0 5px 15px rgba(0,0,0,0.1));
+        transition: transform 0.3s ease;
+    }
+    
+    .ingredient-card:hover .ingredient-image img {
+        transform: scale(1.1);
+    }
+    
+    .ingredient-content {
+        padding: 25px;
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .ingredient-name {
+        font-size: 1.4rem;
+        color: #2c3e50;
+        margin-bottom: 10px;
+        font-weight: 600;
+    }
+    
+    .ingredient-benefit {
+        color: #7f8c8d;
+        font-size: 1rem;
+        line-height: 1.6;
+        margin-bottom: 20px;
+        flex-grow: 1;
+    }
+    
+    .ingredient-highlight {
+        background: rgba(46, 204, 113, 0.1);
+        color: #27ae60;
+        padding: 8px 15px;
+        border-radius: 30px;
+        font-size: 0.9rem;
+        font-weight: 600;
+        display: inline-block;
+        align-self: flex-start;
+    }
+    
+    @media (max-width: 768px) {
+        .section-title {
+            font-size: 2rem;
+        }
+        
+        .section-subtitle {
+            font-size: 1rem;
+        }
+        
+        .ingredients-grid {
+            grid-template-columns: 1fr;
+        }
+    } 
+
+ */
+
+    
+    /* ________________________________________________________________________________________ */
+        /* Key Ingredients Compact Style */
+        .ingredients-showcase {
+        max-width: 1200px;
+        margin: 50px auto;
+        padding: 0 20px;
+    }
+    
+    .section-header {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    
+    .section-title {
+        font-size: 2.5rem;
+        color: #2c3e50;
+        margin-bottom: 15px;
+        font-weight: 700;
+        position: relative;
+        display: inline-block;
+        /* text-align:center; */
+    }
+    
+    .section-title:after {
+        content: "";
+        position: absolute;
+        bottom: -10px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 80px;
+        height: 4px;
+        background: linear-gradient(90deg, #27ae60, #2ecc71);
+        border-radius: 2px;
+    }
+    
+    .section-subtitle {
+        font-size: 1.1rem;
+        color: #7f8c8d;
+        max-width: 700px;
+        margin: 0 auto;
+        line-height: 1.6;
+    }
+    .ingredients-compact {
+        max-width: 1200px;
+        margin: 30px auto;
+        padding: 0 20px;
+        
+    }
+    
+    .ingredients-grid-compact {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+        margin-top: 30px;
+    }
+    
+   .ingredient-card-compact {
+    display: flex;
+    flex-direction: column;   /* content ko upar se niche arrange karega */
+    justify-content: space-between; 
+    border: 1px solid #eee;
+    border-radius: 10px;
+    overflow: hidden;
+    min-height: 280px;        /* sabhi cards ki same height rakhne ke liye */
+}
+    
+    .ingredient-card-compact:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+    }
+    
+    .ingredient-image-compact {
+        height: 120px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 15px;
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9f5e9 100%);
+    }
+    
+    .ingredient-image-compact img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+        filter: drop-shadow(0 3px 8px rgba(0,0,0,0.1));
+        transition: transform 0.3s ease;
+    }
+    
+    .ingredient-card-compact:hover .ingredient-image-compact img {
+        transform: scale(1.05);
+    }
+    
+   .ingredient-content-compact {
+    flex: 1;                  /* remaining space le */
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+    .ingredient-name-compact {
+        font-size: 1rem;
+        color: #2c3e50;
+        margin-bottom: 8px;
+        font-weight: 600;
+    }
+    
+ .ingredient-benefit-compact {
+    flex-grow: 1;             /* description jitna ho utna expand hoga */
+    margin-bottom: 12px;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    color: #7f8c8d;
+}
+
+.ingredient-highlight-compact {
+    margin-top: auto;         /* hamesha content ke neeche chipka rahe */
+    background: rgba(46, 204, 113, 0.1);
+    color: #27ae60;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    display: inline-block;
+}
+    
+    @media (max-width: 768px) {
+        .ingredients-grid-compact {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+    
+    @media (max-width: 480px) {
+        .ingredients-grid-compact {
+            grid-template-columns: 1fr;
+        }
+    }
+ .main-imp-heading {
+    margin: 20px auto 0 auto;
+    width: 100%;
+    max-width: 1200px; /* optional, content ke liye limit */
+    text-align: center;
+    padding: 0 10px; /* chhoti screen pe space ke liye */
+}
+#dot-navbar {
+  position: fixed;
+  left: 20px;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  z-index: 1000;
+}
+
+#dot-navbar a {
+  width: 14px;
+  height: 14px;
+  background-color: #ccc;
+  border-radius: 50%;
+  display: block;
+  transition: all 0.3s ease;
+}
+
+#dot-navbar a.active {
+  transform: scale(1.8);
+  background-color: green;
+}
+html {
+  scroll-behavior: smooth;
+}
+#Slider,
+    #ingredients-compact,
+    #whychooseus,
+    #newslatest,
+    #ourCertifications {
+      scroll-margin-top: 80px; 
+    }
 </style>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet" />
 <!-- <script>
@@ -2221,6 +2614,16 @@ if (empty($user_id)) {
     </div>
 <?php endif; ?>
 
+<!-- -----------------------------Start---------------------------------------------- -->
+<div id="dot-navbar" style="top: 75%" !important>
+  <a href="Slider" data-section="Slider"></a>
+  <a href="ingredients-compact" data-section="ingredients-compact"></a>
+  <a href="whychooseus" data-section="whychooseus"></a>
+  <a href="newslatest" data-section="newslatest"></a>
+</div>
+
+<!-- ------------------------------End----------------------------------------------- -->
+
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" style="margin-top:30px;">
   
   <!-- Indicators -->
@@ -2233,7 +2636,7 @@ if (empty($user_id)) {
   </div>
 
   <!-- Slides -->
-  <div class="carousel-inner">
+  <div id="Slider" data-section="Slider" class="carousel-inner">
     <div class="carousel-item active">
       <img src="<?php echo base_url('/assets/images/S01.webp') ?>" class="d-none d-md-block w-100" alt="carousel-image" />
       <img src="<?php echo base_url('/assets/images/phone01.webp') ?>" class="d-block d-md-none w-100" alt="carousel-image" />
@@ -2268,18 +2671,35 @@ if (empty($user_id)) {
  
 </div>
 
+
 <div class="floating-order-btnnn">
     <a style="background-color:green;" href="<?php echo base_url('our_products'); ?>" class="order-now-btn   order-product-now"> <i class="fas fa-shopping-cart"></i> Order Now </a>
 </div>
 
+<!-- <div class="diagnosis-wrapper">
+  <button id="freeDiagnosisBtn">
+    <span></span>
+    <img src="https://p7.hiclipart.com/preview/14/65/239/ico-avatar-scalable-vector-graphics-icon-doctor-with-stethoscope.jpg" style="width: 40px; height: 40px; border-radius: 45px" />
+    Free Diagnosis Test
+  </button>
+</div> -->
+
+
+
 <!-- <div style="width: 100%; height: auto; background-color: rgb(242, 248, 244); margin-bottom: 0px; border: 2px solid rgb(242, 248, 244); margin-top: 10px;"> -->
-<h1 class="unique-heading" style="font-size:23px;padding-bottom:0px !important;">Goodbye Diabetes with A5 Herbal Supplement </h1>
+<div style="" class="main-imp-heading">
+<h1 class="section-title" style="font-size: 1.6rem;">Goodbye Diabetes with A5 Herbal Supplement </h1>
+
+</div>
 <!-- <div class="underlinee" style="margin-bottom: 0px;background-color:transparent !important;"></div> -->
 <!-- </div>  -->
-
+<!-- <div class="section-header"> -->
+        <!-- <h3 class="section-title" style="font-size:27px;text-align:center;margin-bottom:0px !important;margin-top:20px !important;">Goodbye Diabietes with A5 Herbal Supplements</h3> -->
+        <!-- <p class="section-subtitle">Our formula combines 25+ scientifically-backed herbs and botanicals for comprehensive wellness support</p> -->
+    <!-- </div> -->
 <div class="product-container1" style="background-color: #f5f5f5; margin-top: 0px; padding: 20px;">
   <div class="texttt" style="margin-bottom: 25px;">
-    <p class="target-pharagraph" style="text-align: left; font-size: 16px; line-height: 1.6; margin-bottom: 10px;">
+    <p class="target-pharagraph" style="text-align: left; font-size: 16px; line-height: 1.6; margin-bottom: 10px; ">
       A5 Herbal Supplement isn’t just another Ayurvedic product — it’s a thoughtfully formulated wellness blend powered by
       <b>25+ rare herbs from India and Malaysia.</b> Unlike conventional approaches that often manage only sugar levels, A5 supports your body’s natural ability to maintain balance and vitality — without chemicals or artificial additives.
     </p>
@@ -2299,7 +2719,165 @@ if (empty($user_id)) {
   </div>
 </div>
 
-<h3 class=" unique-heading " style="font-size:22px;margin-top:0px !important;padding-top:0px !important;margin-bottom:15px !important;">Key Ingredients of A5 Herbal Supplement</h3>
+<!-- ########################################################################################## -->
+<!-- <div class="ingredients-showcase">
+    <div class="section-header">
+        <h2 class="section-title">Powerful Natural Ingredients</h2>
+        <p class="section-subtitle">Our formula combines 25+ scientifically-backed herbs and botanicals for comprehensive wellness support</p>
+    </div>
+    
+    <div class="ingredients-grid">
+        <div class="ingredient-card">
+            <div class="ingredient-image">
+                <img src="<?php echo base_url('/assets/images/Gudmar.webp') ?>" loading="lazy" alt="Gymnema" />
+            </div>
+            <div class="ingredient-content">
+                <h3 class="ingredient-name">Gymnema Sylvestre</h3>
+                <p class="ingredient-benefit">Known as the "sugar destroyer," this herb helps regulate blood sugar levels and supports healthy insulin function by reducing sugar cravings and absorption in the intestines.</p>
+                <span class="ingredient-highlight">Blood Sugar Support</span>
+            </div>
+        </div>
+        
+        <div class="ingredient-card">
+            <div class="ingredient-image">
+                <img src="<?php echo base_url('/assets/images/Jamun.webp') ?>" loading="lazy" alt="Java Plum" />
+            </div>
+            <div class="ingredient-content">
+                <h3 class="ingredient-name">Java Plum (Jamun)</h3>
+                <p class="ingredient-benefit">Rich in antioxidants and jamboline, this fruit helps control the conversion of starch into sugar and supports pancreatic health for natural glucose regulation.</p>
+                <span class="ingredient-highlight">Antioxidant Rich</span>
+            </div>
+        </div>
+        
+        <div class="ingredient-card">
+            <div class="ingredient-image">
+                <img src="<?php echo base_url('/assets/images/Bitter Gourd.webp') ?>" loading="lazy" alt="Bitter Gourd" />
+            </div>
+            <div class="ingredient-content">
+                <h3 class="ingredient-name">Bitter Gourd (Karela)</h3>
+                <p class="ingredient-benefit">Contains charantin and polypeptide-p which work together to naturally lower blood sugar levels and improve glucose metabolism throughout the body.</p>
+                <span class="ingredient-highlight">Metabolism Booster</span>
+            </div>
+        </div>
+        
+        <div class="ingredient-card">
+            <div class="ingredient-image">
+                <img src="<?php echo base_url('/assets/images/Neemm.webp') ?>" loading="lazy" alt="Azadirachta" />
+            </div>
+            <div class="ingredient-content">
+                <h3 class="ingredient-name">Neem (Azadirachta)</h3>
+                <p class="ingredient-benefit">This powerful herb supports immune function while helping to regulate blood sugar levels and improve insulin sensitivity through its active compounds.</p>
+                <span class="ingredient-highlight">Immune Support</span>
+            </div>
+        </div>
+        
+        <div class="ingredient-card">
+            <div class="ingredient-image">
+                <img src="<?php echo base_url('/assets/images/s5.webp') ?>" loading="lazy" alt="Indian Gooseberry" />
+            </div>
+            <div class="ingredient-content">
+                <h3 class="ingredient-name">Indian Gooseberry (Amla)</h3>
+                <p class="ingredient-benefit">Packed with vitamin C and chromium, amla helps control blood sugar spikes after meals while supporting overall health with its antioxidant properties.</p>
+                <span class="ingredient-highlight">Antioxidant Powerhouse</span>
+            </div>
+        </div>
+        
+        <div class="ingredient-card">
+            <div class="ingredient-image">
+                <img src="<?php echo base_url('/assets/images/Holy Basil.webp') ?>" loading="lazy" alt="King's Salad" />
+            </div>
+            <div class="ingredient-content">
+                <h3 class="ingredient-name">Holy Basil (Tulsi)</h3>
+                <p class="ingredient-benefit">Known as the "Queen of Herbs," tulsi helps lower blood sugar levels, reduces stress (which can impact glucose levels), and supports metabolic health.</p>
+                <span class="ingredient-highlight">Stress & Sugar Control</span>
+            </div>
+        </div>
+    </div>
+</div> -->
+  
+<div id="ingredients-compact" class="ingredients-compact">
+    <!-- <h2 class="unique-heading" style="font-size:22px;margin-bottom:15px;">Key Ingredients of A5 Herbal Supplement</h2> -->
+     <div class="section-header">
+        <h2 class="section-title">Powerful Natural Ingredients</h2>
+        <p class="section-subtitle">Our formula combines 25+ scientifically-backed herbs and botanicals for comprehensive wellness support</p>
+    </div>
+    <div class="ingredients-grid-compact">
+        <!-- Ingredient 1 -->
+        <div class="ingredient-card-compact">
+            <div class="ingredient-image-compact">
+                <img src="<?php echo base_url('/assets/images/Gudmar.webp') ?>" loading="lazy" alt="Gymnema" />
+            </div>
+            <div class="ingredient-content-compact">
+                <h3 class="ingredient-name-compact">Gymnema Sylvestre</h3>
+                <p class="ingredient-benefit-compact">Helps regulate blood sugar levels and supports insulin function.</p>
+                <span class="ingredient-highlight-compact">Sugar Balance</span>
+            </div>
+        </div>
+        
+        <!-- Ingredient 2 -->
+        <div class="ingredient-card-compact">
+            <div class="ingredient-image-compact">
+                <img src="<?php echo base_url('/assets/images/Jamun.webp') ?>" loading="lazy" alt="Java Plum" />
+            </div>
+            <div class="ingredient-content-compact">
+                <h3 class="ingredient-name-compact">Java Plum</h3>
+                <p class="ingredient-benefit-compact">Controls sugar conversion and supports pancreatic health.</p>
+                <span class="ingredient-highlight-compact">Antioxidant</span>
+            </div>
+        </div>
+        
+        <!-- Ingredient 3 -->
+        <div class="ingredient-card-compact">
+            <div class="ingredient-image-compact">
+                <img src="<?php echo base_url('/assets/images/Bitter Gourd.webp') ?>" loading="lazy" alt="Bitter Gourd" />
+            </div>
+            <div class="ingredient-content-compact">
+                <h3 class="ingredient-name-compact">Bitter Gourd</h3>
+                <p class="ingredient-benefit-compact">Naturally lowers blood sugar and boosts metabolism.</p>
+                <span class="ingredient-highlight-compact">Metabolism</span>
+            </div>
+        </div>
+        
+        <!-- Ingredient 4 -->
+        <div class="ingredient-card-compact">
+            <div class="ingredient-image-compact">
+                <img src="<?php echo base_url('/assets/images/Neemm.webp') ?>" loading="lazy" alt="Azadirachta" />
+            </div>
+            <div class="ingredient-content-compact">
+                <h3 class="ingredient-name-compact">Neem</h3>
+                <p class="ingredient-benefit-compact">Balances blood sugar and strengthens immunity.</p>
+                <span class="ingredient-highlight-compact">Immunity</span>
+            </div>
+        </div>
+        
+        <!-- Ingredient 5 -->
+        <div class="ingredient-card-compact">
+            <div class="ingredient-image-compact">
+                <img src="<?php echo base_url('/assets/images/s5.webp') ?>" loading="lazy" alt="Indian Gooseberry" />
+            </div>
+            <div class="ingredient-content-compact">
+                <h3 class="ingredient-name-compact">Indian Gooseberry</h3>
+                <p class="ingredient-benefit-compact">Rich in antioxidants, controls sugar absorption.</p>
+                <span class="ingredient-highlight-compact">Antioxidant</span>
+            </div>
+        </div>
+        
+        <!-- Ingredient 6 -->
+        <!-- <div class="ingredient-card-compact">
+            <div class="ingredient-image-compact">
+                <img src="<?php echo base_url('/assets/images/Holy Basil.webp') ?>" loading="lazy" alt="Holy Basil" />
+            </div>
+            <div class="ingredient-content-compact">
+                <h3 class="ingredient-name-compact">Holy Basil</h3>
+                <p class="ingredient-benefit-compact">Regulates blood sugar and reduces stress.</p>
+                <span class="ingredient-highlight-compact">Stress Relief</span>
+            </div>
+        </div> -->
+    </div>
+</div>
+<!-- ########################################################################################## -->
+
+<!-- <h3 class=" unique-heading " style="font-size:22px;margin-top:0px !important;padding-top:0px !important;margin-bottom:15px !important;">Key Ingredients of A5 Herbal Supplement</h3>
 <div class="product-container2" style="margin-bottom: 10px; padding: 5px 0px;">
     <div class="imag" style="margin-top: 0px;">
         <img src="<?php echo base_url('/assets/images/left.webp') ?>" loading="lazy" class="d-block w-80" alt="Ingredients" />
@@ -2377,7 +2955,7 @@ if (empty($user_id)) {
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <div class="about-area" style="padding: 0px !important;padding-bottom:30px !important;">
     <div class="child-1">
         <img class="child1" src="<?php echo base_url('/assets/images/our-services15.webp') ?>" loading="lazy" class="d-block w-100" alt="Ingredients" />
@@ -2396,7 +2974,7 @@ if (empty($user_id)) {
 
     </div>
 </div>
-<div class="container-fluid text-center" style="background-color: #f5f5f5; width: 100% !important; margin: auto;">
+<div id="whychooseus" class="container-fluid text-center" style="background-color: #f5f5f5; width: 100% !important; margin: auto;">
     <h4 class="unique-heading" style="background-color: #f5f5f5 !important;padding-bottom:5px !important;padding-top:30px !important;">Why Choose Us?</h4>
     <p class="choice">Experience the best with our unique offerings</p>
     <div class="row justify-content-center">
@@ -2439,6 +3017,7 @@ if (empty($user_id)) {
     </div>
 </div>
 
+<div id="newslatest" >
 <section id="latest-blogs" style="padding: 40px; background: #f9f9f9;">
     <div style="max-width: 1100px; margin: auto;">
         <h2 style="text-align: center; font-size: 2em;  font-weight: bold;background-color:none;" class="unique-heading">Latest Blogs</h2>
@@ -2448,6 +3027,7 @@ if (empty($user_id)) {
         </div>
     </div>
 </section>
+</div>
 <!-- Owl Carousel Script -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous"></script>
@@ -2460,8 +3040,8 @@ if ($uri == 'home' || $uri == '') { // Adjust 'home' if your homepage route is d
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "Ambrosia Ayurveda",
-            "url": "https://ambrosiaayurved.in",
-            "logo": "https://ambrosiaayurved.in/assets/images/new_logo11.webp",
+            "url": "https://test.ambrosiaayurved.in",
+            "logo": "https://test.ambrosiaayurved.in/assets/images/new_logo11.webp",
             "sameAs": [
                 "https://www.instagram.com/ambrosia.ayurved/",
                 "https://www.facebook.com/profile.php?id=61575172705272"
@@ -2573,7 +3153,9 @@ if ($uri == 'home' || $uri == '') { // Adjust 'home' if your homepage route is d
             posts.slice(0, 6).forEach(post => {
                 const title = post.title.rendered;
                 const link = post.link;
-                const excerpt = post.excerpt.rendered.replace(/<[^>]+>/g, '').substring(0, 130);
+                const excerpt = (post.excerpt?.rendered || post.content?.rendered || "")
+                    .replace(/<[^>]+>/g, '')
+                    .substring(0, 130);
                 const date = new Date(post.date).toDateString();
                 const image = post._embedded['wp:featuredmedia']?.[0]?.source_url || "https://via.placeholder.com/400x200?text=No+Image";
 
@@ -2617,4 +3199,69 @@ if ($uri == 'home' || $uri == '') { // Adjust 'home' if your homepage route is d
             console.error("Error loading blogs:", err);
             document.getElementById("blog-posts").innerHTML = "<p>Unable to load latest blogs right now.</p>";
         });
+
+
+        // --------------------------- Highlights
+        const sections = document.querySelectorAll(
+  "#Slider, #ingredients-compact, #whychooseus, #newslatest, #ourCertifications"
+);
+const navLinks = document.querySelectorAll("#dot-navbar a");
+
+// Smooth Scroll Without URL Hash
+navLinks.forEach(link => {
+  link.addEventListener("click", (e) => {
+    e.preventDefault(); // Stop URL hash update
+    const targetSection = document.getElementById(link.dataset.section);
+    targetSection.scrollIntoView({ behavior: "smooth" });
+  });
+});
+
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      let id = entry.target.id;
+      navLinks.forEach((link) => {
+        link.classList.remove("active");
+        if (link.dataset.section === id) {
+          link.classList.add("active");
+        }
+      });
+    }
+  });
+}, { threshold: 0.3 });
+
+sections.forEach((section) => observer.observe(section));
+
+
+
+        //  document.addEventListener("DOMContentLoaded", () => {
+    // const btn = document.getElementById("freeDiagnosisBtn");
+    // const icon = document.getElementById("stethoscopeIcon");
+
+    // Click Event
+    // btn.addEventListener("click", () => {
+    //   window.location.href = "/free-diagnosis";
+    // });
+
+    // Hover In
+    // btn.addEventListener("mouseenter", () => {
+    //   btn.style.transform = "scale(1.1)";
+    //   btn.style.boxShadow = "0 8px 16px rgba(0,0,0,0.2)";
+    //   icon.style.transform = "rotate(12deg) scale(1.1)";
+    // });
+
+    // Hover Out
+//     btn.addEventListener("mouseleave", () => {
+//       btn.style.transform = "scale(1)";
+//       btn.style.boxShadow = "0 4px 6px rgba(0,0,0,0.1)";
+//       icon.style.transform = "rotate(0deg) scale(1)";
+//     });
+//   });
+
+
+//   lucide.createIcons();
+
+//   document.getElementById("freeDiagnosisBtn").addEventListener("click", () => {
+//     window.location.href = "/free_diagnosis"; 
+//   });
 </script>

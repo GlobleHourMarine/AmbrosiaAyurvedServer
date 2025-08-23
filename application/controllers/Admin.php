@@ -58,6 +58,8 @@ class admin extends CI_Controller
 
         $email = $this->input->post('email');
         $password = $this->input->post('password');
+        file_put_contents(APPPATH . 'logs/test/Admin_login.log', print_r($email, true), FILE_APPEND);
+        file_put_contents(APPPATH . 'logs/test/Admin_Password.log', print_r($password, true), FILE_APPEND);
         $res = $this->admin_model->check_data('admin_table', $email);
 
         if (!empty($res) && $res->password === $password) {

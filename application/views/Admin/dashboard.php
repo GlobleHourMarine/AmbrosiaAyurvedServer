@@ -358,7 +358,7 @@
 
         /* Point styling handled in JS config */
     </style>
-    
+
     <!-- Main Content -->
     <div class="container-fluid p-4">
         <div class="content-container">
@@ -703,6 +703,7 @@
 
     <script>
         let chart;
+        let cachedData = {}; // cache results so we don’t refetch same type again
 
         function setActiveButton(type) {
             $("#btn-daily, #btn-weekly, #btn-monthly, #btn-yearly").removeClass("active");
@@ -712,6 +713,12 @@
         function loadChartData(type = 'monthly') {
             setActiveButton(type);
 
+            // ✅ if data already cached, just update chart without AJAX
+            if (cachedData[type]) {
+                updateChart(cachedData[type]);
+                return;
+            }
+
             $.ajax({
                 url: '<?= base_url("admin_dashboard/get_sales_data") ?>',
                 method: 'POST',
@@ -720,91 +727,8 @@
                 },
                 dataType: 'json',
                 success: function(response) {
-                    const labels = response.labels || [];
-                    const data = response.data || [];
-
-                    const ctx = document.getElementById('salesChart').getContext('2d');
-
-                    if (chart) {
-                        chart.destroy();
-                    }
-
-                    chart = new Chart(ctx, {
-                        type: 'line',
-                        data: {
-                            labels: labels,
-                            datasets: [{
-                                label: 'Sales',
-                                data: data,
-                                borderColor: '#6610f2',
-                                backgroundColor: 'rgba(102, 16, 242, 0.2)',
-                                fill: true,
-                                tension: 0.4,
-                                borderWidth: 3,
-                                pointBackgroundColor: '#fff',
-                                pointBorderColor: '#6610f2',
-                                pointHoverBackgroundColor: '#6610f2',
-                                pointHoverBorderColor: '#fff',
-                                pointRadius: 5,
-                                pointHoverRadius: 7
-                            }]
-                        },
-                        options: {
-                            responsive: true,
-                            maintainAspectRatio: false,
-                            animation: {
-                                duration: 1000,
-                                easing: 'easeInOutQuart'
-                            },
-                            plugins: {
-                                legend: {
-                                    display: true,
-                                    labels: {
-                                        color: '#343a40',
-                                        font: {
-                                            size: 14,
-                                            weight: 'bold'
-                                        }
-                                    }
-                                },
-                                tooltip: {
-                                    backgroundColor: '#343a40',
-                                    titleColor: '#fff',
-                                    bodyColor: '#f8f9fa',
-                                    borderColor: '#6610f2',
-                                    borderWidth: 1
-                                }
-                            },
-                            scales: {
-                                x: {
-                                    grid: {
-                                        color: '#dee2e6'
-                                    },
-                                    ticks: {
-                                        color: '#495057',
-                                        font: {
-                                            weight: '500'
-                                        }
-                                    }
-                                },
-                                y: {
-                                    beginAtZero: true,
-                                    grid: {
-                                        color: '#dee2e6'
-                                    },
-                                    ticks: {
-                                        color: '#495057',
-                                        font: {
-                                            weight: '500'
-                                        },
-                                        callback: function(value) {
-                                            return 'Rs. ' + value.toLocaleString();
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    });
+                    cachedData[type] = response; // cache the response
+                    updateChart(response);
                 },
                 error: function(xhr, status, error) {
                     console.error('Chart load failed:', error);
@@ -813,11 +737,102 @@
             });
         }
 
-        // Ensure DOM is ready before loading chart
+        function updateChart(response) {
+            const labels = response.labels || [];
+            const data = response.data || [];
+
+            if (chart) {
+                // ✅ Just update chart data, don’t destroy it
+                chart.data.labels = labels;
+                chart.data.datasets[0].data = data;
+                chart.update();
+            } else {
+                const ctx = document.getElementById('salesChart').getContext('2d');
+                chart = new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: 'Sales',
+                            data: data,
+                            borderColor: '#6610f2',
+                            backgroundColor: 'rgba(102, 16, 242, 0.2)',
+                            fill: true,
+                            tension: 0.4,
+                            borderWidth: 3,
+                            pointBackgroundColor: '#fff',
+                            pointBorderColor: '#6610f2',
+                            pointHoverBackgroundColor: '#6610f2',
+                            pointHoverBorderColor: '#fff',
+                            pointRadius: 5,
+                            pointHoverRadius: 7
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        animation: {
+                            duration: 400, // ⏳ faster animation
+                            easing: 'easeInOutQuart'
+                        },
+                        plugins: {
+                            legend: {
+                                display: true,
+                                labels: {
+                                    color: '#343a40',
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                }
+                            },
+                            tooltip: {
+                                backgroundColor: '#343a40',
+                                titleColor: '#fff',
+                                bodyColor: '#f8f9fa',
+                                borderColor: '#6610f2',
+                                borderWidth: 1
+                            }
+                        },
+                        scales: {
+                            x: {
+                                grid: {
+                                    color: '#dee2e6'
+                                },
+                                ticks: {
+                                    color: '#495057',
+                                    font: {
+                                        weight: '500'
+                                    }
+                                }
+                            },
+                            y: {
+                                beginAtZero: true,
+                                grid: {
+                                    color: '#dee2e6'
+                                },
+                                ticks: {
+                                    color: '#495057',
+                                    font: {
+                                        weight: '500'
+                                    },
+                                    callback: function(value) {
+                                        return 'Rs. ' + value.toLocaleString();
+                                    }
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+        }
+
+        // Load monthly chart on page load
         document.addEventListener('DOMContentLoaded', function() {
             loadChartData('monthly');
         });
     </script>
+
 
 
 

@@ -270,10 +270,40 @@
     from { transform: translateX(0); }
     to { transform: translateX(-50%); }
 }
+#dot-navbar {
+  position: fixed;
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  z-index: 1000;
+}
+
+#dot-navbar a {
+  width: 14px;
+  height: 14px;
+  background-color: #ccc;
+  border-radius: 50%;
+  display: block;
+  transition: all 0.3s ease;
+}
+
+#dot-navbar a.active {
+  transform: scale(1.8);
+  background-color: green;
+}
+html {
+  scroll-behavior: smooth;
+}
+#ourCertifications {
+      scroll-margin-top: 80px; 
+    }
 </style>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Nunito:wght@400;600&family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
 
-<div class="amb-certified-section1">
+<div id="ourCertifications" class="amb-certified-section1">
     <div class="certification-title-wrapper">
         <h4 class="certification-title">Our Certifications &amp; Accreditations</h4>
     </div>
@@ -655,13 +685,13 @@
     });
 
     // Auto Scroll Carousel
-    setInterval(() => {
-        const carousel = document.getElementById('certCarousel');
-        carousel.scrollBy({left: 200, behavior: 'smooth'});
-        if (carousel.scrollLeft + carousel.clientWidth >= carousel.scrollWidth) {
-            carousel.scrollTo({left: 0, behavior: 'smooth'});
-        }
-    }, 2500);
+    // setInterval(() => {
+    //     const carousel = document.getElementById('certCarousel');
+    //     carousel.scrollBy({left: 200, behavior: 'smooth'});
+    //     if (carousel.scrollLeft + carousel.clientWidth >= carousel.scrollWidth) {
+    //         carousel.scrollTo({left: 0, behavior: 'smooth'});
+    //     }
+    // }, 2500);
 
 let marqueeTrack = document.getElementById("marqueeTrack");
 
@@ -674,6 +704,5 @@ function manualScroll(direction) {
         marqueeTrack.style.transform = "translateX(0)";
     }, 500);
 }
-
 </script>
 </html>
