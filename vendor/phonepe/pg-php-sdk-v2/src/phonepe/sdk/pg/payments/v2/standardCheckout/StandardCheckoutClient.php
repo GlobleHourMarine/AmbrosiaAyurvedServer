@@ -164,11 +164,7 @@ class StandardCheckoutClient
 	 */
 	public function verifyCallbackResponse($headers, $body, $username, $password) {
 		try{
-			if (!isset($headers['authorization'])) {
-				throw new PhonePeException("Missing authorization header in callback response");
-			}
 			$authorization = $headers['authorization'];
-
 			$string_to_be_hashed = $username . ":" . $password;
 			if($authorization !== hash('sha256', $string_to_be_hashed))
 				throw new PhonePeException("Invalid callback");

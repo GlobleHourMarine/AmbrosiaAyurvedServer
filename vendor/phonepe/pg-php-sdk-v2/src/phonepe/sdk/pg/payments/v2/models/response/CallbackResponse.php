@@ -17,8 +17,7 @@ class CallbackResponse implements \JsonSerializable
 
 	public static function getInstance($body): CallbackResponse
 	{
-		// $obj = json_decode($body);
-		$obj = is_string($body) ? json_decode($body) : (object)$body;
+		$obj = json_decode($body);
 		$mapper = new JsonMapper();
 		$callbackResponse = $mapper->map($obj, new CallbackResponse());
 		return $callbackResponse;

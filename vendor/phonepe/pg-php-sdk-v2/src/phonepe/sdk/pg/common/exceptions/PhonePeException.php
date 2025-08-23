@@ -22,15 +22,14 @@ class PhonePeException extends Exception
 	 * @param mixed $data optional
 	 * @param Throwable|null $previous optional
 	 */
-public function __construct($message, $code = 0, $httpStatusCode = null, $data = [], ?\Throwable $previous = null)
-{
-    parent::__construct($message, $code ?? 0, $previous);
-    $this->httpStatusCode = $httpStatusCode;
-    $this->message = $message;
-    $this->code = $code;
-    $this->data = $data;
-}
-
+	public function __construct( $message = '', $httpStatusCode = 0 , $code = 0, $data = null, Throwable $previous = null)
+	{
+		parent::__construct($message, $httpStatusCode, $previous);
+		$this->httpStatusCode = $httpStatusCode;
+		$this->message = $message;
+		$this->code = $code;
+		$this->data = $data;
+	}
 
 	public function getHttpStatusCode(): mixed
 	{

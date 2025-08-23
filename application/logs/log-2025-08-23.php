@@ -75,3 +75,13 @@ ERROR - 2025-08-23 06:10:38 --> 404 Page Not Found -->
 ERROR - 2025-08-23 06:12:10 --> 404 Page Not Found --> 
 ERROR - 2025-08-23 06:13:29 --> 404 Page Not Found --> 
 ERROR - 2025-08-23 06:16:20 --> 404 Page Not Found --> 
+ERROR - 2025-08-23 08:26:05 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it C:\Release\system\database\drivers\mysqli\mysqli_driver.php 211
+ERROR - 2025-08-23 08:26:05 --> Unable to connect to the database
+ERROR - 2025-08-23 08:26:08 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it C:\Release\system\database\drivers\mysqli\mysqli_driver.php 211
+ERROR - 2025-08-23 08:26:08 --> Unable to connect to the database
+ERROR - 2025-08-23 08:27:56 --> Severity: Warning --> require(C:\Release\vendor\composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory C:\Release\vendor\composer\autoload_real.php 41
+ERROR - 2025-08-23 08:27:56 --> Severity: error --> Exception: Failed opening required 'C:\Release\vendor\composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='C:\xampp\php\PEAR') C:\Release\vendor\composer\autoload_real.php 41
+ERROR - 2025-08-23 08:28:11 --> Severity: Warning --> require(C:\Release\vendor\composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory C:\Release\vendor\composer\autoload_real.php 41
+ERROR - 2025-08-23 08:28:11 --> Severity: error --> Exception: Failed opening required 'C:\Release\vendor\composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='C:\xampp\php\PEAR') C:\Release\vendor\composer\autoload_real.php 41
+ERROR - 2025-08-23 08:30:36 --> Severity: Warning --> require(C:\Release\vendor\composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory C:\Release\vendor\composer\autoload_real.php 41
+ERROR - 2025-08-23 08:30:36 --> Severity: error --> Exception: Failed opening required 'C:\Release\vendor\composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='C:\xampp\php\PEAR') C:\Release\vendor\composer\autoload_real.php 41
